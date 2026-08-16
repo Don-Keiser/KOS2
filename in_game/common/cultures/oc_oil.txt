@@ -1,0 +1,60 @@
+﻿
+
+rochelaes = { 
+	language = rochelaes_dialect
+	
+	color = map_rochelaes
+	
+	tags = { french_gfx western_european_gfx european_gfx }
+
+	opinions = {
+		creissent = kindred
+		daufines = kindred
+		berrichon = positive
+		gallo = kindred
+		french = positive
+	}
+	
+	culture_groups = {
+		transitional_group
+	}
+}
+
+creissent = { 
+	language = creissent_dialect
+	
+	color = map_creissent
+	
+	tags = { french_gfx western_european_gfx european_gfx }
+
+	opinions = {
+		rochelaes = kindred
+		daufines = kindred
+		berrichon = kindred
+		french = positive
+	}
+	
+	culture_groups = {
+		transitional_group
+	}
+}
+
+daufines = { 
+	language = daufines_dialect
+	
+	color = map_daufines
+	
+	tags = { french_gfx western_european_gfx european_gfx }
+
+	opinions = {
+		rochelaes = kindred
+		creissent = kindred
+		berrichon = kindred
+		french = positive
+	}
+	
+	culture_groups = {
+		transitional_group
+		alpine_group
+	}
+}
