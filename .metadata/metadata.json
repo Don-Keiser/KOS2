@@ -1,0 +1,11 @@
+﻿{
+	"name":	"KOS",
+	"id":	"KOS2",
+	"version":	"0.1",
+	"supported_game_version":	"1.3",
+	"short_description":	"Night Falls on the 14th century.",
+	"tags":	["Alternative history"],
+	"relationships":	[],
+	"game_custom_data":	{
+}
+}
