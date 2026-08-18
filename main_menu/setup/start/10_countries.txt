@@ -17,47 +17,7 @@ countries = {
 
 	SWE = {
 		own_control_core = {
-
-			stockholm norrtalje nykoping arboga kastelholm
-			enkoping uppsala kolmarden soderkoping norrkoping
-			linkoping alvastra vadstena strangnas tierp
-			heby vasteras oppunda nora sala orebro riseberga
-			goksholm skinskatteberg sodertalje linde grythyttan
-
-			tjust sevede handbord kalmar kinda jonkoping oland
-			vallsjo vetlanda albo konga vaxjo uppvidinge ljungby trollaborg waestbo
-			hjo tiveden vartofta skara lodose utlandet ekholm falkoping allingsas bogesund lidkoping skene
-
-			visby slite hoborg
-			gefle hedesunda hamrange ockelbo
-
-			varnum tingvalla nas nordmark farnebo fryksdal josse gillberg
-			dalaborg amal vedbo
-
-			hudiksvall alfta soderala hogdal selanger havero
-			avesta falun leksand grange malung mora hedemora orsa soderbarke stora_tuna floda
-
-			harnosand solatunum ramsele sjalevad anundsjo grundsunda
-
-			umea lulea
-
-			abo poytis sauvo nystad
-			helsinge ekenas sjundea porvoo kymi_fi
-
-			vyborg villmanstrand veckelax vederlax beryozovskoye
-			ikalis raumo bjorneborg hvittis sastmola birkala sastamala
-			korsholm koppo
-			hollola lohja tavastehus janakkala forssa liljendal jamsa
-
-			valkeasaari kyyrola
 		}
-
-
-
-		own_control_colony = {
-			 asele
-		}
-
 
 		include = "expl_scandinavia"
 		include = "catholic_monarchy"
@@ -1123,24 +1083,24 @@ countries = {
 		capital = tartu
 	}
 
-	HSA = {	#Hansa
-		type = building
-		starting_technology_level = 3
-
-		capital = lubeck
-		include = "hansa"
-		government = {
-			type = republic
-			heir_selection = oligarchic_elective
-			laws = {
-				marriage_law = monogamous_marriage
-				heir_religion_law = heir_same_religion
-			}
-			ruler = random
-		}
-		country_rank = rank_duchy
-		include = "expl_northern_europe"
-	}
+	#HSA = {	#Hansa
+	#	type = building
+	#	starting_technology_level = 3
+	#
+	#	capital = lubeck
+	#	include = "hansa"
+	#	government = {
+	#		type = republic
+	#		heir_selection = oligarchic_elective
+	#		laws = {
+	#			marriage_law = monogamous_marriage
+	#			heir_religion_law = heir_same_religion
+	#		}
+	#		ruler = random
+	#	}
+	#	country_rank = rank_duchy
+	#	include = "expl_northern_europe"
+	#}
 
 	LUB = {	#Lübeck
 		own_control_core = {
@@ -9854,135 +9814,6 @@ countries = {
 			date = 1345.1.1
 			size = 1
 		}
-	}
-
-	PRZ = {	#Peruzzi
-		type = building
-		starting_technology_level = 3
-		include = "catholic_republic_not_present"
-
-		capital = florence
-		government = {
-			type = republic
-			heir_selection = bank_selection
-			reforms = {	banking_country }
-
-			centralization_vs_decentralization = 20
-			aristocracy_vs_plutocracy = 70
-			serfdom_vs_free_subjects = 70
-			traditionalist_vs_innovative = 30
-			spiritualist_vs_humanist = 20
-			mercantilism_vs_free_trade = -40
-			belligerent_vs_conciliatory = 0
-			quality_vs_quantity = -20
-			offensive_vs_defensive = 30
-			land_vs_naval = 40
-			capital_economy_vs_traditional_economy = -50
-			individualism_vs_communalism = -50
-			outward_vs_inward = -90
-			laws = {
-				marriage_law = monogamous_marriage
-				heir_religion_law = heir_same_religion
-			}
-
-			ruler = random
-		}
-
-		country_rank = rank_county
-		dynasty = peruzzi_dynasty
-
-		include = "expl_mediterranean"
-		include = "expl_silk_road_west"
-		include = "expl_silk_road_center"
-		include = "expl_silk_road_east"
-		include = "expl_indian_trade_route"
-	}
-
-	BRD = {	#Bardi
-		type = building
-		starting_technology_level = 3
-		include = "catholic_republic_not_present"
-
-		capital = prato
-		government = {
-			type = republic
-			heir_selection = bank_selection
-			reforms = {	banking_country }
-			ruler = brd_piero_bardi
-
-			centralization_vs_decentralization = 20
-			aristocracy_vs_plutocracy = 70
-			serfdom_vs_free_subjects = 70
-			traditionalist_vs_innovative = 30
-			spiritualist_vs_humanist = 20
-			mercantilism_vs_free_trade = -40
-			belligerent_vs_conciliatory = 0
-			quality_vs_quantity = -20
-			offensive_vs_defensive = 30
-			land_vs_naval = 40
-			capital_economy_vs_traditional_economy = -50
-			individualism_vs_communalism = -50
-			outward_vs_inward = -90
-
-			laws = {
-				marriage_law = monogamous_marriage
-				heir_religion_law = heir_same_religion
-			}
-
-		}
-
-		country_rank = rank_county
-		dynasty = bardi_dynasty
-
-		include = "expl_mediterranean"
-		include = "expl_silk_road_west"
-		include = "expl_silk_road_center"
-		include = "expl_silk_road_east"
-		include = "expl_indian_trade_route"
-	}
-
-	ACC = {	#Acciaioli
-		type = building
-		starting_technology_level = 3
-		include = "catholic_republic_not_present"
-
-		capital = florence
-		government = {
-			type = republic
-			heir_selection = bank_selection
-			reforms = { banking_country }
-			ruler = acc_acciaiolo_acciaioli
-			ruler_term = { character = acc_leone_acciaioli start_date = 1284.1.1 end_date = 1300.1.1 regnal_number = 0 }
-			ruler_term = { character = acc_acciaiolo_acciaioli start_date = 1333.11.1 regnal_number = 0 }
-
-			centralization_vs_decentralization = 20
-			aristocracy_vs_plutocracy = 70
-			serfdom_vs_free_subjects = 70
-			traditionalist_vs_innovative = 30
-			spiritualist_vs_humanist = 20
-			mercantilism_vs_free_trade = -40
-			belligerent_vs_conciliatory = 0
-			quality_vs_quantity = -20
-			offensive_vs_defensive = 30
-			land_vs_naval = 40
-			capital_economy_vs_traditional_economy = -50
-			individualism_vs_communalism = -50
-			outward_vs_inward = -90
-
-			laws = {
-				marriage_law = monogamous_marriage
-				heir_religion_law = heir_same_religion
-			}
-
-		}
-
-		country_rank = rank_county
-
-		include = "expl_mediterranean"
-		include = "expl_silk_road_west"
-		include = "expl_silk_road_center"
-		include = "expl_silk_road_east"
-		include = "expl_indian_trade_route"
 	}
 
 	FRM = {
@@ -63104,6 +62935,81 @@ countries = {
 		
 		country_rank = rank_kingdom
 		capital = selanger
+	}
+
+	HAMA = { #Suomi Tribe (Hämäläiset)
+		own_control_core = {
+		}
+
+		include = "expl_northern_europe"
+		include = "eastern_european_catholic"
+
+		government = {
+			type = tribe
+			ruler = random
+		}
+		capital = tavastehus
+		country_rank = rank_duchy
+	}
+
+	SAVO = { #Savonian Tribe (Savolaeset)
+		own_control_core = {
+		}
+
+		include = "expl_northern_europe"
+		include = "eastern_european_catholic"
+
+		government = {
+			type = tribe
+			ruler = random
+		}
+		capital = jyvaskyla
+		country_rank = rank_duchy
+	}
+
+	POHJ = { #Ostrobothnian Tribe (Pohjalaiset)
+		own_control_core = {
+		}
+
+		include = "expl_northern_europe"
+		include = "eastern_european_catholic"
+
+		government = {
+			type = tribe
+			ruler = random
+		}
+		capital = karleby
+		country_rank = rank_duchy
+	}
+
+	KRJL = { #Karelian Tribe (Karjalaižet)
+		own_control_core = {
+		}
+
+		include = "expl_northern_europe"
+		include = "eastern_european_catholic"
+
+		government = {
+			type = tribe
+			ruler = random
+		}
+		capital = kinerma
+		country_rank = rank_kingdom
+	}
+
+	IZRT = { #Izhorian Tribe (Ižorat)
+		own_control_core = {
+		}
+
+		include = "expl_northern_europe"
+		include = "eastern_european_catholic"
+
+		government = {
+			type = tribe
+			ruler = random
+		}
+		capital = sordavala
+		country_rank = rank_county
 	}
 
 }
