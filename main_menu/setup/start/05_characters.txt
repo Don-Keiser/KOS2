@@ -1,6 +1,6 @@
 character_db = {
    #
-   # Bjälbo
+   # Bj?lbo
    #
    swe_birger_jarl = {
       first_name = { name = name_birger }
@@ -889,7 +889,7 @@ character_db = {
       death_date = 1200.9.20
       birth = meaux
       #father = Aubrey II de Dammartin
-      #mother = Clémence de Bar
+      #mother = Cl?mence de Bar
       dynasty = dammartin_dynasty
       tag = NRM
    }
@@ -931,7 +931,7 @@ character_db = {
       dynasty = dammartin_dynasty
       tag = AUM
    }
-   # HOUSE OF ASTURIAS & LEON (Former Kings of León)
+   # HOUSE OF ASTURIAS & LEON (Former Kings of Le?n)
    lon_pedro_cantabria = {
       first_name = { name = name_peter }
        estate = nobles_estate
@@ -1023,7 +1023,7 @@ character_db = {
       birth_date = 852.1.1
       death_date = 910.12.20
       birth = oviedo
-      #mother = Nuña
+      #mother = Nu?a
       dynasty = asturleonesa_dynasty
       tag = LON
    }
@@ -1041,7 +1041,7 @@ character_db = {
       birth_date = 871.1.1
       death_date = 924.6.1
       birth = oviedo
-      #mother = Jimena Muñoz
+      #mother = Jimena Mu?oz
       dynasty = asturleonesa_dynasty
       tag = LON
    }
@@ -1080,7 +1080,7 @@ character_db = {
       birth_date = 925.1.1
       death_date = 956.1.1
       birth = leon
-      #mother = Adosinda Gutiérrez
+      #mother = Adosinda Guti?rrez
       dynasty = asturleonesa_dynasty
       tag = LON
    }
@@ -1096,7 +1096,7 @@ character_db = {
       birth_date = 950.6.1 # between 948 & 953
       death_date = 999.9.1
       birth = astorga
-      #mother = Urraca Fernández
+      #mother = Urraca Fern?ndez
       dynasty = asturleonesa_dynasty
       tag = LON
    }
@@ -1114,7 +1114,7 @@ character_db = {
       birth_date = 994.1.1
       death_date = 1028.8.7
       birth = leon
-      #mother = Elvira García
+      #mother = Elvira Garc?a
       dynasty = asturleonesa_dynasty
       tag = LON
    }
@@ -1122,7 +1122,7 @@ character_db = {
       first_name = { name = name_sancha }
       female = yes
 
-      #mother = Elvira Menéndez
+      #mother = Elvira Men?ndez
       spouse = lon_fernando_i_jimena
       father = lon_alfonso_v_leon
        estate = nobles_estate
@@ -1134,7 +1134,7 @@ character_db = {
       dynasty = asturleonesa_dynasty
       tag = LON
    }
-   # HOUSE ÍÑIGA OR ARISTA (Former Kings of Navarra)
+   # HOUSE ??IGA OR ARISTA (Former Kings of Navarra)
    nav_inigo_arista = { #https://en.wikipedia.org/wiki/%C3%8D%C3%B1igo_Arista_of_Pamplona
       first_name = { name = name_inigo }
       nickname = { name = Arista }
@@ -1149,8 +1149,8 @@ character_db = {
       birth_date = 780.1.1 # Between 770 & 790
       death_date = 851.1.1
       birth = pamplona
-      #father = Íñigo Ximénez
-      #mother = Óneca
+      #father = ??igo Xim?nez
+      #mother = ?neca
       dynasty = iniga_dynasty
       tag = NAV
    }
@@ -1170,7 +1170,7 @@ character_db = {
       birth_date = 810.1.1
       death_date = 882.1.1
       birth = pamplona
-      #mother = Óneca Velázquez
+      #mother = ?neca Vel?zquez
       dynasty = iniga_dynasty
       tag = NAV
    }
@@ -1258,7 +1258,7 @@ character_db = {
       dynasty = iniga_dynasty
       tag = NAV
    }
-   # HOUSE JIMENA (Former Kings of Navarra, Aragón, Castile & León)
+   # HOUSE JIMENA (Former Kings of Navarra, Arag?n, Castile & Le?n)
    nav_sancho_i_jimena = { #https://en.wikipedia.org/wiki/Sancho_I_of_Pamplona
       first_name = { name = name_sancho }
       adm = 36
@@ -1274,7 +1274,7 @@ character_db = {
       birth_date = 880.1.1
       death_date = 925.12.10
       birth = sanguesa
-      #father = García Jiménez
+      #father = Garc?a Jim?nez
       #mother = Dadildis de Pallars
       dynasty = jimena_dynasty
       tag = NAV
@@ -1318,7 +1318,7 @@ character_db = {
       birth_date = 938.1.1
       death_date = 994.12.1
       birth = pamplona
-      #mother = Andregoto Galíndez
+      #mother = Andregoto Gal?ndez
       dynasty = jimena_dynasty
       tag = NAV
    }
@@ -1332,7 +1332,7 @@ character_db = {
       birth_date = 964.1.1 # Unknown
       death_date = 999.12.8
       birth = logrono
-      #mother = Urraca Fernández
+      #mother = Urraca Fern?ndez
       dynasty = jimena_dynasty
       tag = NAV
    }
@@ -1355,11 +1355,11 @@ character_db = {
       birth_date = 994.1.1 # Between 992 & 996
       death_date = 1035.10.18
       birth = logrono
-      #mother = Jimena Fernández
+      #mother = Jimena Fern?ndez
       dynasty = jimena_dynasty
       tag = NAV
    }
-   # Line of the Kings of León & Castile
+   # Line of the Kings of Le?n & Castile
    lon_fernando_i_jimena = { #https://en.wikipedia.org/wiki/Ferdinand_I_of_Le%C3%B3n
       first_name = { name = name_ferdinand }
       nickname = { name = nick_the_great }
@@ -1377,7 +1377,7 @@ character_db = {
       birth_date = 1016.1.1
       death_date = 1065.12.27
       birth = pamplona
-      #mother = Muniadona Sánchez
+      #mother = Muniadona S?nchez
       dynasty = jimena_dynasty
       tag = LON
    }
@@ -1483,11 +1483,11 @@ character_db = {
       birth_date = 1020.1.1
       death_date = 1087.11.12
       birth = dole
-      #mother = Adélaide de Normandie
+      #mother = Ad?laide de Normandie
       dynasty = ivree_dynasty
       tag = FCB
    }
-   # Line of the Kings of Castile, León & Galicia
+   # Line of the Kings of Castile, Le?n & Galicia
    glc_raymond_burgundy = { #https://en.wikipedia.org/wiki/Raymond_of_Burgundy
       first_name = { name = name_raymond }
       father = fcb_guillaume_i_burgundy
@@ -1502,7 +1502,7 @@ character_db = {
       birth_date = 1070.1.1
       death_date = 1107.5.24
       birth = dole
-      #mother = Étienette de Bourgogne
+      #mother = ?tienette de Bourgogne
       dynasty = ivree_dynasty
       tag = GLC
    }
@@ -1568,7 +1568,7 @@ character_db = {
       birth_date = 1155.11.11
       death_date = 1214.10.6
       birth = soria
-      #mother = Blanca Garcés
+      #mother = Blanca Garc?s
       #spouse = Eleanor of England
       dynasty = burgundy_castile_dynasty
       tag = CAS
@@ -1594,7 +1594,7 @@ character_db = {
       dynasty = burgundy_castile_dynasty
       tag = CAS
    }
-   # Line of the Kings of León & Castile-León
+   # Line of the Kings of Le?n & Castile-Le?n
    lon_fernando_ii_burgundy = { #https://en.wikipedia.org/wiki/Ferdinand_II_of_Le%C3%B3n
       first_name = { name = name_ferdinand }
       father = cas_alfonso_vii_burgundy
@@ -1991,7 +1991,7 @@ character_db = {
       birth_date = 1012.1.1
       death_date = 1054.9.1
       birth = logrono
-      #mother = Muniadona Sánchez
+      #mother = Muniadona S?nchez
       dynasty = jimena_dynasty
       tag = NAV
    }
@@ -1999,10 +1999,7 @@ character_db = {
    nav_sancho_garces_jimena = { # A Bastard
       first_name = { name = name_sancho }
       father = nav_garcia_iii_jimena
-       modifier = "bastard"
-      start_date = 1038.1.1
-      date = 9999.1.1
-      estate = nobles_estate
+       estate = nobles_estate
       culture = basque
       religion = catholic
       birth_date = 1038.1.1
@@ -2043,7 +2040,7 @@ character_db = {
       birth_date = 1100.1.1
       death_date = 1150.11.21
       birth = sanguesa
-      #mother = Cristina Rodríguez de Vivar, daughter of El Cid
+      #mother = Cristina Rodr?guez de Vivar, daughter of El Cid
       dynasty = jimena_dynasty
       tag = NAV
    }
@@ -2188,7 +2185,7 @@ character_db = {
       birth_date = 1045.1.1
       death_date = 1102.5.19
       birth = blois
-      #mother = Adéle de Valois
+      #mother = Ad?le de Valois
       dynasty = blois_dynasty
       tag = BLS
    }
@@ -2362,7 +2359,7 @@ character_db = {
       birth_date = 860.1.1
       death_date = 923.6.15
       birth = angers
-      #mother = Adélaide de Tours
+      #mother = Ad?laide de Tours
       dynasty = robertian_dynasty
       tag = FRA
    }
@@ -2381,7 +2378,7 @@ character_db = {
       birth_date = 898.1.1
       death_date = 956.6.16
       birth = paris
-      #mother = Béatrice de Vermandois
+      #mother = B?atrice de Vermandois
       dynasty = robertian_dynasty
       tag = FRA
    }
@@ -2502,7 +2499,7 @@ character_db = {
       birth_date = 1126.9.1
       death_date = 1183.4.10
       birth = reims
-      #mother = Adélaide de Maurienne
+      #mother = Ad?laide de Maurienne
       dynasty = capet_dynasty
       tag = FRA
    }
@@ -2553,7 +2550,7 @@ character_db = {
       death_date = 1235.9.21
       birth = buda
       #spouse = Beatrice D'Este
-      #father = Béla III of Hungary
+      #father = B?la III of Hungary
       #mother = Agnes of Antioch
       dynasty = arpad_dynasty
       tag = HUN
@@ -2589,10 +2586,7 @@ character_db = {
       ruler_trait = architectural_visionary
 
       ruler_trait = careful
-       modifier = "bastard"
-      start_date = 1006.1.1
-      date = 9999.1.1
-      estate = nobles_estate
+       estate = nobles_estate
       culture = aragonese
       religion = catholic
       birth_date = 1006.1.1
@@ -2784,7 +2778,7 @@ character_db = {
       birth_date = 1023.1.1
       death_date = 1076.5.26
       birth = barcelona
-      #mother = Sancha Sánchez de Castilla
+      #mother = Sancha S?nchez de Castilla
       dynasty = barcelona_dynasty
       tag = CAT
    }
@@ -2845,7 +2839,7 @@ character_db = {
       birth_date = 1113.1.1
       death_date = 1162.8.7
       birth = barcelona
-      #mother = Doça I de Provença
+      #mother = Do?a I de Proven?a
       dynasty = barcelona_dynasty
       tag = CAT
    }
@@ -2994,7 +2988,7 @@ character_db = {
       birth_date = 1165.8.21
       death_date = 1223.7.14
       birth = paris #gonesse
-      #mother = Adéle de Champagne
+      #mother = Ad?le de Champagne
       dynasty = capet_dynasty
       tag = FRA
    }
@@ -3514,7 +3508,7 @@ character_db = {
       tag = ANJ
    }
    # Line of the Counts of Valois, Kings of France (HOUSE OF VALOIS)
-   # Father of the King of France & the Count of Alençon & Grandfather of the Duke of Normandy & Anjou
+   # Father of the King of France & the Count of Alen?on & Grandfather of the Duke of Normandy & Anjou
    fra_charles_valois = {
       first_name = { name = name_charles }
       nickname = { name = nick_church_defender }
@@ -3629,7 +3623,7 @@ character_db = {
       birth_date = 1122.1.1
       death_date = 1170.7.25
       birth = bar_le_duc
-      #mother = Gisèle de Vaudémont
+      #mother = Gis?le de Vaud?mont
       dynasty = de_bar_dynasty
       tag = BAR
    }
@@ -3647,7 +3641,7 @@ character_db = {
       birth_date = 1158.1.1
       death_date = 1214.2.13
       birth = bar_le_duc
-      #mother = Agnés de Blois
+      #mother = Agn?s de Blois
       dynasty = de_bar_dynasty
       tag = BAR
    }
@@ -3893,7 +3887,7 @@ character_db = {
       birth_date = 1123.1.1
       death_date = 1188.10.11
       birth = paris
-      #mother = Adélaide de Savoie
+      #mother = Ad?laide de Savoie
       dynasty = dreux_dynasty
       tag = DRE
    }
@@ -3914,7 +3908,7 @@ character_db = {
       birth_date = 1154.1.1
       death_date = 1218.12.28
       birth = dreux
-      #mother = Agnès de Baudement
+      #mother = Agn?s de Baudement
       dynasty = dreux_dynasty
       tag = DRE
    }
@@ -3942,7 +3936,7 @@ character_db = {
       first_name = { name = name_yolande }
       female = yes
 
-      #mother = Aénor de Saint-Valery
+      #mother = A?nor de Saint-Valery
       spouse = bur_hugues_iv_burgundian
       father = dre_robert_iii_dreux
        estate = nobles_estate
@@ -3989,7 +3983,7 @@ character_db = {
       birth_date = 1035.1.1
       death_date = 1074.1.27
       birth = dijon
-      #mother = Hélie de Semur
+      #mother = H?lie de Semur
       dynasty = burgundy_dynasty
       tag = BUR
    }
@@ -4010,7 +4004,7 @@ character_db = {
       birth_date = 1058.12.1
       death_date = 1103.3.23
       birth = dijon
-      #mother = Sibik·la de Barcelona
+      #mother = Sibik?la de Barcelona
       dynasty = burgundy_dynasty
       tag = BUR
    }
@@ -4730,7 +4724,7 @@ character_db = {
       birth_date = 1075.1.1
       death_date = 1137.1.1
       birth = casale
-      #mother = Otta di Aglié
+      #mother = Otta di Agli?
       dynasty = aleramici_dynasty
       tag = MFA
    }
@@ -4753,7 +4747,7 @@ character_db = {
       birth_date = 1100.1.1
       death_date = 1191.1.1
       birth = casale
-      #mother = Giselle de Bourgogne-Comté
+      #mother = Giselle de Bourgogne-Comt?
       dynasty = aleramici_dynasty
       tag = MFA
    }
@@ -4980,7 +4974,7 @@ character_db = {
       death_date = 1075.1.1
       birth = grenoble
       #father = Guigues d'Albon
-      #mother = Gotèlene
+      #mother = Got?lene
       dynasty = albon_dynasty
       tag = DAU
    }
@@ -4994,7 +4988,7 @@ character_db = {
       birth_date = 1025.1.1
       death_date = 1079.1.1
       birth = grenoble
-      #mother = Adelaïde
+      #mother = Adela?de
       dynasty = albon_dynasty
       tag = DAU
    }
@@ -5135,7 +5129,7 @@ character_db = {
       birth_date = 1046.1.1
       death_date = 1080.1.26
       birth = turin
-      #mother = Adélaide de Susa
+      #mother = Ad?laide de Susa
       dynasty = savoy_dynasty
       tag = SAV
    }
@@ -5156,7 +5150,7 @@ character_db = {
       birth_date = 1065.1.1
       death_date = 1103.10.19
       birth = chambery
-      #mother = Jeanne de Genève
+      #mother = Jeanne de Gen?ve
       dynasty = savoy_dynasty
       tag = SAV
    }
@@ -5179,7 +5173,7 @@ character_db = {
       birth_date = 1095.1.1
       death_date = 1148.8.30
       birth = turin
-      #mother = Gisèle de Bourgogne
+      #mother = Gis?le de Bourgogne
       dynasty = savoy_dynasty
       tag = SAV
    }
@@ -5225,7 +5219,7 @@ character_db = {
       birth_date = 1178.5.27
       death_date = 1233.3.1
       birth = saint_jean_de_maurienne
-      #mother = Béatrice de Vienne
+      #mother = B?atrice de Vienne
       dynasty = savoy_dynasty
       tag = SAV
    }
@@ -5245,7 +5239,7 @@ character_db = {
       birth_date = 1197.1.1
       death_date = 1253.6.24
       birth = chambery
-      #mother = Marguerite de Genève
+      #mother = Marguerite de Gen?ve
       dynasty = savoy_dynasty
       tag = SAV
    }
@@ -5396,7 +5390,7 @@ character_db = {
       birth_date = 1124.1.1
       death_date = 1169.1.1
       birth = poitiers
-      #mother = Bourgogne de Rançon
+      #mother = Bourgogne de Ran?on
       dynasty = lusignan_dynasty
       tag = AQN
    }
@@ -7043,7 +7037,7 @@ character_db = {
       birth_date = 906.1.1 # unknown
       death_date = 956.1.1
       birth = dublin # unknown
-      dynasty = o_melaghlin_dynasty # Síl nÁedo Sláine
+      dynasty = o_melaghlin_dynasty # S?l n?edo Sl?ine
       tag = MTH # Brega
    }
    mth_mael_sechnaill_mac_domnaill = {
@@ -8938,7 +8932,7 @@ character_db = {
       first_name = { name = name_margaret }
       female = yes
 
-      #mother = Mahaut de Béthune
+      #mother = Mahaut de B?thune
       spouse = brb_jan_i_van_brabant
       father = fla_guy_i_dampierre
        estate = nobles_estate
@@ -8999,7 +8993,7 @@ character_db = {
       birth_date = 1200.6.1 # Between 1199 & 1202
       death_date = 1259.2.7
       birth = chambery
-      #mother = Marguerite de Genève
+      #mother = Marguerite de Gen?ve
       dynasty = savoy_dynasty
       tag = SAV
    }
@@ -9021,7 +9015,7 @@ character_db = {
       birth_date = 1249.9.5
       death_date = 1323.10.16
       birth = chambery
-      #mother = Béatrice Fieschi
+      #mother = B?atrice Fieschi
       dynasty = savoy_dynasty
       tag = SAV
    }
@@ -9141,7 +9135,7 @@ character_db = {
       birth_date = 1065.1.1
       death_date = 1102.5.27
       birth = dole
-      #mother = Étienette de Bourgogne
+      #mother = ?tienette de Bourgogne
       dynasty = ivree_dynasty
       tag = FCB
    }
@@ -9160,7 +9154,7 @@ character_db = {
       birth_date = 1093.1.1
       death_date = 1148.2.12
       birth = dole
-      #mother = Béatrice de Lorraine
+      #mother = B?atrice de Lorraine
       dynasty = ivree_dynasty
       tag = FCB
    }
@@ -9199,7 +9193,7 @@ character_db = {
       birth_date = 1050.1.1
       death_date = 1105.7.21
       birth = oettingen
-      #father = Friedrich von Büren
+      #father = Friedrich von B?ren
       #mother = Hidelgard von Egisheim-Dagsburg
       dynasty = hohenstaufen_dynasty
       tag = OGK
@@ -10323,7 +10317,7 @@ character_db = {
       dynasty = dandolo_dynasty
       tag = SER
    }
-   ser_stefan = { #Stefan Uroš I https://en.wikipedia.org/wiki/Stefan_Uro%C5%A1_I
+   ser_stefan = { #Stefan Uro? I https://en.wikipedia.org/wiki/Stefan_Uro%C5%A1_I
       first_name = { name = name_stephen.name_uros }
       mother = ser_anna_dandolo
       adm = 85
@@ -10337,7 +10331,7 @@ character_db = {
       dynasty = nemanjic_dynasty
       tag = SER
    }
-   ser_stefan_milutin = { #Stefan Uroš II https://en.wikipedia.org/wiki/Stefan_Milutin
+   ser_stefan_milutin = { #Stefan Uro? II https://en.wikipedia.org/wiki/Stefan_Milutin
       first_name = { name = name_stephen.name_uros }
       nickname = { name = milutin }
       mother = nap_helen_anjou
@@ -10641,7 +10635,7 @@ character_db = {
       birth = prizren
       tag = SER
    }
-   ser_stefan_decanski = { #Stefan Uroš III
+   ser_stefan_decanski = { #Stefan Uro? III
       first_name = { name = name_stephen.name_uros }
       nickname = { name = decanski }
       mother = ser_jelena
@@ -10683,7 +10677,7 @@ character_db = {
       dynasty = palaiologos_dynasty
       tag = SER
    }
-   ser_stefan_dusan = { #Stefan Uroš IV Dušan
+   ser_stefan_dusan = { #Stefan Uro? IV Du?an
       first_name = { name = name_stephen.name_uros }
       nickname = { name = dusan }
       mother = ser_teodora_smilets
@@ -10739,7 +10733,7 @@ character_db = {
       dynasty = nemanjic_dynasty
       tag = SER
    }
-   ser_stefan_uros = { #Stefan Uroš V the Weak
+   ser_stefan_uros = { #Stefan Uro? V the Weak
       first_name = { name = name_stephen.name_uros }
       mother = ser_helena_sratsimir
       father = ser_stefan_dusan
@@ -10807,10 +10801,7 @@ character_db = {
       #mother = A Mistress
       spouse = thp_andrea_thopia
       father = nap_robert_i_anjou
-       modifier = "bastard"
-      start_date = 1315.1.1
-      date = 9999.1.1
-      culture = neapolitan
+       culture = neapolitan
       religion = catholic
       birth_date = 1315.1.1
       birth = naples
@@ -11536,7 +11527,7 @@ character_db = {
       birth_date = 852.1.1
       death_date = 898.1.3
       birth = angers
-      #mother = Adélaide de Tours
+      #mother = Ad?laide de Tours
       dynasty = robertian_dynasty
       tag = FRA
    }
@@ -11643,7 +11634,7 @@ character_db = {
       dynasty = capet_dynasty
       tag = NAV
    }
-   # HOUSE OF HOHENZOLLERN (Counts of Zollern & Burgraves of Nürnberg)
+   # HOUSE OF HOHENZOLLERN (Counts of Zollern & Burgraves of N?rnberg)
    hoh_burkhard_i_von_zollern = {
       first_name = { name = name_burchard }
        estate = nobles_estate
@@ -11652,7 +11643,7 @@ character_db = {
       birth_date = 1025.1.1
       death_date = 1061.1.1
       birth = balingen
-      #father = Friedrich von Sülingau
+      #father = Friedrich von S?lingau
       #mother = Irmentrud von Nellenburg
       dynasty = hohenzollern_dynasty
       tag = HOH
@@ -11709,7 +11700,7 @@ character_db = {
       birth_date = 1176.1.1
       death_date = 1225.1.1
       birth = hohenberg
-      #mother = Kunigunde von Grünberg
+      #mother = Kunigunde von Gr?nberg
       dynasty = hohenberg_dynasty
       tag = HHB
    }
@@ -11731,7 +11722,7 @@ character_db = {
       first_name = { name = name_gertrude }
       female = yes
 
-      #mother = Mechtild von Thübingen
+      #mother = Mechtild von Th?bingen
       spouse = hab_rudolf_i_habsburg
       father = hhb_burkhard_v_hohenberg
       adm = 43
@@ -12107,7 +12098,7 @@ character_db = {
       birth_date = 1095.1.1
       death_date = 1157.9.27
       birth = dole
-      #mother = Béatrice de Lorraine
+      #mother = B?atrice de Lorraine
       dynasty = ivree_dynasty
       tag = FCB
    }
@@ -12153,7 +12144,7 @@ character_db = {
       birth_date = 1190.1.1
       death_date = 1267.8.31
       birth = chalon_sur_saone
-      #mother = Béatrice de Chalon
+      #mother = B?atrice de Chalon
       dynasty = chalon_dynasty # Founder of the Chalon line of the House of Ivrea
       tag = FCB
    }
@@ -12170,7 +12161,7 @@ character_db = {
       dynasty = chalon_dynasty
       tag = FCB
    }
-   # Grandfather of the Countess Palatine of Burgundy & the Count of Montbéliard & Former Count Palatine of Burgundy
+   # Grandfather of the Countess Palatine of Burgundy & the Count of Montb?liard & Former Count Palatine of Burgundy
    fcb_othon_iv_chalon_burgundy = {
       first_name = { name = name_otto }
       mother = fcb_adelaide_i_andechs
@@ -12288,7 +12279,7 @@ character_db = {
       death_date = 1173.1.1
       birth = thouars
       #father = Aimery V de Thouars
-      #mother = Agnès d'Aquitaine
+      #mother = Agn?s d'Aquitaine
       dynasty = thouars_dynasty
       tag = POI
    }
@@ -12589,8 +12580,8 @@ character_db = {
       dynasty = valois_dynasty
       tag = BLS
    }
-   # Line of the Counts of Alençon
-   # Count of Alençon & Brother of the King of France
+   # Line of the Counts of Alen?on
+   # Count of Alen?on & Brother of the King of France
    ale_charles_ii_valois = {
       first_name = { name = name_charles }
       nickname = { name = Magnanimous }
@@ -12604,7 +12595,7 @@ character_db = {
       religion = catholic
       birth_date = 1297.1.1
       birth = paris
-      dynasty = valois_dynasty # Should be dynasty = valois_alencon_dynasty # Founder of the Alençon line of the House of Valois
+      dynasty = valois_dynasty # Should be dynasty = valois_alencon_dynasty # Founder of the Alen?on line of the House of Valois
       tag = ALE
    }
    cas_juana_nunez_lara = {
@@ -12694,7 +12685,7 @@ character_db = {
       dynasty = burgundy_castile_dynasty
       tag = ALE
    }
-   # Son & Heir of the Count of Alençon
+   # Son & Heir of the Count of Alen?on
    ale_charles_iii_valois = {
       first_name = { name = name_charles }
       mother = ale_maria_burgundy_castile
@@ -12760,7 +12751,7 @@ character_db = {
       death_date = 1191.2.8
       birth = bar_sur_aube
       #father = Gautier II de Brienne
-      #mother = Adèle de Soissons
+      #mother = Ad?le de Soissons
       dynasty = de_brienne_dynasty
       tag = CHP
    }
@@ -12937,7 +12928,7 @@ character_db = {
       dynasty = avesnes_dynasty
       tag = BLS
    }
-   # HOUSE OF CHÂTILLON (Counts of Blois, Counts of Saint-Pol & other branches)
+   # HOUSE OF CH?TILLON (Counts of Blois, Counts of Saint-Pol & other branches)
    # Main line and Counts of Saint-Pol & I Line of Counts of Blois
    stp_gaucher_iii_chatillon = {
       first_name = { name = name_walter }
@@ -12967,7 +12958,7 @@ character_db = {
       birth_date = 1198.1.1
       death_date = 1248.4.9
       birth = saint_pol
-      #mother = Élisabeth de Campdavaine
+      #mother = ?lisabeth de Campdavaine
       dynasty = chatillon_dynasty
       tag = BLS
    }
@@ -13006,7 +12997,7 @@ character_db = {
       death_date = 1317.4.6
       birth = saint_pol
       #mother = Mechteld van Brabant
-      dynasty = chatillon_dynasty # Should be dynasty = chatillon_saintpol_dynasty # Founder of the Saint-Pol line of the House of Châtillon
+      dynasty = chatillon_dynasty # Should be dynasty = chatillon_saintpol_dynasty # Founder of the Saint-Pol line of the House of Ch?tillon
       tag = FRA
    }
    # Sister of the Count of Saint-Pol & Stepmother of the King of France
@@ -13305,7 +13296,7 @@ character_db = {
       first_name = { name = name_matilda }
       female = yes
 
-      #mother = Agnès I de Nevers
+      #mother = Agn?s I de Nevers
       spouse = nev_herve_iv_donzy
       spouse = frz_guigues_iv_albon
       father = lat_pierre_ii_courtenay
@@ -13339,7 +13330,7 @@ character_db = {
       birth_date = 1173.1.1
       death_date = 1223.1.22
       birth = donzy
-      #father = Hervé III de Donzy
+      #father = Herv? III de Donzy
       #mother = Mathilde de Montmirail
       dynasty = donzy_dynasty
       tag = NEV
@@ -13372,7 +13363,7 @@ character_db = {
       birth_date = 1196.1.1
       death_date = 1226.8.6
       birth = saint_pol
-      #mother = Élisabeth de Campdavaine
+      #mother = ?lisabeth de Campdavaine
       dynasty = chatillon_dynasty
       tag = STP
    }
@@ -13426,7 +13417,7 @@ character_db = {
       birth_date = 1212.1.1
       death_date = 1249.1.22
       birth = bourbon
-      #mother = Béatrice de Montluçon
+      #mother = B?atrice de Montlu?on
       dynasty = dampierre_dynasty # Should be dynasty = dampierre_bourbon_dynasty
       tag = BOU
    }
@@ -14124,10 +14115,7 @@ character_db = {
    hun_kalman = { #Bastard son of hun_karoly_robert
       first_name = { name = name_kalman }
       father = hun_karoly_robert
-       modifier = "bastard"
-      start_date = 1317.1.1
-      date = 9999.1.1
-      estate = clergy_estate
+       estate = clergy_estate
       culture = hungarian
       religion = catholic
       birth_date = 1317.1.1
@@ -14341,10 +14329,7 @@ character_db = {
       ruler_trait = charismatic_negotiator
 
       ruler_trait = sinner
-       modifier = "bastard"
-      start_date = 1232.1.1
-      date = 9999.1.1
-      culture = neapolitan
+       culture = neapolitan
       religion = catholic
       birth_date = 1232.1.1
       death_date = 1266.2.26
@@ -14699,10 +14684,10 @@ character_db = {
       death_date = 1336.4.5
       birth = naples
       dynasty = anjou_dynasty # Should be dynasty = anjou_durazzo_dynasty # Founder of the Durazzo Line of the House of Anjou
-      tag = ALB # OR = {
-# tag = ALB
-# tag = CEP
-# }
+      tag = ALB # OR = {
+       # tag = ALB
+# tag = CEP
+# }
    }
    # HOUSE OF FOIX (Count of Foix)
    foi_bernard_roger_foix = {
@@ -14718,7 +14703,7 @@ character_db = {
       death_date = 1034.1.1
       birth = foix
       #father = Roger I de Carcassone
-      #mother = Adélaide
+      #mother = Ad?laide
       dynasty = foix_dynasty
       tag = FOI
    }
@@ -14767,7 +14752,7 @@ character_db = {
       birth_date = 1090.1.1
       death_date = 1148.1.1
       birth = foix
-      #mother = Estefania de Besalú
+      #mother = Estefania de Besal?
       dynasty = foix_dynasty
       tag = FOI
    }
@@ -14804,7 +14789,7 @@ character_db = {
       birth_date = 1152.1.1
       death_date = 1223.4.3
       birth = foix
-      #mother = Cécile Trencavel
+      #mother = C?cile Trencavel
       dynasty = foix_dynasty
       tag = FOI
    }
@@ -14841,11 +14826,11 @@ character_db = {
       birth_date = 1220.1.1
       death_date = 1265.2.24
       birth = foix
-      #mother = Ermesinda de Castelbó
+      #mother = Ermesinda de Castelb?
       dynasty = foix_dynasty
       tag = FOI
    }
-   # Grandfather of the Count of Foix & Béarn & Viscount Mont-de-Marsan & the Count of Perigord & Former Count of Foix & Béarn & Viscount of Mont-de-Marsan
+   # Grandfather of the Count of Foix & B?arn & Viscount Mont-de-Marsan & the Count of Perigord & Former Count of Foix & B?arn & Viscount of Mont-de-Marsan
    foi_roger_bernard_iii_foix = {
       first_name = { name = name_roger.name_bernard }
       father = foi_roger_iv_foix
@@ -14939,7 +14924,7 @@ character_db = {
       birth_date = 1020.1.1
       death_date = 1072.1.1
       birth = perigueux
-      #mother = Amélie de Montignac
+      #mother = Am?lie de Montignac
       dynasty = perigord_dynasty
       tag = PER
    }
@@ -15048,7 +15033,7 @@ character_db = {
       birth_date = 1261.1.1
       death_date = 1311.1.1
       birth = perigueux
-      #mother = Agnès de Blayer
+      #mother = Agn?s de Blayer
       dynasty = perigord_dynasty
       tag = PER
    }
@@ -15145,7 +15130,7 @@ character_db = {
       birth_date = 1200.7.1
       death_date = 1234.1.1
       birth = paris
-      #mother = Agnès de Meranie
+      #mother = Agn?s de Meranie
       dynasty = capet_dynasty
       tag = AUM
    }
@@ -15381,7 +15366,7 @@ character_db = {
       birth_date = 1215.1.1
       death_date = 1249.1.1
       birth = dreux
-      #mother = Aénor de Saint-Valery
+      #mother = A?nor de Saint-Valery
       dynasty = dreux_dynasty
       tag = DRE
    }
@@ -15389,7 +15374,7 @@ character_db = {
       first_name = { name = name_mary }
       female = yes
 
-      #mother = Béatrice de Montluçon
+      #mother = B?atrice de Montlu?on
       spouse = dre_jean_i_dreux
       father = bou_archambaud_viii_bourbon
        estate = nobles_estate
@@ -15447,7 +15432,7 @@ character_db = {
       first_name = { name = name_beatrix }
       female = yes
 
-      #mother = Béatrice de Sabran
+      #mother = B?atrice de Sabran
       spouse = mon_amaury_vi_montfort
       father = dau_andre_dauphin_bourgogne
        estate = nobles_estate
@@ -15507,7 +15492,7 @@ character_db = {
       birth_date = 1066.1.1 # Father's second marriage
       death_date = 1137.1.1
       birth = monfort_lamaury
-      #mother = Agnès d'Evreux
+      #mother = Agn?s d'Evreux
       dynasty = montfort_dynasty
       tag = MON
    }
@@ -15528,7 +15513,7 @@ character_db = {
       birth_date = 1117.1.1
       death_date = 1181.3.13
       birth = arras
-      #mother = Agnès de Garlande
+      #mother = Agn?s de Garlande
       dynasty = montfort_dynasty
       tag = MON
    }
@@ -15593,7 +15578,7 @@ character_db = {
       first_name = { name = name_beatrix }
       female = yes
 
-      #mother = Jeanne de Châteudun
+      #mother = Jeanne de Ch?teudun
       spouse = dre_robert_iv_dreux
       father = mon_jean_i_montfort
 
@@ -15714,7 +15699,7 @@ character_db = {
       birth_date = 1109.1.1
       death_date = 1164.1.1
       birth = sully
-      #mother = Agnès de Sully
+      #mother = Agn?s de Sully
       dynasty = sully_dynasty
       tag = FRA
    }
@@ -15753,7 +15738,7 @@ character_db = {
       birth_date = 1188.1.1
       death_date = 1249.1.1
       birth = sully
-      #mother = Perséis d'Aschères
+      #mother = Pers?is d'Asch?res
       dynasty = sully_dynasty
       tag = FRA
    }
@@ -15779,7 +15764,7 @@ character_db = {
       birth_date = 1254.1.1
       death_date = 1285.1.1
       birth = sully
-      #mother = Péronelle de Joigny
+      #mother = P?ronelle de Joigny
       dynasty = sully_dynasty
       tag = FRA
    }
@@ -16007,7 +15992,7 @@ character_db = {
       dynasty = dreux_dynasty # Should be dynasty = dreux_bretagne_dynasty
       tag = FLA
    }
-   # Countess Consort of Vendôme
+   # Countess Consort of Vend?me
    vdm_alix_dreux = {
       first_name = { name = name_alice }
       female = yes
@@ -16141,7 +16126,7 @@ character_db = {
       birth_date = 1057.1.1
       death_date = 1093.8.29
       birth = dijon
-      #mother = Sibil·la de Barcelona
+      #mother = Sibil?la de Barcelona
       dynasty = burgundy_dynasty
       tag = BUR
    }
@@ -16396,7 +16381,7 @@ character_db = {
       birth_date = 1203.1.1
       death_date = 1268.5.16
       birth = saint_jean_de_maurienne
-      #mother = Marguerite de Genève
+      #mother = Marguerite de Gen?ve
       dynasty = savoy_dynasty
       tag = SAV
    }
@@ -16404,7 +16389,7 @@ character_db = {
       first_name = { name = name_beatrix }
       female = yes
 
-      #mother = Agnès de Faucigny
+      #mother = Agn?s de Faucigny
       spouse = dau_guigues_vii_viennois
       father = sav_pierre_ii_savoy
        estate = nobles_estate
@@ -16466,15 +16451,12 @@ character_db = {
       first_name = { name = name_theresa }
       female = yes
 
-      #mother = Jimena Muñoz (Mistress)
+      #mother = Jimena Mu?oz (Mistress)
       spouse = cas_henri_burgundian
       father = lon_alfonso_vi_jimena
 
       ruler_trait = greedy
-       modifier = "bastard"
-      start_date = 1080.1.1
-      date = 9999.1.1
-      estate = nobles_estate
+       estate = nobles_estate
       culture = castilian
       religion = catholic
       birth_date = 1080.1.1
@@ -16544,7 +16526,7 @@ character_db = {
       birth_date = 1185.4.23
       death_date = 1223.3.25
       birth = coimbra
-      #mother = Dolça d'Aragó
+      #mother = Dol?a d'Arag?
       dynasty = burgundy_portuguese_dynasty
       tag = POR
    }
@@ -16562,7 +16544,7 @@ character_db = {
       birth_date = 1209.9.8
       death_date = 1248.1.4
       birth = coimbra
-      #mother = Urraca de Borgoña (Castilla)
+      #mother = Urraca de Borgo?a (Castilla)
       dynasty = burgundy_portuguese_dynasty
       tag = POR
    }
@@ -16584,7 +16566,7 @@ character_db = {
       birth_date = 1210.5.5
       death_date = 1279.2.16
       birth = coimbra
-      #mother = Urraca de Borgoña (Castilla)
+      #mother = Urraca de Borgo?a (Castilla)
       dynasty = burgundy_portuguese_dynasty
       tag = POR
    }
@@ -16645,10 +16627,7 @@ character_db = {
       artist = writer
 
       artist_trait = prominent
-       modifier = "bastard"
-      start_date = 1287.1.1
-      date = 9999.1.1
-      estate = nobles_estate
+       estate = nobles_estate
       culture = portuguese
       religion = catholic
       birth_date = 1287.1.1
@@ -16821,7 +16800,7 @@ character_db = {
       birth_date = 1188.3.24
       death_date = 1223.7.27
       birth = coimbra
-      #mother = Dolça d'Aragó
+      #mother = Dol?a d'Arag?
       dynasty = burgundy_portuguese_dynasty
       tag = FLA
    }
@@ -16870,7 +16849,7 @@ character_db = {
       birth_date = 1056.12.1
       death_date = 1097.1.1
       birth = dole
-      #mother = Étienette de Bourgogne
+      #mother = ?tienette de Bourgogne
       dynasty = ivree_dynasty
       tag = FCB
    }
@@ -16884,7 +16863,7 @@ character_db = {
       birth_date = 1075.1.1
       death_date = 1125.1.1
       birth = dole
-      #mother = Regina von Öttingen
+      #mother = Regina von ?ttingen
       dynasty = ivree_dynasty
       tag = FCB
    }
@@ -16916,7 +16895,7 @@ character_db = {
       birth_date = 1060.1.1
       death_date = 1124.12.13
       birth = montbeliard
-      #mother = Étienette de Bourgogne
+      #mother = ?tienette de Bourgogne
       dynasty = ivree_dynasty
       tag = PAP
    }
@@ -16978,7 +16957,7 @@ character_db = {
       dynasty = fieschi_dynasty
       tag = PAP
    }
-   # Father of the Count of Montbéliard & Previous Count
+   # Father of the Count of Montb?liard & Previous Count
    mtb_renaud_i_chalon_burgundy = {
       first_name = { name = name_reginald }
       mother = fcb_adelaide_i_andechs
@@ -16995,7 +16974,7 @@ character_db = {
       dynasty = chalon_dynasty
       tag = FCB
    }
-   # Unable Count of Montbéliard
+   # Unable Count of Montb?liard
    mtb_othenin_ivree = {
       first_name = { name = name_otto }
       nickname = { name = the_mad }
@@ -17014,7 +16993,7 @@ character_db = {
       dynasty = chalon_dynasty
       tag = MTB
    }
-   # Spouse of the Heir of Montbéliard & Sister of the Count of Montbéliard
+   # Spouse of the Heir of Montb?liard & Sister of the Count of Montb?liard
    mtb_agnes_chalon_burgundy = {
       first_name = { name = name_agnes }
       female = yes
@@ -17033,7 +17012,7 @@ character_db = {
       dynasty = chalon_dynasty
       tag = FCB
    }
-   # Sister of the Count of Montbéliard
+   # Sister of the Count of Montb?liard
    frt_jeanne_chalon_burgundy = {
       first_name = { name = name_joanna }
       female = yes
@@ -17065,7 +17044,7 @@ character_db = {
       dynasty = chalon_dynasty
       tag = AUX
    }
-   # Mother of the Count of Valentinois & Aunt of the Count of Montbéliard
+   # Mother of the Count of Valentinois & Aunt of the Count of Montb?liard
    vln_hippolyte_chalon_burgundy = {
       first_name = { name = name_hippolyte }
       female = yes
@@ -17091,7 +17070,7 @@ character_db = {
       birth_date = 1243.1.1
       death_date = 1309.1.1
       birth = chalon_sur_saone
-      #mother = Béatrice de Chalon
+      #mother = B?atrice de Chalon
       dynasty = chalon_dynasty
       tag = AUX
    }
@@ -17114,7 +17093,7 @@ character_db = {
       first_name = { name = name_eleanor }
       female = yes
 
-      #mother = Sibylle de Baugé
+      #mother = Sibylle de Baug?
       spouse = aux_guillaume_vi_chalon
       spouse = fra_dreux_vi_mello
       father = sav_amedee_v_savoy
@@ -17531,7 +17510,7 @@ character_db = {
       death_date = 1324.1.1 # Was not alive in 1324
       birth = sevilla
       #father = cas_alvar_perez_guzman
-      #mother = María González Girón
+      #mother = Mar?a Gonz?lez Gir?n
       dynasty = guzman_dynasty
       tag = CAS
    }
@@ -17558,10 +17537,7 @@ character_db = {
       first_name = { name = name_peter }
       mother = cas_leonor_guzman # Mistress
       father = cas_alfonso_xi_burgundy
-       modifier = "bastard"
-      start_date = 1331.12.1
-      date = 9999.1.1
-      estate = nobles_estate
+       estate = nobles_estate
       culture = castilian
       religion = catholic
       birth_date = 1331.12.1 # Ends of 1331
@@ -17577,10 +17553,7 @@ character_db = {
       father = cas_alfonso_xi_burgundy
 
       child_trait = child_slow
-       modifier = "bastard"
-      start_date = 1332.12.1
-      date = 9999.1.1
-      estate = nobles_estate
+       estate = nobles_estate
       culture = castilian
       religion = catholic
       birth_date = 1332.12.1 # Ends of 1332
@@ -17596,10 +17569,7 @@ character_db = {
       father = cas_alfonso_xi_burgundy
 
       child_trait = child_ambitious
-       modifier = "bastard"
-      start_date = 1334.1.13
-      date = 9999.1.1
-      estate = nobles_estate
+       estate = nobles_estate
       culture = castilian
       religion = catholic
       birth_date = 1334.1.13
@@ -17614,10 +17584,7 @@ character_db = {
       father = cas_alfonso_xi_burgundy
 
       child_trait = child_rowdy
-       modifier = "bastard"
-      start_date = 1334.1.13
-      date = 9999.1.1
-      estate = nobles_estate
+       estate = nobles_estate
       culture = castilian
       religion = catholic
       birth_date = 1334.1.13
@@ -17645,10 +17612,7 @@ character_db = {
       first_name = { name = name_ferdinand }
       mother = cas_leonor_guzman # Mistress
       father = cas_alfonso_xi_burgundy
-       modifier = "bastard"
-      start_date = 1334.11.1
-      date = 9999.1.1
-      estate = nobles_estate
+       estate = nobles_estate
       culture = castilian
       religion = catholic
       birth_date = 1334.11.1 #Unknown in 1334, later than 30 of August
@@ -17864,7 +17828,7 @@ character_db = {
       birth_date = 1199.1.1
       death_date = 1241.10.29
       birth = montbrison
-      #mother = Adèle de Sully
+      #mother = Ad?le de Sully
       dynasty = albon_dynasty # Should be dynasty = albon_forez_dynasty
       tag = FRZ
    }
@@ -17992,7 +17956,7 @@ character_db = {
       birth_date = 1225.1.1
       death_date = 1270.9.24
       birth = castres
-      #mother = Éleonore de Courtenay
+      #mother = ?leonore de Courtenay
       dynasty = montfort_dynasty # Should be dynasty = montfort_castres_dynasty
       tag = VDM
    }
@@ -18106,7 +18070,7 @@ character_db = {
       dynasty = albon_dynasty # Should be dynasty = albon_forez_dynasty
       tag = FRZ
    }
-   # HOUSE OF ALBRET (Future Counts of Périgord & Kings of Navarra)
+   # HOUSE OF ALBRET (Future Counts of P?rigord & Kings of Navarra)
    aqn_amanieu_vii_albret = {
       first_name = { name = name_emmanuel }
       adm = 75
@@ -18236,7 +18200,7 @@ character_db = {
       first_name = { name = name_mascarose }
       female = yes
 
-      #mother = Anicelle de Fézensac
+      #mother = Anicelle de F?zensac
       spouse = amg_odon_lomagne
       father = amg_geraud_iii_armagnac
        estate = nobles_estate
@@ -18258,7 +18222,7 @@ character_db = {
       death_date = 1178.1.1
       birth = lectoure
       #father = Vezian I de Lomagne
-      #mother = Béatrix
+      #mother = B?atrix
       dynasty = lomagne_dynasty
       tag = AMG
    }
@@ -18297,7 +18261,7 @@ character_db = {
       birth_date = 1190.1.1
       death_date = 1245.3.22
       birth = auch
-      #mother = Géralda de Foix
+      #mother = G?ralda de Foix
       dynasty = armagnac_dynasty
       tag = AMG
    }
@@ -18340,7 +18304,7 @@ character_db = {
       first_name = { name = name_amata }
       female = yes
 
-      #mother = Cécile de Rodez
+      #mother = C?cile de Rodez
       spouse = aqn_bernard_ezi_v_albret
       father = amg_bernard_vi_armagnac
        estate = nobles_estate
@@ -18473,7 +18437,7 @@ character_db = {
       birth_date = 1119.1.1
       death_date = 1176.5.13
       birth = nancy
-      #mother = Adélaide de Louvain
+      #mother = Ad?laide de Louvain
       dynasty = alsace_dynasty
       tag = LOR
    }
@@ -18544,7 +18508,7 @@ character_db = {
       birth_date = 1191.1.1
       death_date = 1220.2.17
       birth = nancy
-      #mother = Agnès de Bar
+      #mother = Agn?s de Bar
       dynasty = alsace_dynasty
       tag = LOR
    }
@@ -18564,7 +18528,7 @@ character_db = {
       birth_date = 1193.1.1
       death_date = 1251.2.9
       birth = nancy
-      #mother = Agnès de Bar
+      #mother = Agn?s de Bar
       dynasty = alsace_dynasty
       tag = LOR
    }
@@ -18801,7 +18765,7 @@ character_db = {
       birth_date = 1175.1.1
       death_date = 1219.9.30
       birth = auch
-      #mother = Géralda de Foix
+      #mother = G?ralda de Foix
       dynasty = armagnac_dynasty
       tag = AMG
    }
@@ -18861,7 +18825,7 @@ character_db = {
       religion = catholic
       birth_date = 1306.1.1
       birth = auch
-      #mother = Cécile de Rodez
+      #mother = C?cile de Rodez
       dynasty = armagnac_dynasty
       tag = AMG
    }
@@ -19113,7 +19077,7 @@ character_db = {
       birth_date = 1224.1.1
       death_date = 1300.3.5
       birth = muret
-      #mother = Cécile de Foix
+      #mother = C?cile de Foix
       dynasty = comminges_dynasty
       tag = COM
    }
@@ -19127,7 +19091,7 @@ character_db = {
       birth_date = 1240.1.1
       death_date = 1312.7.21
       birth = muret
-      #mother = Thérèse
+      #mother = Th?r?se
       dynasty = comminges_dynasty
       tag = COM
    }
@@ -19212,7 +19176,7 @@ character_db = {
       birth_date = 1136.1.1
       death_date = 1193.1.1
       birth = auch
-      #mother = Anicelle de Fézensac
+      #mother = Anicelle de F?zensac
       dynasty = armagnac_dynasty
       tag = AMG
    }
@@ -19225,7 +19189,7 @@ character_db = {
       birth_date = 1170.1.1
       death_date = 1215.1.1
       birth = auch
-      #mother = Étiennette
+      #mother = ?tiennette
       dynasty = armagnac_dynasty
       tag = AMG
    }
@@ -19239,7 +19203,7 @@ character_db = {
       death_date = 960.1.1
       birth = auch
       #father = Garcia Sanche de Gascogne
-      #mother = Amuna d'Angoulême
+      #mother = Amuna d'Angoul?me
       dynasty = astarac_dynasty
       tag = AST
    }
@@ -19395,7 +19359,7 @@ character_db = {
       birth_date = 1250.1.1 # Unknown
       death_date = 1300.1.1
       birth = mirande
-      #mother = Séguine d'Armagnac
+      #mother = S?guine d'Armagnac
       dynasty = astarac_dynasty
       tag = AST
    }
@@ -19566,7 +19530,7 @@ character_db = {
       birth_date = 1044.1.1 # Unknwon
       death_date = 1096.1.1
       birth = riom
-      #mother = Philippie de Gévaudan
+      #mother = Philippie de G?vaudan
       dynasty = auvergne_dynasty
       tag = AUV
    }
@@ -19702,7 +19666,7 @@ character_db = {
       birth_date = 1177.1.1
       death_date = 1250.1.1
       birth = valence
-      #mother = Béatrix d'Albon
+      #mother = B?atrix d'Albon
       dynasty = poitiers_dynasty
       tag = VLN
    }
@@ -19759,7 +19723,7 @@ character_db = {
       first_name = { name = name_anna }
       female = yes
 
-      #mother = Marguerite de Genève
+      #mother = Marguerite de Gen?ve
       spouse = auv_jean_i_clermont
       father = vln_aimar_iv_poitiers
        estate = nobles_estate
@@ -19928,7 +19892,7 @@ character_db = {
       birth_date = 1195.1.1
       death_date = 1247.1.1
       birth = riom
-      #mother = Péronelle de Chambon
+      #mother = P?ronelle de Chambon
       dynasty = auvergne_dynasty
       tag = AUV
    }
@@ -19945,7 +19909,7 @@ character_db = {
       birth_date = 1225.1.1
       death_date = 1277.1.17
       birth = riom
-      #mother = Adélaide de Brabant
+      #mother = Ad?laide de Brabant
       dynasty = auvergne_dynasty
       tag = AUV
    }
@@ -19958,7 +19922,7 @@ character_db = {
       birth_date = 1249.1.1
       death_date = 1280.1.1
       birth = riom
-      #mother = Éléonore de Baffie
+      #mother = ?l?onore de Baffie
       dynasty = auvergne_dynasty
       tag = AUV
    }
@@ -19971,7 +19935,7 @@ character_db = {
       birth_date = 1250.1.1
       death_date = 1314.1.1
       birth = riom
-      #mother = Éléonore de Baffie
+      #mother = ?l?onore de Baffie
       dynasty = auvergne_dynasty
       tag = AUV
    }
@@ -19988,7 +19952,7 @@ character_db = {
       birth_date = 1282.1.1
       death_date = 1325.10.13
       birth = riom
-      #mother = Béatrice de Montgascon
+      #mother = B?atrice de Montgascon
       dynasty = auvergne_dynasty
       tag = AUV
    }
@@ -20038,7 +20002,7 @@ character_db = {
       birth_date = 1248.1.1
       death_date = 1311.1.1
       birth = bruges
-      #mother = Mahaut de Béthune
+      #mother = Mahaut de B?thune
       dynasty = dampierre_dynasty
       tag = FLA
    }
@@ -20119,7 +20083,7 @@ character_db = {
       death_date = 1181.4.5
       birth = arles
       #father = Raymond des Baux
-      #mother = Étienette de Provence
+      #mother = ?tienette de Provence
       dynasty = baux_dynasty
       tag = ORA
    }
@@ -20212,7 +20176,7 @@ character_db = {
       religion = catholic
       birth_date = 1307.1.1
       birth = avellino
-      #mother = Stéphanie d L'Estardad
+      #mother = St?phanie d L'Estardad
       dynasty = baux_dynasty
       tag = NAP
    }
@@ -20272,7 +20236,7 @@ character_db = {
       first_name = { name = name_sybil }
       female = yes
 
-      #mother = Agathe de Mévouillon
+      #mother = Agathe de M?vouillon
       spouse = vln_aymar_v_poitiers
       father = nap_bertrand_iii_baux
        estate = nobles_estate
@@ -20344,7 +20308,7 @@ character_db = {
       religion = catholic
       birth_date = 1296.1.1
       birth = andria
-      #mother = Bérengère d'Andria
+      #mother = B?reng?re d'Andria
       dynasty = baux_dynasty
       tag = NAP
    }
@@ -20442,7 +20406,7 @@ character_db = {
       religion = catholic
       birth_date = 1200.1.1 # Before 1203
       death_date = 1282.11.1
-      #mother = Ermengarde de Mévouillon
+      #mother = Ermengarde de M?vouillon
       birth = orange
       dynasty = baux_dynasty # Should be baux_orange_dynasty
       tag = ORA
@@ -20469,7 +20433,7 @@ character_db = {
       culture = vivaro_alpine
       religion = catholic
       birth_date = 1300.1.1
-      #mother = Eléonore de Géneve
+      #mother = El?onore de G?neve
       birth = orange
       dynasty = baux_dynasty # Should be baux_orange_dynasty
       tag = ORA
@@ -20589,10 +20553,7 @@ character_db = {
       adm = 48
       dip = 81
       mil = 21
-       modifier = "bastard"
-      start_date = 968.1.1
-      date = 9999.1.1
-      estate = clergy_estate
+       estate = clergy_estate
       culture = champenais
       religion = catholic
       birth_date = 968.1.1 # Unknown
@@ -20662,7 +20623,7 @@ character_db = {
       death_date = 1240.1.1
       birth = vendome
       #father = Pierre II de Montoire
-      #mother = Agnès de Vendome
+      #mother = Agn?s de Vendome
       dynasty = montoire_dynasty
       tag = VDM
    }
@@ -20680,7 +20641,7 @@ character_db = {
       birth_date = 1200.1.1
       death_date = 1249.3.25
       birth = vendome
-      #mother = Agnès
+      #mother = Agn?s
       dynasty = montoire_dynasty
       tag = VDM
    }
@@ -20924,7 +20885,7 @@ character_db = {
       birth_date = 1176.1.1
       death_date = 1217.1.1
       birth = sancerre
-      #mother = Béatrox
+      #mother = B?atrox
       dynasty = blois_dynasty # Should be dynasty = sancerre_dynasty
       tag = SAN
    }
@@ -20944,7 +20905,7 @@ character_db = {
       birth_date = 1207.1.1
       death_date = 1267.1.1
       birth = sancerre
-      #mother = Denise de Déois
+      #mother = Denise de D?ois
       dynasty = blois_dynasty # Should be dynasty = sancerre_dynasty
       tag = SAN
    }
@@ -21054,7 +21015,7 @@ character_db = {
       death_date = 1204.6.1
       birth = laon
       #father = Hugues de Pierrepont
-      #mother = Clémence de Rethel
+      #mother = Cl?mence de Rethel
       dynasty = pierrepont_dynasty
       tag = ROU
    }
@@ -21206,7 +21167,7 @@ character_db = {
       birth_date = 1062.1.1
       death_date = 1096.1.1
       birth = troyes
-      #mother = Adéle de Valois
+      #mother = Ad?le de Valois
       dynasty = blois_dynasty
       tag = CHP
    }
@@ -21226,7 +21187,7 @@ character_db = {
       birth_date = 1074.1.1
       death_date = 1126.1.1
       birth = troyes
-      #mother = Adéle de Valois
+      #mother = Ad?le de Valois
       dynasty = blois_dynasty
       tag = CHP
    }
@@ -21238,10 +21199,7 @@ character_db = {
       adm = 40
       dip = 38
       mil = 56
-       modifier = "bastard" # Never recognized by his father
-      start_date = 1123.1.1
-      date = 9999.1.1
-      estate = nobles_estate
+       estate = nobles_estate
       culture = franc_comtois
       religion = catholic
       birth_date = 1123.1.1
@@ -21264,7 +21222,7 @@ character_db = {
       birth_date = 1160.1.1
       death_date = 1209.1.1
       birth = vesoul
-      #mother = Sybille de Laferté-sur-Aube
+      #mother = Sybille de Lafert?-sur-Aube
       dynasty = champlitte_dynasty
       tag = ACH
    }
@@ -21302,7 +21260,7 @@ character_db = {
       religion = catholic
       birth_date = 1300.1.1 # Unknown
       birth = vesoul
-      #mother = Agnès de Rans
+      #mother = Agn?s de Rans
       dynasty = champlitte_dynasty
       tag = FCB
    }
@@ -21495,7 +21453,7 @@ character_db = {
       dynasty = de_brienne_dynasty
       tag = ATH
    }
-   # Other Châtillon
+   # Other Ch?tillon
    chp_gaucher_iv_chatillon = {
       first_name = { name = name_walter }
       mother = bls_marie_avesnes
@@ -21750,7 +21708,7 @@ character_db = {
       birth_date = 1255.1.1
       death_date = 1306.1.1
       birth = beaumont_au_maine
-      #mother = Agnès de Baumont-au-Maine
+      #mother = Agn?s de Baumont-au-Maine
       dynasty = beaumont_dynasty # Should be dynasty = brienne_beaumont_dynasty # Founder of the Line of the Viscounts of Beaumont
       tag = MIE
    }
@@ -22082,7 +22040,7 @@ character_db = {
       religion = catholic
       birth_date = 1285.1.1 # Unknown
       birth = saint_pol
-      #mother = Catherine de Condé
+      #mother = Catherine de Cond?
       dynasty = chatillon_dynasty
       tag = BRB
    }
@@ -22123,7 +22081,7 @@ character_db = {
       religion = catholic
       birth_date = 1290.1.1 # Unknown
       birth = saint_pol
-      #mother = Catherine de Condé
+      #mother = Catherine de Cond?
       #spouse = fla_jean_dampierre
       dynasty = chatillon_dynasty
       tag = FLA
@@ -22139,7 +22097,7 @@ character_db = {
       death_date = 1307.1.1
       birth = saint_pol
       #mother = Mechteld van Brabant
-      dynasty = chatillon_dynasty # Should be dynasty = chatillon_blois_dynasty # Founder of the Blois Line of the House of Châtillon
+      dynasty = chatillon_dynasty # Should be dynasty = chatillon_blois_dynasty # Founder of the Blois Line of the House of Ch?tillon
       tag = BLS
    }
    fla_isabelle_luxembourg = {
@@ -22220,7 +22178,7 @@ character_db = {
       religion = catholic
       birth_date = 1319.1.1
       birth = blois
-      dynasty = chatillon_dynasty # Should be dynasty = chatillon_penthievre_dynasty # Founder of the Penthievre line of the House of Châtillon
+      dynasty = chatillon_dynasty # Should be dynasty = chatillon_penthievre_dynasty # Founder of the Penthievre line of the House of Ch?tillon
       tag = BRI
    }
    # Duchess Consort of Lorraine & Daughter of the Count of Blois
@@ -22242,7 +22200,7 @@ character_db = {
       dynasty = chatillon_dynasty # Should be dynasty = chatillon_blois_dynasty
       tag = LOR
    }
-   # Line of the Counts of Châtillon
+   # Line of the Counts of Ch?tillon
    fra_jean_chatillon = {
       first_name = { name = name_john }
       father = fra_gaucher_v_chatillon
@@ -22269,7 +22227,7 @@ character_db = {
       religion = catholic
       birth_date = 1314.1.1 # unknown
       birth = epernay
-      #mother = Éléonore de Roye
+      #mother = ?l?onore de Roye
       dynasty = chatillon_dynasty
       tag = FRA
    }
@@ -22399,8 +22357,8 @@ character_db = {
       religion = catholic
       birth_date = 1298.1.1
       birth = vesoul
-      #father = Gérard de Chauvirey
-      #mother = Agnès de Châteauneuïl
+      #father = G?rard de Chauvirey
+      #mother = Agn?s de Ch?teauneu?l
       dynasty = chauvirey_dynasty
       tag = FCB
    }
@@ -22469,7 +22427,7 @@ character_db = {
       death_date = 1298.1.1
       birth = tonnerre
       #father = ton_miles_vii_noyers
-      #mother = Hélisende des Barres
+      #mother = H?lisende des Barres
       dynasty = noyers_dynasty
       tag = BUR
    }
@@ -22560,7 +22518,7 @@ character_db = {
       birth_date = 1034.1.1 # Unknown
       death_date = 1095.1.1
       birth = tulle
-      #father = Arcambal de Combòrn
+      #father = Arcambal de Comb?rn
       #mother = Rotburga de Rochechouart
       dynasty = de_ventadour_dynasty
       tag = VNT
@@ -22598,7 +22556,7 @@ character_db = {
       birth_date = 1127.1.1 # Unknown
       death_date = 1170.1.1
       birth = ventadour
-      #mother = Agnes de Montluçon
+      #mother = Agnes de Montlu?on
       dynasty = de_ventadour_dynasty
       tag = VNT
    }
@@ -22674,7 +22632,7 @@ character_db = {
       birth_date = 1266.1.1 # Unknown
       death_date = 1321.1.1
       birth = ventadour
-      #mother = Blanche de Châteuneuf
+      #mother = Blanche de Ch?teuneuf
       dynasty = de_ventadour_dynasty
       tag = VNT
    }
@@ -23138,7 +23096,7 @@ character_db = {
       birth_date = 1253.1.1
       death_date = 1302.1.13
       birth = susa
-      #mother = Béatrice Fieschi
+      #mother = B?atrice Fieschi
       dynasty = savoy_dynasty # Should be dynasty = savoie_vaud_dynasty # Founder of the Vaud line of the House of Savoy
       tag = VUD
    }
@@ -23265,7 +23223,7 @@ character_db = {
       birth_date = 1243.1.1
       death_date = 1321.1.1
       birth = coucy
-      #father = Arnould III de Guînes
+      #father = Arnould III de Gu?nes
       #mother = Alix Marie de Coucy
       dynasty = coucy_dynasty
       tag = FRA
@@ -23508,7 +23466,7 @@ character_db = {
       religion = catholic
       birth_date = 1318.1.1
       birth = mayenne
-      dynasty = craon_dynasty # Should be dynasty = craon_chateaudun_dynasty # Founder of the Chateâudun line of the House of Craon
+      dynasty = craon_dynasty # Should be dynasty = craon_chateaudun_dynasty # Founder of the Chate?udun line of the House of Craon
       tag = ALE
    }
    ale_jean_craon = {
@@ -23559,7 +23517,7 @@ character_db = {
       birth_date = 1249.1.1
       death_date = 1322.9.17
       birth = bruges
-      #mother = Mahaut de Béthune
+      #mother = Mahaut de B?thune
       dynasty = dampierre_dynasty # Should be dynasty = dampierre_flanders_dynasty
       tag = FLA
    }
@@ -23918,7 +23876,7 @@ character_db = {
       dynasty = foix_dynasty
       tag = FOI
    }
-   # Father of the Count of Foix & Béarn & Viscount of Mont-de-Marsan & Previous Count of Foix & Béarn & Viscount of Mont-de-Marsan
+   # Father of the Count of Foix & B?arn & Viscount of Mont-de-Marsan & Previous Count of Foix & B?arn & Viscount of Mont-de-Marsan
    foi_gaston_i_foix = {
       first_name = { name = name_gaston }
       father = foi_roger_bernard_iii_foix
@@ -23939,7 +23897,7 @@ character_db = {
       dynasty = foix_dynasty
       tag = FOI
    }
-   # Count of Foix & Béarn & Viscount of Mont-de-Marsan
+   # Count of Foix & B?arn & Viscount of Mont-de-Marsan
    foi_gaston_ii_foix = {
       first_name = { name = name_gaston }
       mother = foi_jeanne_artois
@@ -23966,10 +23924,7 @@ character_db = {
       mil = 29
 
       child_trait = child_gallant
-       modifier = "bastard"
-      start_date = 1330.1.1
-      date = 9999.1.1
-      estate = nobles_estate
+       estate = nobles_estate
       culture = languedocien
       religion = catholic
       birth_date = 1330.1.1
@@ -24152,7 +24107,7 @@ character_db = {
       birth_date = 1230.1.1
       death_date = 1264.1.1
       birth = beirut
-      #mother = Echive de Montbéliard
+      #mother = Echive de Montb?liard
       dynasty = ibelin_dynasty
       tag = KOJ
    }
@@ -24202,8 +24157,8 @@ character_db = {
       last_name = { name = de_Levis }
       female = yes
 
-      #father = Eustache de Lévis
-      #mother = Béatrix de Thurey
+      #father = Eustache de L?vis
+      #mother = B?atrix de Thurey
       spouse = ijo_bernard_iv_lisle_jourdain
        estate = nobles_estate
       culture = languedocien
@@ -24256,7 +24211,7 @@ character_db = {
       first_name = { name = name_joanna }
       female = yes
 
-      #mother = Vacquerie Adhémar
+      #mother = Vacquerie Adh?mar
       spouse = nrb_amalric_ii_lara
       father = ijo_jourdain_iv_lisle_jourdain
        estate = nobles_estate
@@ -24275,7 +24230,7 @@ character_db = {
       female = yes
 
       #father = chp_guillaume_joinville
-      #mother = Béatrix de Brienne
+      #mother = B?atrix de Brienne
       spouse = saa_johann_saarbrucken
        estate = nobles_estate
       culture = champenais
@@ -24364,7 +24319,7 @@ character_db = {
       birth_date = 1300.1.1
       birth = laval
       #father = Guy IX de Laval
-      #mother = Béatrix de Gavre
+      #mother = B?atrix de Gavre
       dynasty = laval_dynasty
       tag = BRI
    }
@@ -24524,7 +24479,7 @@ character_db = {
       birth_date = 1257.3.24
       death_date = 1314.10.12
       birth = aubusson
-      #mother = Jeanne de Fougéres
+      #mother = Jeanne de Foug?res
       #spouse = fra_helie_i_rudel_pons
       dynasty = lusignan_dynasty
       tag = FRA
@@ -24539,7 +24494,7 @@ character_db = {
       birth_date = 1259.6.29
       death_date = 1303.11.1
       birth = aubusson
-      #mother = Jeanne de Fougéres
+      #mother = Jeanne de Foug?res
       dynasty = lusignan_dynasty
       tag = MRC
    }
@@ -24555,7 +24510,7 @@ character_db = {
       birth_date = 1269.1.1
       death_date = 1308.11.1
       birth = aubusson
-      #mother = Jeanne de Fougéres
+      #mother = Jeanne de Foug?res
       dynasty = lusignan_dynasty
       tag = MRC
    }
@@ -24746,7 +24701,7 @@ character_db = {
       dynasty = mauvoisin_dynasty
       tag = FRA
    }
-   # HOUSE OF MONTFAUCON (Counts of Montbéliard)
+   # HOUSE OF MONTFAUCON (Counts of Montb?liard)
    fcb_richard_ii_montfaucon = {
       first_name = { name = name_richard }
       adm = 52
@@ -24758,7 +24713,7 @@ character_db = {
       birth_date = 1110.1.1 # Unknown
       death_date = 1162.1.1
       birth = besancon
-      #father = Amédée I de Montfaucon
+      #father = Am?d?e I de Montfaucon
       #mother = Unknown Neuchatel
       dynasty = montfaucon_dynasty
       tag = FCB
@@ -24822,7 +24777,7 @@ character_db = {
       birth_date = 1150.1.1 # Parents married 1145
       death_date = 1227.7.17
       birth = montbeliard
-      #mother = Béatrice de Joinville
+      #mother = B?atrice de Joinville
       dynasty = montfaucon_dynasty
       tag = MTB
    }
@@ -24838,7 +24793,7 @@ character_db = {
       birth_date = 1205.1.1
       death_date = 1283.7.17
       birth = montbeliard
-      #mother = Agnès de Bourgogne
+      #mother = Agn?s de Bourgogne
       dynasty = montfaucon_dynasty
       tag = MTB
    }
@@ -24857,7 +24812,7 @@ character_db = {
       dynasty = montfaucon_dynasty
       tag = NEU
    }
-   # Granfather of the Heir to the County of Montbéliard
+   # Granfather of the Heir to the County of Montb?liard
    fcb_amedee_iii_montfaucon = {
       first_name = { name = name_amadeus }
       father = mtb_richard_iii_montfaucon
@@ -24870,7 +24825,7 @@ character_db = {
       birth_date = 1207.1.1
       death_date = 1280.1.15
       birth = montbeliard
-      #mother = Agnès de Bourgogne
+      #mother = Agn?s de Bourgogne
       dynasty = montfaucon_dynasty
       tag = FCB
    }
@@ -24891,7 +24846,7 @@ character_db = {
       dynasty = montfaucon_dynasty
       tag = FCB
    }
-   # Heir to the County of Montbéliard
+   # Heir to the County of Montb?liard
    mtb_henri_i_montfaucon = {
       first_name = { name = name_henry }
       father = fcb_gauthier_ii_montfaucon
@@ -24911,7 +24866,7 @@ character_db = {
       dynasty = montfaucon_dynasty
       tag = MTB
    }
-   # Childs of the Heir to the County of Montbéliard
+   # Childs of the Heir to the County of Montb?liard
    mtb_jeanne_montfaucon = {
       first_name = { name = name_joanna }
       female = yes
@@ -24989,7 +24944,7 @@ character_db = {
       dynasty = montfaucon_dynasty
       tag = MTB
    }
-   # Brother of the Heir to the County of Montbéliard
+   # Brother of the Heir to the County of Montb?liard
    fcb_girard_montfaucon = {
       first_name = { name = name_gerard }
       father = fcb_gauthier_ii_montfaucon
@@ -25062,7 +25017,7 @@ character_db = {
       birth_date = 1060.1.1 # Father's second marriage
       death_date = 1089.1.1
       birth = monfort_lamaury
-      #mother = Agnès d'Evreux
+      #mother = Agn?s d'Evreux
       dynasty = montfort_dynasty
       tag = MON
    }
@@ -25078,7 +25033,7 @@ character_db = {
       birth_date = 1062.1.1 # Father's second marriage
       death_date = 1101.9.25
       birth = monfort_lamaury
-      #mother = Agnès d'Evreux
+      #mother = Agn?s d'Evreux
       dynasty = montfort_dynasty
       tag = MON
    }
@@ -25137,7 +25092,7 @@ character_db = {
       birth_date = 1122.1.1 # Youngest child
       death_date = 1140.1.1
       birth = arras
-      #mother = Agnès de Garlande
+      #mother = Agn?s de Garlande
       dynasty = montfort_dynasty
       tag = EVR
    }
@@ -25735,7 +25690,7 @@ character_db = {
       religion = catholic
       birth_date = 1291.1.1
       birth = valence
-      #mother = Marguerite de Genève
+      #mother = Marguerite de Gen?ve
       dynasty = poitiers_dynasty
       tag = VLN
    }
@@ -25766,7 +25721,7 @@ character_db = {
       birth_date = 1248.1.1
       death_date = 1282.5.16
       birth = susa
-      #mother = Béatrice Fieschi
+      #mother = B?atrice Fieschi
       dynasty = savoy_dynasty # Should be dynasty = savoy_achaia_dynasty # Founder of the Achaea-Piedmont line of the House of Savoy
       tag = PIE
    }
@@ -25835,7 +25790,7 @@ character_db = {
       first_name = { name = name_catherine }
       female = yes
 
-      #mother = Marguerite de Genève
+      #mother = Marguerite de Gen?ve
       spouse = nrb_aimeric_v_lara
       father = vln_aimar_iv_poitiers
        estate = nobles_estate
@@ -25851,7 +25806,7 @@ character_db = {
       first_name = { name = name_eleanor }
       female = yes
 
-      #mother = Marguerite de Genève
+      #mother = Marguerite de Gen?ve
       spouse = bar_pierre_scarpone
       father = vln_aimar_iv_poitiers
        estate = nobles_estate
@@ -25978,7 +25933,7 @@ character_db = {
       birth_date = 1262.1.1 # Unknown
       death_date = 1312.1.1
       birth = tulle
-      #father = Péire Roger
+      #father = P?ire Roger
       #mother = Unknown
       dynasty = roger_dynasty
       tag = FRA
@@ -26165,7 +26120,7 @@ character_db = {
       birth_date = 1043.1.1
       death_date = 1078.7.9
       birth = turin
-      #mother = Adélaide de Susa
+      #mother = Ad?laide de Susa
       dynasty = savoy_dynasty
       tag = SAV
    }
@@ -26179,7 +26134,7 @@ character_db = {
       birth_date = 1224.12.1
       death_date = 1263.6.11
       birth = chambery
-      #mother = Cécile des Baux
+      #mother = C?cile des Baux
       dynasty = savoy_dynasty
       tag = SAV
    }
@@ -26196,7 +26151,7 @@ character_db = {
       birth_date = 1284.2.8
       death_date = 1329.11.4
       birth = trevoux
-      #mother = Sibylle de Baugé
+      #mother = Sibylle de Baug?
       dynasty = savoy_dynasty
       tag = SAV
    }
@@ -26231,7 +26186,7 @@ character_db = {
       religion = catholic
       birth_date = 1291.12.15
       birth = chambery
-      #mother = Sibylle de Baugé
+      #mother = Sibylle de Baug?
       dynasty = savoy_dynasty
       tag = SAV
    }
@@ -26295,7 +26250,7 @@ character_db = {
       religion = catholic
       birth_date = 1285.1.1
       birth = trevoux
-      #mother = Sibylle de Baugé
+      #mother = Sibylle de Baug?
       #spouse = mfa_giovanni_i_monferrato
       dynasty = savoy_dynasty
       tag = SAV
@@ -26311,8 +26266,8 @@ character_db = {
       birth_date = 1286.1.1
       death_date = 1322.10.4
       birth = chambery
-      #mother = Sibylle de Baugé
-      #spouse = Guillaume III de Genève
+      #mother = Sibylle de Baug?
+      #spouse = Guillaume III de Gen?ve
       dynasty = savoy_dynasty
       tag = GNV
    }
@@ -26505,10 +26460,7 @@ character_db = {
       #mother = A Mistress
       spouse = zie_bolko_ii_ziebice
       father = sav_louis_ii_savoy_vaud
-       modifier = "bastard"
-      start_date = 1305.1.1
-      date = 9999.1.1
-      estate = nobles_estate
+       estate = nobles_estate
       culture = arpitan
       religion = catholic
       birth_date = 1305.1.1 # Married 1321
@@ -26547,7 +26499,7 @@ character_db = {
       dynasty = savoy_dynasty # Should be dynasty = savoie_vaud_dynasty
       tag = MLO
    }
-   # Countess Consort of Neuchâtel
+   # Countess Consort of Neuch?tel
    neu_eleonore_savoy_vaud = {
       first_name = { name = name_eleanor }
       female = yes
@@ -26580,7 +26532,7 @@ character_db = {
       birth_date = 1207.1.1
       death_date = 1285.8.15
       birth = chambery
-      #mother = Marguerite de Genève
+      #mother = Marguerite de Gen?ve
       dynasty = savoy_dynasty
       tag = SAV
    }
@@ -26600,7 +26552,7 @@ character_db = {
       birth_date = 1158.1.1
       death_date = 1214.2.13
       birth = bar_le_duc
-      #mother = Agnés de Blois
+      #mother = Agn?s de Blois
       dynasty = de_bar_dynasty
       tag = BAR
    }
@@ -26817,7 +26769,7 @@ character_db = {
       birth_date = 1225.1.1
       death_date = 1256.12.11
       birth = thouars
-      #mother = Alix de Mauléon
+      #mother = Alix de Maul?on
       dynasty = thouars_dynasty
       tag = POI
    }
@@ -27089,7 +27041,7 @@ character_db = {
       death_date = 1236.1.1
       birth = chaumont_vexin
       #father = Enguerrand Aiguillon
-      #mother = Heiddiva de Mouchy-le-Châtel
+      #mother = Heiddiva de Mouchy-le-Ch?tel
       dynasty = trie_dynasty
       tag = FRA
    }
@@ -27146,7 +27098,7 @@ character_db = {
       religion = catholic
       birth_date = 1294.1.1 # Parents married 1290
       birth = meaux
-      #mother = Philippe de Beaumont-en-Gâtinais
+      #mother = Philippe de Beaumont-en-G?tinais
       dynasty = trie_dynasty
       tag = FRA
    }
@@ -28430,7 +28382,7 @@ character_db = {
       first_name = { name = name_caesarea }
       female = yes
 
-      #mother = A woman from House Alagón
+      #mother = A woman from House Alag?n
       spouse = sic_giovanni_sicily
       father = sic_pietro_lancia
        estate = nobles_estate
@@ -29074,7 +29026,7 @@ character_db = {
       birth_date = 1205.1.1
       death_date = 1230.1.1
       birth = thessaloniki
-      #mother = Margit Árpád
+      #mother = Margit ?rp?d
       dynasty = aleramici_dynasty
       tag = SIC
    }
@@ -29808,10 +29760,7 @@ character_db = {
    ver_altino_castracani = { # Bastard
       first_name = { name = name_altino }
       father = luc_castruccio_castracani
-       modifier = "bastard"
-      start_date = 1317.1.1
-      date = 9999.1.1
-      estate = nobles_estate
+       estate = nobles_estate
       culture = tuscan
       religion = catholic
       birth_date = 1317.1.1 # Unknown
@@ -31874,10 +31823,7 @@ character_db = {
    pad_bonifacio_carrara_ii = {
       first_name = { name = name_boniface }
       father = pad_giacomo_ii_carrara
-       modifier = "bastard"
-      start_date = 1322.1.1
-      date = 9999.1.1
-      estate = clergy_estate
+       estate = clergy_estate
       culture = venetian
       religion = catholic
       birth_date = 1322.1.1 # Unknown
@@ -31928,7 +31874,7 @@ character_db = {
       dynasty = carrara_dynasty # Should be dynasty = carrara_papafava_dynasty
       tag = PAD
    }
-   # HOUSE FORZATÉ
+   # HOUSE FORZAT?
    pad_marzio_forzate = {
       first_name = { name = name_marcius }
        estate = nobles_estate
@@ -33232,7 +33178,7 @@ character_db = {
       first_name = { name = name_antonia }
       female = yes
 
-      #mother = Guidaccia della Palú
+      #mother = Guidaccia della Pal?
       spouse = man_feltrino_gonzaga
       father = pad_guido_iv_correggio
        estate = nobles_estate
@@ -33254,7 +33200,7 @@ character_db = {
       religion = catholic
       birth_date = 1317.1.1
       birth = reggioem
-      #mother = Guidaccia della Palú
+      #mother = Guidaccia della Pal?
       dynasty = correggio_dynasty
       tag = PAD
    }
@@ -33269,7 +33215,7 @@ character_db = {
       religion = catholic
       birth_date = 1318.1.1
       birth = reggioem
-      #mother = Guidaccia della Palú
+      #mother = Guidaccia della Pal?
       dynasty = correggio_dynasty
       tag = PAD
    }
@@ -33277,7 +33223,7 @@ character_db = {
       first_name = { name = name_beatrix }
       female = yes
 
-      #mother = Guidaccia della Palú
+      #mother = Guidaccia della Pal?
       spouse = pad_marsiglio_carrara
       father = pad_guido_iv_correggio
        estate = nobles_estate
@@ -33379,10 +33325,7 @@ character_db = {
    ven_zarino_dandolo = {
       first_name = { name = name_lazarus }
       father = ven_francesco_dandolo
-       modifier = "bastard"
-      start_date = 1300.1.1
-      date = 9999.1.1
-      estate = nobles_estate
+       estate = nobles_estate
       culture = venetian
       religion = catholic
       birth_date = 1300.1.1 # Unknown
@@ -33740,10 +33683,7 @@ character_db = {
       mil = 1
 
       child_trait = child_ambitious
-       modifier = "bastard"
-      start_date = 1337.1.1
-      date = 9999.1.1
-      estate = nobles_estate
+       estate = nobles_estate
       culture = ligurian
       religion = catholic
       birth_date = 1337.1.1
@@ -34112,10 +34052,7 @@ character_db = {
       mil = 9
 
       child_trait = child_gregarious
-       modifier = "bastard"
-      start_date = 1325.1.1
-      date = 9999.1.1
-      estate = clergy_estate
+       estate = clergy_estate
       culture = emilian
       religion = catholic
       birth_date = 1325.1.1
@@ -34145,10 +34082,7 @@ character_db = {
       mil = 15
 
       child_trait = child_rowdy
-       modifier = "bastard"
-      start_date = 1332.1.1
-      date = 9999.1.1
-      estate = nobles_estate
+       estate = nobles_estate
       culture = emilian
       religion = catholic
       birth_date = 1332.1.1
@@ -35934,10 +35868,7 @@ character_db = {
       adm = 39
       dip = 29
       mil = 76
-       modifier = "bastard"
-      start_date = 1319.1.1
-      date = 9999.1.1
-      estate = nobles_estate
+       estate = nobles_estate
       culture = emilian
       religion = catholic
       birth_date = 1319.1.1
@@ -36258,7 +36189,7 @@ character_db = {
       religion = catholic
       birth_date = 1295.1.1 # Unknown
       birth = verona
-      #father = Nicolò da Lozzo
+      #father = Nicol? da Lozzo
       #mother = Unknown
       tag = PAD
    }
@@ -38384,7 +38315,7 @@ character_db = {
       birth_date = 1315.1.1
       birth = genoa
       dynasty = di_pagana_dynasty
-      #father = Niccolò di Pagana
+      #father = Niccol? di Pagana
       #mother = Unknown
       tag = GEN
    }
@@ -40738,10 +40669,7 @@ character_db = {
       #mother = Sibilla Sormella # Mistress
       spouse = sic_raimondo_peralta
       father = sic_federico_iii_sicily
-       modifier = "bastard"
-      start_date = 1297.1.1
-      date = 9999.1.1
-      estate = nobles_estate
+       estate = nobles_estate
       culture = catalan
       religion = catholic
       birth_date = 1297.1.1
@@ -41377,10 +41305,7 @@ character_db = {
    ver_bailardino_scala = {
       first_name = { name = name_bailardo }
       father = ver_bartolomeo_scala
-       modifier = "bastard"
-      start_date = 1302.1.1
-      date = 9999.1.1
-      estate = nobles_estate
+       estate = nobles_estate
       culture = venetian
       religion = catholic
       birth_date = 1302.1.1 # Unknown. Died 1352
@@ -41534,7 +41459,7 @@ character_db = {
       birth_date = 1178.1.1
       death_date = 1211.1.1
       birth = oristano
-      #father = Hugh Ponç de Cervera
+      #father = Hugh Pon? de Cervera
       #mother = Sinispella di Lacon-Serra
       dynasty = serra_bas_dynasty
       tag = ARB
@@ -41635,10 +41560,7 @@ character_db = {
       mil = 77
 
       ruler_trait = bold_fighter
-       modifier = "bastard"
-      start_date = 1300.1.1
-      date = 9999.1.1
-      estate = nobles_estate
+       estate = nobles_estate
       culture = sardinian
       religion = catholic
       birth_date = 1300.1.1
@@ -42598,10 +42520,7 @@ character_db = {
       adm = 28
       dip = 52
       mil = 30
-       modifier = "bastard"
-      start_date = 1310.1.1
-      date = 9999.1.1
-      estate = nobles_estate
+       estate = nobles_estate
       culture = lombard
       religion = catholic
       birth_date = 1310.1.1
@@ -43279,7 +43198,7 @@ character_db = {
       tag = PAP
    }
    #Next Next Pope
-   #Innocent VI, born Étienne Aubert (https://en.wikipedia.org/wiki/Pope_Innocent_VI)
+   #Innocent VI, born ?tienne Aubert (https://en.wikipedia.org/wiki/Pope_Innocent_VI)
    pap_innocenzo_vi = {
       first_name = { name = name_stephen }
       last_name = { name = aubert }
@@ -43308,7 +43227,7 @@ character_db = {
       birth_date = 1310.1.1
       birth = mende
       #father = Guilhem de Grimoard
-      #mother = Amphèlise de Sabran
+      #mother = Amph?lise de Sabran
       tag = FRA
    }
    # Future Pope
@@ -43377,7 +43296,7 @@ character_db = {
        estate = burghers_estate
       culture = median
       religion = catholic
-      birth_date = 1215.1.1 # In 1251 he was Podestá of Montegiorgio
+      birth_date = 1215.1.1 # In 1251 he was Podest? of Montegiorgio
       death_date = 1290.1.1 # He was alive in 1287, but surely dead at the start of the XIVth Century.
       birth = macerata
       #father = Mulo
@@ -43530,10 +43449,7 @@ character_db = {
       mil = 35
 
       child_trait = child_rowdy
-       modifier = "bastard"
-      start_date = 1325.1.1
-      date = 9999.1.1
-      estate = nobles_estate
+       estate = nobles_estate
       culture = median
       religion = catholic
       birth_date = 1325.1.1 # Unknown
@@ -44642,7 +44558,7 @@ character_db = {
       birth_date = 1302.12.1
       birth = cuenca
       dynasty = albornoz_dynasty
-      #father = Garci Álvarez de Albornoz
+      #father = Garci ?lvarez de Albornoz
       #mother = Teresa de Luna
       tag = CAS
    }
@@ -44672,10 +44588,7 @@ character_db = {
       mil = 52
 
       ruler_trait = sinner
-       modifier = "bastard"
-      start_date = 729.1.1
-      date = 9999.1.1
-      estate = nobles_estate
+       estate = nobles_estate
       culture = leonese
       religion = catholic
       birth_date = 729.1.1 # Unknown
@@ -44706,7 +44619,7 @@ character_db = {
       birth_date = 870.1.1
       death_date = 914.1.1
       birth = oviedo
-      #mother = Jimena Muñoz
+      #mother = Jimena Mu?oz
       dynasty = asturleonesa_dynasty
       tag = LON
    }
@@ -44722,7 +44635,7 @@ character_db = {
       birth_date = 895.1.1
       death_date = 929.6.10
       birth = santiago_compostela
-      #mother = Elvira Menéndez
+      #mother = Elvira Men?ndez
       dynasty = asturleonesa_dynasty
       tag = GLC
    }
@@ -44757,7 +44670,7 @@ character_db = {
       birth_date = 925.1.1
       death_date = 963.1.1
       birth = santiago_compostela
-      #mother = Óneca Sánchez de Pamplona
+      #mother = ?neca S?nchez de Pamplona
       dynasty = asturleonesa_dynasty
       tag = LON
    }
@@ -44773,7 +44686,7 @@ character_db = {
       birth_date = 1017.5.1 # between Jan 26 & Aug 7
       death_date = 1037.9.4
       birth = leon
-      #mother = Elvira Menéndez
+      #mother = Elvira Men?ndez
       dynasty = asturleonesa_dynasty
       tag = LON
    }
@@ -44789,7 +44702,7 @@ character_db = {
       birth_date = 935.1.1
       death_date = 966.12.17 # Between days 15 & 19
       birth = leon
-      #mother = Urraca Sánchez
+      #mother = Urraca S?nchez
       dynasty = asturleonesa_dynasty
       tag = LON
    }
@@ -44804,7 +44717,7 @@ character_db = {
       birth_date = 961.1.1
       death_date = 985.6.26
       birth = leon
-      #mother = Teresa Ansúrez
+      #mother = Teresa Ans?rez
       dynasty = asturleonesa_dynasty
       tag = LON
    }
@@ -44820,7 +44733,7 @@ character_db = {
       birth_date = 874.1.1
       death_date = 925.8.1
       birth = oviedo
-      #mother = Jimena Muñoz
+      #mother = Jimena Mu?oz
       dynasty = asturleonesa_dynasty
       tag = LON
    }
@@ -44834,7 +44747,7 @@ character_db = {
       birth_date = 911.1.1 # Unknown
       death_date = 932.8.1
       birth = oviedo
-      #mother = Jimena Muñoz
+      #mother = Jimena Mu?oz
       dynasty = asturleonesa_dynasty
       tag = LON
    }
@@ -44953,8 +44866,8 @@ character_db = {
       last_name = { name = d_entenca }
       female = yes
 
-      #father = Gombau d'Entença
-      #mother = Constança de Antilló
+      #father = Gombau d'Enten?a
+      #mother = Constan?a de Antill?
       spouse = ara_alfonso_iv_arago
        estate = nobles_estate
       culture = catalan
@@ -45190,10 +45103,7 @@ character_db = {
       adm = 41
       dip = 65
       mil = 33
-       modifier = "bastard"
-      start_date = 1292.1.1
-      date = 9999.1.1
-      estate = nobles_estate
+       estate = nobles_estate
       culture = catalan
       religion = catholic
       birth_date = 1292.1.1 # between 1290 & 1294
@@ -45683,7 +45593,7 @@ character_db = {
       birth_date = 1114.12.1
       death_date = 1144.3.1
       birth = montpellier
-      #mother = Doça I de Provença
+      #mother = Do?a I de Proven?a
       dynasty = barcelona_dynasty
       tag = PRO
    }
@@ -45700,7 +45610,7 @@ character_db = {
       birth_date = 1136.1.1
       death_date = 1166.3.1
       birth = montpellier
-      #mother = Béatrice de Melgueil
+      #mother = B?atrice de Melgueil
       dynasty = barcelona_dynasty
       tag = PRO
    }
@@ -45729,10 +45639,7 @@ character_db = {
       adm = 47
       dip = 64
       mil = 24
-       modifier = "bastard"
-      start_date = 1320.1.1
-      date = 9999.1.1
-      estate = nobles_estate
+       estate = nobles_estate
       culture = galician
       religion = catholic
       birth_date = 1320.1.1
@@ -45762,7 +45669,7 @@ character_db = {
       #dynasty = castro_dynasty
       tag = CAS
    }
-   # Succeded Vasco Rodríguez Cornado as Grandmaster of the Order of Santiago after Royal petition
+   # Succeded Vasco Rodr?guez Cornado as Grandmaster of the Order of Santiago after Royal petition
    sto_alonso_melendez_guzman = {
       first_name = { name = name_alphonse }
       father = cas_pedro_nunez_guzman_ii
@@ -45924,9 +45831,9 @@ character_db = {
       religion = catholic
       birth_date = 1282.1.1
       birth = elizondo
-      #father = Juán Corbarán de Lehet
-      #mother = Urraca Vélez de Guevara
-      #spouse = ara_sancha_valles_de_foces, urraca (D)/Elvira (D) and Juán (S)
+      #father = Ju?n Corbar?n de Lehet
+      #mother = Urraca V?lez de Guevara
+      #spouse = ara_sancha_valles_de_foces, urraca (D)/Elvira (D) and Ju?n (S)
       dynasty = lehet_dynasty
       tag = NAV
    }
@@ -45940,7 +45847,7 @@ character_db = {
       religion = catholic
       birth_date = 1261.1.1
       birth = estella
-      #spouse = nav_aldonza_sanchez, Juán (S), Sancho (S), Fernando (S), Álvaro (S), Juán (S), Rodrigo (S)
+      #spouse = nav_aldonza_sanchez, Ju?n (S), Sancho (S), Fernando (S), ?lvaro (S), Ju?n (S), Rodrigo (S)
       dynasty = medrano_dynasty
       tag = NAV
    }
@@ -46107,7 +46014,7 @@ character_db = {
       religion = catholic
       birth_date = 1316.1.1 # Unknown
       birth = narbonne
-      #mother = Galharda de Lévis
+      #mother = Galharda de L?vis
       dynasty = lara_dynasty # Should be dynasty = lara_narbonne_dynasty
       tag = NRB
    }
@@ -46120,7 +46027,7 @@ character_db = {
       religion = catholic
       birth_date = 1318.1.1 # Unknown
       birth = narbonne
-      #mother = Galharda de Lévis
+      #mother = Galharda de L?vis
       dynasty = lara_dynasty # Should be dynasty = lara_narbonne_dynasty
       tag = NRB
    }
@@ -46499,7 +46406,7 @@ character_db = {
       dynasty = nasrid_dynasty
       tag = GRA
    }
-   # HOUSE OF PELAYO (Former Kings of León)
+   # HOUSE OF PELAYO (Former Kings of Le?n)
    lon_pelagio_asturias = { #https://en.wikipedia.org/wiki/Pelagius_of_Asturias
       first_name = { name = name_pelagius }
       adm = 39
@@ -46582,7 +46489,7 @@ character_db = {
       birth_date = 760.1.1
       death_date = 842.3.20
       birth = oviedo
-      #mother = Munia de Álava
+      #mother = Munia de ?lava
       dynasty = pelagia_dynasty
       tag = LON
    }
@@ -46626,7 +46533,7 @@ character_db = {
       birth_date = 1295.1.1
       birth = villafranca_del_penedes
       #father = ara_berenguer_vilaragut
-      #mother = Geralda de Sarriá
+      #mother = Geralda de Sarri?
       dynasty = vilaragut_dynasty
       tag = SIC
    }
@@ -46668,8 +46575,8 @@ character_db = {
       birth_date = 1328.11.25
       birth = zaragoza
       dynasty = luna_dynasty
-      #father = Juan Martínez de Luna
-      #mother = Teresa Pérez de Gotor
+      #father = Juan Mart?nez de Luna
+      #mother = Teresa P?rez de Gotor
       tag = ARA
    }
    #-------------------------- West africa ----------------------------
@@ -55892,10 +55799,7 @@ character_db = {
 
       spouse = random
       father = jap_shimazu_sadahisa
-       modifier = "bastard"
-      start_date = 1300.1.1
-      date = 9999.1.1
-      culture = kyushu_culture
+       culture = kyushu_culture
       religion = shinto
       birth_date = 1300.1.1 #Unknown
       birth = satsuma
@@ -69058,11 +68962,11 @@ character_db = {
       birth_date = 1129.1.1
       death_date = 1195.8.6
       birth = ravensburg
-      #mother = Gertrud von Süpplingenburg
+      #mother = Gertrud von S?pplingenburg
       dynasty = welfen_dynasty
       tag = LUN
    }
-   # Brünswick-Lüneburg line
+   # Br?nswick-L?neburg line
    lun_william_winchester = {
       first_name = { name = name_william }
       father = lun_heinrich_the_lion
@@ -69093,8 +68997,8 @@ character_db = {
       dynasty = welfen_dynasty
       tag = LUN
    }
-   # Line of the Princes of Lüneburg
-   # Grandfather of Prince of Lüneburg & Former Prince
+   # Line of the Princes of L?neburg
+   # Grandfather of Prince of L?neburg & Former Prince
    lun_johann_i_braunschweig_luneburg = { #https://en.wikipedia.org/wiki/John,_Duke_of_Brunswick-L%C3%BCneburg
       first_name = { name = name_john }
       father = bru_otto_i_braunschweig
@@ -69115,7 +69019,7 @@ character_db = {
       dynasty = welfen_dynasty # Should be dynasty = welfen_celle_dynasty # Founder of the Elder line of Luneburg
       tag = LUN
    }
-   # Countess Consort of Wenigerode & Aunt of the Prince of Lüneburg
+   # Countess Consort of Wenigerode & Aunt of the Prince of L?neburg
    wgo_helene_von_braunschweig = {
       first_name = { name = name_helen }
       female = yes
@@ -69839,7 +69743,7 @@ character_db = {
       tag = VEL
    }
    # Gruyere
-   gry_guillaume_ii_de_gruyere = { # Founder of the Gruyère line
+   gry_guillaume_ii_de_gruyere = { # Founder of the Gruy?re line
       first_name = { name = name_william }
        culture = high_alemannic
       religion = catholic
@@ -69893,7 +69797,7 @@ character_db = {
       dynasty = gruyere_dynasty
       tag = GRY
    }
-   gry_pierre_ii_de_gruyere = { # Count of Gruyère
+   gry_pierre_ii_de_gruyere = { # Count of Gruy?re
       first_name = { name = name_peter }
       father = gry_rodolphe_iii_de_gruyere
        culture = high_alemannic
@@ -70743,7 +70647,7 @@ character_db = {
       last_name = { name = von_Rugen_dynasty }
       female = yes
 
-      #father = Wizlaw von Rügen
+      #father = Wizlaw von R?gen
       #mother = Agnes von Braunschweig
       spouse = mkl_johann_iii_mecklenburg
       spouse = bnb_bernhard_ii_bernburg
@@ -71067,7 +70971,7 @@ character_db = {
       birth = freising
       tag = UBV
    }
-   #Eichstätt
+   #Eichst?tt
    eic_heinrich_v_schenk_von_reicheneck = { #Ruler
       first_name = { name = name_henry }
        estate = clergy_estate
@@ -71393,7 +71297,7 @@ character_db = {
       dynasty = hohenzollern_nurnberg_dynasty
       tag = ANS
    }
-   # Grandfather of the Burgrave of Nürnberg & Former Burgrave
+   # Grandfather of the Burgrave of N?rnberg & Former Burgrave
    ans_friedrich_iii_von_nurnberg = {
       first_name = { name = name_frederick }
       father = ans_konrad_i_von_nurnberg
@@ -71414,7 +71318,7 @@ character_db = {
       dynasty = hohenzollern_nurnberg_dynasty
       tag = ANS
    }
-   # Father of the Burgrave of Nürnberg & Previous Burgrave
+   # Father of the Burgrave of N?rnberg & Previous Burgrave
    ans_friedrich_iv_von_nurnberg = {
       first_name = { name = name_frederick }
       father = ans_friedrich_iii_von_nurnberg
@@ -71435,7 +71339,7 @@ character_db = {
       dynasty = hohenzollern_nurnberg_dynasty
       tag = ANS
    }
-   # Mother of the Count of Leuchtenberg & Sister of the Burgrave of Nürnberg
+   # Mother of the Count of Leuchtenberg & Sister of the Burgrave of N?rnberg
    leu_anna_von_nurnberg = {
       first_name = { name = name_anna }
       female = yes
@@ -71476,7 +71380,7 @@ character_db = {
       dynasty = leuchtenberg_dynasty
       tag = LEU
    }
-   #Württemberg
+   #W?rttemberg
    wur_eberhard_wurttemberg = { #Father of Ruler
       first_name = { name = name_everard }
        culture = swabian
@@ -71554,7 +71458,7 @@ character_db = {
       dynasty = wurttemberg_dynasty
       tag = WUR
    }
-   #Schlüsselberg
+   #Schl?sselberg
    ans_konrad_schlusselberg = { #Father of Ruler
       first_name = { name = name_conrad }
        culture = east_franconian
@@ -71645,7 +71549,7 @@ character_db = {
       dynasty = schlusselberg_dynasty
       tag = ANS
    }
-   #Tübingen
+   #T?bingen
    tub_wilhelm_ii_tubingen = { #Father of Ruler
       first_name = { name = name_william }
        culture = swabian
@@ -71872,10 +71776,7 @@ character_db = {
    boh_jan_volek = { #Bastard child of Wenceslas II
       first_name = { name = name_john }
       last_name = volek
-       modifier = "bastard"
-      start_date = 1290.1.1
-      date = 9999.1.1
-      estate = clergy_estate
+       estate = clergy_estate
       culture = czech
       religion = catholic
       birth_date = 1290.1.1 #Unknown
@@ -72110,7 +72011,7 @@ character_db = {
       birth_date = 1271.3.14
       death_date = 1310.12.10
       birth = landshut
-      #mother = Erszébet Árpád
+      #mother = Ersz?bet ?rp?d
       dynasty = wittelsbach_dynasty # Should be dynasty = wittelsbach_niederbayern_dynasty
       tag = LBV
    }
@@ -72260,7 +72161,7 @@ character_db = {
       dynasty = wettin_dynasty
       tag = GBH
    }
-   # Grandfather of the Duke of Brunswick & Gottingen & the Duke of Grubenhagen & Former Duke of Brunswick & Lüneburg
+   # Grandfather of the Duke of Brunswick & Gottingen & the Duke of Grubenhagen & Former Duke of Brunswick & L?neburg
    gbh_albrecht_i_braunschweig = { #https://en.wikipedia.org/wiki/Albert_I,_Duke_of_Brunswick
       first_name = { name = name_albert }
       nickname = { name = the_long }
@@ -72947,7 +72848,7 @@ character_db = {
       dynasty = neu_kyburg_dynasty
       tag = WER
    }
-   #Neuchâtel
+   #Neuch?tel
    neu_bertoldo_i_neuchatel = { #Father of Ruler
       first_name = { name = name_berthold }
        culture = franc_comtois
@@ -73022,7 +72923,7 @@ character_db = {
       dynasty = salm_dynasty
       tag = SLM
    }
-   #Saarbrücken
+   #Saarbr?cken
    saa_simon_iv_saarbrucken = { #Father of Ruler
       first_name = { name = name_simeon }
        culture = westphalian
@@ -73446,7 +73347,7 @@ character_db = {
       dynasty = nassau_dynasty
       tag = NSH
    }
-   # Mother of the Count of Nassau & Aunt of the Burgrave of Nürnberg
+   # Mother of the Count of Nassau & Aunt of the Burgrave of N?rnberg
    nsa_anna_nassau = {
       first_name = { name = name_anna }
       female = yes
@@ -73619,7 +73520,7 @@ character_db = {
       dynasty = limbourg_dynasty
       tag = RVB
    }
-   # Dead Co-Princess Consort of Lüneburg
+   # Dead Co-Princess Consort of L?neburg
    lun_hedwig_ravensberg = {
       first_name = { name = name_hedwig }
       female = yes
@@ -74291,7 +74192,7 @@ character_db = {
       dynasty = avesnes_dynasty
       tag = UBV
    }
-   # Countess Consort of Jülich & Daughter of the Count of Hainaut, Holland & Zeeland
+   # Countess Consort of J?lich & Daughter of the Count of Hainaut, Holland & Zeeland
    jul_jeanne_de_hainaut = {
       first_name = { name = name_joanna }
       female = yes
@@ -74462,7 +74363,7 @@ character_db = {
       first_name = { name = name_beatrix }
       female = yes
 
-      #mother = Felicité de Coucy
+      #mother = Felicit? de Coucy
       spouse = lux_henry_vi_luxembourg
       father = hai_baudouin_avesnes
        estate = nobles_estate
@@ -74988,7 +74889,7 @@ character_db = {
       birth_date = 1211.1.1
       death_date = 1242.2.12
       birth = palermo
-      #mother = Constança d'Aragò
+      #mother = Constan?a d'Arag?
       dynasty = hohenstaufen_dynasty
       tag = SIC
    }
@@ -74998,10 +74899,7 @@ character_db = {
       adm = 75
       dip = 55
       mil = 37
-       modifier = "bastard"
-      start_date = 1223.1.1
-      date = 9999.1.1
-      estate = nobles_estate
+       estate = nobles_estate
       culture = neapolitan
       religion = catholic
       birth_date = 1223.1.1
@@ -75277,7 +75175,7 @@ character_db = {
       dynasty = hohenzollern_dynasty
       tag = HOH
    }
-   # Uncle of the Burgrave of Nürnberg & Former Burgrave
+   # Uncle of the Burgrave of N?rnberg & Former Burgrave
    ans_johann_i_von_nurnberg = {
       first_name = { name = name_john }
       father = ans_friedrich_iii_von_nurnberg
@@ -75291,7 +75189,7 @@ character_db = {
       dynasty = hohenzollern_nurnberg_dynasty
       tag = ANS
    }
-   # Sister of the Burgrave of Nürnberg
+   # Sister of the Burgrave of N?rnberg
    wma_helena_von_nurnberg = {
       first_name = { name = name_helen }
       female = yes
@@ -75309,7 +75207,7 @@ character_db = {
       dynasty = hohenzollern_nurnberg_dynasty
       tag = ANS
    }
-   # Burgrave of Nürnberg
+   # Burgrave of N?rnberg
    ans_johann_ii_von_nurnberg = {
       first_name = { name = name_john }
       nickname = { name = the_acquirer }
@@ -75328,7 +75226,7 @@ character_db = {
       dynasty = hohenzollern_nurnberg_dynasty
       tag = ANS
    }
-   # Burgrave Consort of Nürnberg
+   # Burgrave Consort of N?rnberg
    ans_elisabeth_von_henneburg = {
       first_name = { name = name_elizabeth }
       female = yes
@@ -75347,7 +75245,7 @@ character_db = {
       dynasty = henneberg_dynasty
       tag = ANS
    }
-   # Son & Heir of the Burgrave of Nürnberg
+   # Son & Heir of the Burgrave of N?rnberg
    ans_friedrich_v_von_nurnberg = {
       first_name = { name = name_frederick }
       mother = ans_elisabeth_von_henneburg
@@ -75363,7 +75261,7 @@ character_db = {
       dynasty = hohenzollern_nurnberg_dynasty
       tag = ANS
    }
-   # Daughter of the Burgrave of Nürnberg
+   # Daughter of the Burgrave of N?rnberg
    ans_anna = {
       first_name = { name = name_anna }
       female = yes
@@ -75380,7 +75278,7 @@ character_db = {
       dynasty = hohenzollern_nurnberg_dynasty
       tag = ANS
    }
-   # Sister of the Burgrave of Nürnberg
+   # Sister of the Burgrave of N?rnberg
    nsa_margarete_von_nurnberg = {
       first_name = { name = name_margaret }
       female = yes
@@ -75398,7 +75296,7 @@ character_db = {
       dynasty = hohenzollern_nurnberg_dynasty
       tag = LBV
    }
-   # Brother of the Burgrave of Nürnberg
+   # Brother of the Burgrave of N?rnberg
    ans_friedrich_von_nurnberg = {
       first_name = { name = name_frederick }
       father = ans_friedrich_iv_von_nurnberg
@@ -75414,7 +75312,7 @@ character_db = {
       dynasty = hohenzollern_nurnberg_dynasty
       tag = REG
    }
-   # Siblings of the Burgrave of Nürnberg
+   # Siblings of the Burgrave of N?rnberg
    ans_albrecht_von_nurnberg = {
       first_name = { name = name_albert }
       nickname = { name = the_handsome }
@@ -75502,7 +75400,7 @@ character_db = {
       birth_date = 1235.1.1
       death_date = 1298.4.17
       birth = hohenberg
-      #mother = Mechtild von Thübingen
+      #mother = Mechtild von Th?bingen
       dynasty = hohenberg_dynasty # Should be dynasty = hohenberg_rotenburg_dynasty # Founder of the Rotenburg line of the House of Hohenberg
       tag = HHB
    }
@@ -75534,7 +75432,7 @@ character_db = {
       birth_date = 1281.1.1
       death_date = 1336.1.11
       birth = hohenberg
-      #mother = Margarete von Fürstenberg
+      #mother = Margarete von F?rstenberg
       dynasty = hohenberg_dynasty # Should be dynasty = hohenberg_rotenburg_dynasty
       tag = HHB
    }
@@ -75909,7 +75807,7 @@ character_db = {
       dynasty = askanier_dynasty
       tag = MKL
    }
-   # Princess Consort of Lüneburg & Sister of the Count of Mecklenburg
+   # Princess Consort of L?neburg & Sister of the Count of Mecklenburg
    lun_mathilde_mecklenburg = {
       first_name = { name = name_matilda }
       female = yes
@@ -76167,7 +76065,7 @@ character_db = {
       dynasty = mecklenburg_dynasty
       tag = GSW
    }
-   # Mother of the Duke of Brunswick-Wolfenbüttel & Göttingen & the Bishops of Halberstadt & Hildesheim & Cousin of the Lord of Gustrow
+   # Mother of the Duke of Brunswick-Wolfenb?ttel & G?ttingen & the Bishops of Halberstadt & Hildesheim & Cousin of the Lord of Gustrow
    bru_rixa_werle = {
       first_name = { name = name_rikissa }
       female = yes
@@ -76892,7 +76790,7 @@ character_db = {
       dynasty = welfen_dynasty
       tag = BRU # Should be Gottingen
    }
-   # Duke of Brunswick-Wolfenbüttel & Göttingen
+   # Duke of Brunswick-Wolfenb?ttel & G?ttingen
    bru_otto_i_braunschweig_gottingen = {
       first_name = { name = name_otto }
       nickname = { name = the_mild }
@@ -76967,7 +76865,7 @@ character_db = {
       dynasty = hessen_dynasty
       tag = BRU # Should be Gottingen
    }
-   # Daughter of the Duke of Brunswick-Wolfenbüttel & Göttingen
+   # Daughter of the Duke of Brunswick-Wolfenb?ttel & G?ttingen
    bru_agnes_braunschweig_gottingen = {
       first_name = { name = name_agnes }
       female = yes
@@ -76981,7 +76879,7 @@ character_db = {
       dynasty = welfen_dynasty
       tag = BRU # Should be Gottingen
    }
-   # Countess Consort of Sonderhausen & sister of the Duke of Brunswick-Wolfenbüttel & Göttingen & the Bishops of Halberstadt & Hildesheim
+   # Countess Consort of Sonderhausen & sister of the Duke of Brunswick-Wolfenb?ttel & G?ttingen & the Bishops of Halberstadt & Hildesheim
    shs_mathilda_von_braunschweig_gottingen = {
       first_name = { name = name_matilda }
       female = yes
@@ -77130,7 +77028,7 @@ character_db = {
       dynasty = welfen_dynasty
       tag = TEU
    }
-   # Mother of the Dukes of Zagan, Olésnica & Scinawa & Former Duchess of Glogów
+   # Mother of the Dukes of Zagan, Ol?snica & Scinawa & Former Duchess of Glog?w
    glg_mechthild_von_braunschweig_luneburg = { #Mother of Ruler
       first_name = { name = name_matilda }
       female = yes
@@ -77150,7 +77048,7 @@ character_db = {
       dynasty = welfen_dynasty
       tag = GLO
    }
-   # Father of the Prince of Lüneburg & Previous Prince
+   # Father of the Prince of L?neburg & Previous Prince
    lun_otto_ii_luneburg = {
       first_name = { name = name_otto }
       nickname = { name = the_strict }
@@ -77191,7 +77089,7 @@ character_db = {
       dynasty = wittelsbach_dynasty
       tag = LUN
    }
-   # Prince of Lünebrug
+   # Prince of L?nebrug
    lun_otto_iii_luneburg = {
       first_name = { name = name_otto }
       mother = lun_mathilde_von_bayern
@@ -77209,7 +77107,7 @@ character_db = {
       dynasty = welfen_dynasty # Should be dynasty = welfen_celle_dynasty
       tag = LUN
    }
-   # Daughters of the Prince of Lünebrug
+   # Daughters of the Prince of L?nebrug
    lun_mathilde_luneburg = {
       first_name = { name = name_matilda }
       female = yes
@@ -77236,7 +77134,7 @@ character_db = {
       dynasty = welfen_dynasty # Should be dynasty = welfen_celle_dynasty
       tag = LUN
    }
-   # Bishop of Minden & Brother of the Prince of Lüneburg
+   # Bishop of Minden & Brother of the Prince of L?neburg
    mdn_ludwig_von_braunschweig_luneburg = {
       first_name = { name = name_louis }
       mother = lun_mathilde_von_bayern
@@ -77252,7 +77150,7 @@ character_db = {
       dynasty = welfen_dynasty # Should be dynasty = welfen_celle_dynasty
       tag = MDN
    }
-   # Co-Prince of Lüneburg
+   # Co-Prince of L?neburg
    lun_wilhelm_ii_luneburg = {
       first_name = { name = name_william }
       mother = lun_mathilde_von_bayern
@@ -77270,7 +77168,7 @@ character_db = {
       dynasty = welfen_dynasty # Should be dynasty = welfen_celle_dynasty
       tag = LUN
    }
-   # Co-Princess Consort of Lüneburg
+   # Co-Princess Consort of L?neburg
    lun_marie = {
       first_name = { name = name_mary }
       female = yes
@@ -77283,7 +77181,7 @@ character_db = {
       birth = luneburg
       tag = LUN
    }
-   # Daughter of the Co-Prince of Lüneburg
+   # Daughter of the Co-Prince of L?neburg
    lun_elisabeth_luneburg_ii = {
       first_name = { name = name_elizabeth }
       female = yes
@@ -77297,7 +77195,7 @@ character_db = {
       dynasty = welfen_dynasty # Should be dynasty = welfen_celle_dynasty
       tag = LUN
    }
-   # Mother of the Count of Oldenburg & Aunt of the Prince of Lüneburg
+   # Mother of the Count of Oldenburg & Aunt of the Prince of L?neburg
    old_elisabeth_braunschweig_luneburg = {
       first_name = { name = name_elizabeth }
       female = yes
@@ -77545,10 +77443,7 @@ character_db = {
       artist = philosopher
 
       artist_trait = workaholic
-       modifier = "excommunicated"
-      start_date = 1337.1.1
-      date = 9999.1.1
-      estate = clergy_estate
+       estate = clergy_estate
       culture = english
       religion = catholic
       birth_date = 1287.1.1
@@ -77565,10 +77460,7 @@ character_db = {
       artist = philosopher
 
       artist_trait = workaholic
-       modifier = "excommunicated"
-      start_date = 1337.1.1
-      date = 9999.1.1
-      estate = clergy_estate
+       estate = clergy_estate
       culture = emilian
       religion = catholic
       birth_date = 1270.1.1
@@ -77757,7 +77649,7 @@ character_db = {
       birth_date = 1261.2.11
       death_date = 1312.9.9
       birth = ried
-      #mother = Erzsébet Árpád
+      #mother = Erzs?bet ?rp?d
       dynasty = wittelsbach_dynasty # Should be dynasty = wittelsbach_niederbayern_dynasty
       tag = LBV
    }
@@ -77787,7 +77679,7 @@ character_db = {
       birth_date = 1269.2.9
       death_date = 1296.5.13
       birth = landshut
-      #mother = Erzsébet Árpád
+      #mother = Erzs?bet ?rp?d
       dynasty = wittelsbach_dynasty # Should be dynasty = wittelsbach_niederbayern_dynasty
       tag = LBV
    }
@@ -77798,10 +77690,7 @@ character_db = {
       father = lbv_stephan_wittelsbach
 
       ruler_trait = zealot
-       modifier = "is_lbv_heinrich_xiv_wittelsbach"
-      start_date = 1337.1.1
-      date = 9999.1.1
-      estate = nobles_estate
+       estate = nobles_estate
       culture = danube_bavarian
       religion = catholic
       birth_date = 1305.9.29
@@ -78498,7 +78387,7 @@ character_db = {
       dynasty = ehrenberg_dynasty
       tag = SYE
    }
-   #Jülich
+   #J?lich
    jul_gerhard_v_julich = { #Father of Ruler
       first_name = { name = name_gerard }
        culture = westphalian
@@ -78521,7 +78410,7 @@ character_db = {
       dynasty = julich_dynasty
       tag = KOL
    }
-   #Prüm
+   #Pr?m
    apr_heinrich_i_von_schonecken = { #Ruler
       first_name = { name = name_henry }
        estate = clergy_estate
@@ -78541,7 +78430,7 @@ character_db = {
       dynasty = dalwigk_dynasty
       tag = HOX
    }
-   #Cambrésis
+   #Cambr?sis
    cam_guillaume_ii_dauxonne = { #Ruler
       first_name = { name = name_william }
       last_name = { name = d_Auxonne }
@@ -78965,7 +78854,7 @@ character_db = {
       dynasty = hanau_dynasty
       tag = HNA
    }
-   #Büdingen
+   #B?dingen
    bud_heinrich_ii_isenburg = { #Ruler
       first_name = { name = name_henry }
        culture = rhine_franconian
@@ -79019,7 +78908,7 @@ character_db = {
       dynasty = falkenstein_dynasty
       tag = FLK
    }
-   #Münster
+   #M?nster
    mun_ludwig_ii_hessen = { #Ruler
       first_name = { name = name_louis }
       father = hes_heinrich_i_hesse
@@ -79070,7 +78959,7 @@ character_db = {
       dynasty = von_Diest_dynasty
       tag = VRD
    }
-   #Lübeck Bishopry
+   #L?beck Bishopry
    lbb_heinrich_ii_bocholt = {
       first_name = { name = name_henry }
        estate = clergy_estate
@@ -79121,7 +79010,7 @@ character_db = {
       dynasty = erbach_dynasty
       tag = ERB
    }
-   #Zweibrücken
+   #Zweibr?cken
    zwe_simon_ii_zweibrucken = { #Father of Ruler
       first_name = { name = name_simeon }
        culture = westphalian
@@ -79722,7 +79611,7 @@ character_db = {
       dynasty = wittgenstein_dynasty
       tag = WTG
    }
-   #Mörs
+   #M?rs
    mrs_dietrich_iii_moers = { #Father of Ruler
       first_name = { name = name_theodoric }
        culture = westphalian
@@ -79784,7 +79673,7 @@ character_db = {
       dynasty = arnsberg_dynasty
       tag = ANB
    }
-   #Osnabrück
+   #Osnabr?ck
    osn_gottfried_von_arnsberg = { #Ruler
       first_name = { name = name_godfrey }
       father = anb_ludwig_i_arnsberg
@@ -79937,7 +79826,7 @@ character_db = {
       dynasty = diepholz_dynasty
       tag = DPH
    }
-   #Ritzebüttel
+   #Ritzeb?ttel
    rtb_wolderich_lappe = {
       first_name = { name = name_wolderich }
 
@@ -80214,7 +80103,7 @@ character_db = {
       tag = CJK
    }
    #-------------------------- Mesoamerica ----------------------------
-   #P?urhépecherio (Tarascan Empire) - TAR
+   #P?urh?pecherio (Tarascan Empire) - TAR
    #GranGranfather of the Ruler
    tar_pauacume_uanacaze = {
       first_name = { name = Pauacume }
@@ -80690,7 +80579,7 @@ character_db = {
       birth = riga
       tag = KUR
    }
-   #Ösel
+   #?sel
    bio_jakob_ii = { #Ruler
       first_name = { name = name_james }
        estate = clergy_estate
@@ -80838,10 +80727,7 @@ character_db = {
       ruler_trait = lawgiver
 
       ruler_trait = zealot
-       modifier = "bastard"
-      start_date = 958.6.1
-      date = 9999.1.1
-      estate = nobles_estate
+       estate = nobles_estate
       culture = ruthenian
       religion = orthodox
       birth_date = 958.6.1
@@ -82611,7 +82497,7 @@ character_db = {
       dynasty = rurikovich_dynasty
       tag = KIE
    }
-   #True Galicia–Volhynia
+   #True Galicia?Volhynia
    vol_roman_rurikovich = {
       first_name = { name = name_roman }
       father = kie_mstislav_ii_rurikovich
@@ -83689,10 +83575,7 @@ character_db = {
    hal_oleg_nastasich_rurikovich = {
       first_name = { name = name_oleg }
       father = hal_yaroslav_osmomysl_rurikovich
-       modifier = "bastard"
-      start_date = 1161.1.1
-      date = 9999.1.1
-      estate = nobles_estate
+       estate = nobles_estate
       culture = halychian_culture
       religion = orthodox
       birth_date = 1161.1.1
@@ -83840,10 +83723,7 @@ character_db = {
       mil = 56
 
       ruler_trait = bold_fighter
-       modifier = "bastard"
-      start_date = 1050.11.8
-      date = 9999.1.1
-      estate = nobles_estate
+       estate = nobles_estate
       culture = polesian_culture
       religion = orthodox
       birth_date = 1050.11.8
@@ -84121,10 +84001,7 @@ character_db = {
    vol_mstislav_sviatopolkovich_rurikovich = {
       first_name = { name = name_mstislav }
       father = kie_sviatopolk_ii_rurikovich
-       modifier = "bastard"
-      start_date = 1075.1.1
-      date = 9999.1.1
-      estate = nobles_estate
+       estate = nobles_estate
       culture = polesian_culture
       religion = orthodox
       birth_date = 1075.1.1 # Unknown
@@ -84530,7 +84407,7 @@ character_db = {
       tag = KIE
    }
    #Piast Dynasty
-   #Piast Galicia–Volhynia
+   #Piast Galicia?Volhynia
    vol_boleslaw_jerzy_ii_piast = { #Ruler
       first_name = { name = name_boleslav }
        culture = mazovian
@@ -91848,7 +91725,7 @@ character_db = {
       dynasty = ottonian_dynasty
       tag = OGK
    }
-   ogk_heinrich_ii_liudolfinger = { #enumerated as successor of Henry I who was German King 919–936 but not Emperor
+   ogk_heinrich_ii_liudolfinger = { #enumerated as successor of Henry I who was German King 919?936 but not Emperor
       first_name = { name = name_henry }
       father = ogk_heinrich_the_wrangler_liudolfinger
        culture = lower_saxon
@@ -91858,7 +91735,7 @@ character_db = {
       dynasty = ottonian_dynasty
       tag = OGK
    }
-   ogk_konrad_ii_salier = { #Conrad the Elder - enumerated as successor of Conrad I who was German King 911–918 but not Emperor
+   ogk_konrad_ii_salier = { #Conrad the Elder - enumerated as successor of Conrad I who was German King 911?918 but not Emperor
       first_name = { name = name_conrad }
       nickname = { name = nick_the_elder }
        culture = westphalian

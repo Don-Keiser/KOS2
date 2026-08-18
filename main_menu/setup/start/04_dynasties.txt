@@ -2,7 +2,7 @@ dynasty_manager = {
    default_dynasty = {
       name = { name = default_dynasty }
       home = vattnajokull
-   } #just for default coat of arms
+   } #just for default coat of arms
    bjalbo_atten_dynasty = {
       name = { name = bjalbo_atten_dynasty }
       dynasty_name_type = location
@@ -3671,7 +3671,7 @@ dynasty_manager = {
    schlusselberg_dynasty = {
       name = { name = schlusselberg_dynasty }
       dynasty_name_type = location
-      home = cham #Schlüsselberg itself is too small and part of Bayreuth
+      home = cham #Schl?sselberg itself is too small and part of Bayreuth
    }
    ludowinger_dynasty = {
       name = { name = ludowinger_dynasty }
@@ -3801,7 +3801,7 @@ dynasty_manager = {
    julich_dynasty = {
       name = { name = julich_dynasty }
       dynasty_name_type = location
-      home = duren #Jülich
+      home = duren #J?lich
    }
    mark_dynasty = {
       name = { name = mark_dynasty }
@@ -3885,7 +3885,7 @@ dynasty_manager = {
    oettingen_dynasty = {
       name = { name = oettingen_dynasty }
       dynasty_name_type = location
-      home = oettingen #Actually Nordlingen, which is here part of Donauwörth
+      home = oettingen #Actually Nordlingen, which is here part of Donauw?rth
    }
    baden_dynasty = {
       name = { name = baden_dynasty }
@@ -3912,7 +3912,7 @@ dynasty_manager = {
       dynasty_name_type = location
       home = stormarn
    }
-   schonburg_dynasty = { #Schönburg
+   schonburg_dynasty = { #Sch?nburg
       name = { name = schonburg_dynasty }
       dynasty_name_type = location
       home = glauchau
@@ -3925,7 +3925,7 @@ dynasty_manager = {
    kittlitz_dynasty = {
       name = { name = kittlitz_dynasty }
       dynasty_name_type = location
-      home = gorlitz #Kittlitz (Löbau)
+      home = gorlitz #Kittlitz (L?bau)
    }
    altenburg_dynasty = {
       name = { name = altenburg_dynasty }
@@ -4237,7 +4237,7 @@ dynasty_manager = {
          name_sybil
       }
    }
-   aragon_dynasty = { # Dukes of Segorbe, Scion of the Aragonese Royal House of Trastámara
+   aragon_dynasty = { # Dukes of Segorbe, Scion of the Aragonese Royal House of Trast?mara
       name = { name = aragon_dynasty }
       #CoA: http://wappenwiki.org/index.php/File:De_Segorbe.svg
       home = lliria
@@ -4400,7 +4400,7 @@ dynasty_manager = {
          name_yolande
       }
    }
-   beaumont_lerin_dynasty = { # Counts of Lerín, bastard branch of the Navarran Royal House of Evreux
+   beaumont_lerin_dynasty = { # Counts of Ler?n, bastard branch of the Navarran Royal House of Evreux
       name = { name = beaumont_lerin_dynasty }
       dynasty_name_type = location
       #CoA: https://wappenwiki.org/index.php?title=File:Lerin.svg
@@ -4431,7 +4431,7 @@ dynasty_manager = {
          name_sancha
       }
    }
-   borja_dynasty = { # Dukes of Gandía
+   borja_dynasty = { # Dukes of Gand?a
       name = { name = borja_dynasty }
       #CoA: https://wappenwiki.org/index.php?title=File:Borgia_Gandia.svg
       home = jativa
@@ -4455,7 +4455,7 @@ dynasty_manager = {
          name_marianne
       }
    }
-   braganca_dynasty = { # Dukes of Bragança, bastard branch of the House of Avis
+   braganca_dynasty = { # Dukes of Bragan?a, bastard branch of the House of Avis
       name = { name = braganca_dynasty }
       dynasty_name_type = location
       #CoA: https://wappenwiki.org/index.php?title=File:De_Braganza.svg
@@ -4546,7 +4546,7 @@ dynasty_manager = {
          name_tiburge
       }
    }
-   cardenas_dynasty = { # Dukes of Maqueda and Nájera
+   cardenas_dynasty = { # Dukes of Maqueda and N?jera
       name = { name = cardenas_dynasty }
       dynasty_name_type = location
       #CoA: https://es.wikipedia.org/wiki/Ducado_de_Maqueda#/media/Archivo:COA_Duke_of_Maqueda.svg
@@ -4764,7 +4764,7 @@ dynasty_manager = {
          name_sabine
       }
    }
-   cruilles_dynasty = { # Barons of Cruïlles
+   cruilles_dynasty = { # Barons of Cru?lles
       name = { name = cruilles_dynasty }
       dynasty_name_type = location
       #CoA: https://wappenwiki.org/index.php?title=File:Cruilles.svg
@@ -4861,7 +4861,7 @@ dynasty_manager = {
          name_mary
       }
    }
-   enriquez_dynasty = { # Counts of Lemos, Admirals of Castile & Counts of Mélgar
+   enriquez_dynasty = { # Counts of Lemos, Admirals of Castile & Counts of M?lgar
       name = { name = name_henry }
       dynasty_name_type = patronym
       #CoA: https://wappenwiki.org/index.php?title=File:De_Enr%C3%ADquez.svg
@@ -5005,7 +5005,7 @@ dynasty_manager = {
          name_yolande
       }
    }
-   fernandez_hijar_dynasty = { # Lords of Híjar, branch of the Aragonese Royal House of Aragón
+   fernandez_hijar_dynasty = { # Lords of H?jar, branch of the Aragonese Royal House of Arag?n
       name = { name = fernandez_hijar_dynasty }
       home = alcaniz
 
@@ -5081,7 +5081,7 @@ dynasty_manager = {
          name_theresa
       }
    }
-   guevara_dynasty = { # Counts of Oñate
+   guevara_dynasty = { # Counts of O?ate
       name = { name = guevara_dynasty }
       #CoA: https://wappenwiki.org/index.php?title=File:Guevara.svg
       home = san_sebastian
@@ -5163,7 +5163,7 @@ dynasty_manager = {
          name_mary
       }
    }
-   haro_orduna_dynasty = { # Lords of Orduña
+   haro_orduna_dynasty = { # Lords of Ordu?a
       name = { name = haro_dynasty }
       dynasty_name_type = location
       home = valmaseda
@@ -5831,7 +5831,7 @@ dynasty_manager = {
          name_theresa
       }
    }
-   oviedo_dynasty = { # Grandmaster of the Order of Alcántara
+   oviedo_dynasty = { # Grandmaster of the Order of Alc?ntara
       name = { name = oviedo_dynasty }
       dynasty_name_type = location
       home = oviedo
@@ -5869,7 +5869,7 @@ dynasty_manager = {
          name_yolande
       }
    }
-   pallars_mataplana_dynasty = { # Counts of Pallars-Sobirà
+   pallars_mataplana_dynasty = { # Counts of Pallars-Sobir?
       name = { name = mataplana_dynasty }
       dynasty_name_type = location
       #CoA: https://wappenwiki.org/index.php?title=File:Mataplana_Pallars_Sobira.svg
@@ -6546,7 +6546,7 @@ dynasty_manager = {
          name_yolande
       }
    }
-   villahermosa_dynasty = { # Dukes of Villahermosa. Illegitimate scion of the Aragonese Trastámara Royal Line
+   villahermosa_dynasty = { # Dukes of Villahermosa. Illegitimate scion of the Aragonese Trast?mara Royal Line
       name = { name = aragon_dynasty }
       dynasty_name_type = location
       home = benabarre
@@ -6601,7 +6601,7 @@ dynasty_manager = {
          name_theresa
       }
    }
-   ximenez_urrea_dynasty = { # Viscounts of Rueda de Jalón & Counts of Aranda
+   ximenez_urrea_dynasty = { # Viscounts of Rueda de Jal?n & Counts of Aranda
       name = { name = martinez_luna_dynasty }
       dynasty_name_type = location
       home = tarazona

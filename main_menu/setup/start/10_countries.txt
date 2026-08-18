@@ -2574,9 +2574,8 @@ countries = {
             ruler_term  = { character = arb_mariano_iii_arborea start_date = 1308.4.3 end_date = 1321.4.5 regnal_number = 3 }
             ruler_term  = { character = arb_ugone_ii_arborea start_date = 1321.4.5 end_date = 1335.4.5 regnal_number = 2 }
             ruler_term  = { character = arb_pietro_iii_arborea start_date = 1335.4.5 end_date = 1.1.1 regnal_number = 3 }
-             # Junior Co-Ruler until 1308
 
-
+            # Junior Co-Ruler until 1308
             regnal_numbers = {
                name_gunther = 2
                name_comita = 3
@@ -5732,9 +5731,8 @@ countries = {
             }
             ruler_term  = { character = bod_guglielma_pallavicini start_date = 1334.1.1 end_date = 1335.1.1 regnal_number = 1 }
             ruler_term  = { character = bod_niccolo_i_zorzi start_date = 1335.1.1 end_date = 1.1.1 regnal_number = 1 }
-             # In fact she ruled until 1358 together with her husband and her son.
 
-
+            # In fact she ruled until 1358 together with her husband and her son.
             regnal_numbers = {
                name_wido = 1
                name_hubert = 1
@@ -6493,9 +6491,8 @@ countries = {
             ruler_term  = { character = bru_wilhelm_i_braunschweig start_date = 1291.1.1 end_date = 1292.9.30 regnal_number = 1 }
             ruler_term  = { character = bru_albrecht_ii_braunschweig_wolfenbuttel_gottingen start_date = 1292.9.30 end_date = 1318.11.22 regnal_number = 2 }
             ruler_term  = { character = bru_otto_i_braunschweig_gottingen start_date = 1318.11.22 end_date = 1.1.1 regnal_number = 1 }
-             # Restored
 
-
+            # Restored
             regnal_numbers = {
                name_albert = 2
                name_henry = 1
@@ -6714,12 +6711,12 @@ countries = {
          government = {
             ruler = bsp_sampurn_chandel
 
-            #Bir Chand, founder; (r.?697�730)
+            #Bir Chand, founder; (r.?697?730)
             #Udhran Chand
             #Jaskarn Chand
             #Madanbrahm Chand
             #Ahl Chand
-            #Kahal Chand, 6th Raja;(r.?890�930)
+            #Kahal Chand, 6th Raja;(r.?890?930)
             #Slar Chand
             #Men Chand
             #Sen Chand
@@ -6727,14 +6724,14 @@ countries = {
             #Kahn Chand, 11th Raja. Conquered Hindur, which he created as a separate realm for his second son.
             #Ajit Chand, 12th Raja (son of Khan Chand)
             #Gokul Chand
-            #Udai Chand, (r.?1133�1143)
+            #Udai Chand, (r.?1133?1143)
             #Gen Chand
             #Pruthvi Chand
-            #Sangar Chand, (r.?1197�1220)
-            #Megh Chand, (r.?1220�1251)
+            #Sangar Chand, (r.?1197?1220)
+            #Megh Chand, (r.?1220?1251)
             #Dev Chand
             #Ahim Chand
-            #Abhisand Chand, (r.?1302�1317)
+            #Abhisand Chand, (r.?1302?1317)
             ruler_term  = { character = bsp_sampurn_chandel start_date = 1317.1.1 end_date = 1.1.1 regnal_number = 0 }
 
           }
@@ -6992,9 +6989,8 @@ countries = {
             ruler = bud_heinrich_ii_isenburg
 
             ruler_term  = { character = bud_heinrich_ii_isenburg start_date = 1337.1.1 end_date = 1.1.1 regnal_number = 2 }
-             #Actually 1340, but 1337 B�dingen was split between four families, which is really hard to portray with only one location :|
 
-
+            #Actually 1340, but 1337 B?dingen was split between four families, which is really hard to portray with only one location :|
             regnal_numbers = {
                name_henry = 2
             }
@@ -7469,9 +7465,8 @@ countries = {
             }
             ruler_term  = { character = byz_andronikos_ii_palaiologos start_date = 1320.10.12 end_date = 1328.5.24 regnal_number = 2 }
             ruler_term  = { character = byz_andronikos_iii_palaiologos start_date = 1328.5.24 end_date = 1.1.1 regnal_number = 3 }
-             # Emperor in Nikaea
 
-
+            # Emperor in Nikaea
             privilege = {
                elaborate_court_ceremonies
                noble_serfdom_rights
@@ -8452,9 +8447,7 @@ countries = {
                name_robert = 1
             }
 
-          } #dynasty = anjou_taranto_dynasty
-
-
+          }
       }
       CER = {
          capital = rohtas
@@ -9137,14 +9130,6 @@ countries = {
             amdowa_culture mulam_culture yugur_culture monguor_culture uyghur_culture sui_culture rma_culture
             lahu_culture hmong_culture
          }
-
-          modifier = "chi_factional_strife"
-         start_date = 1328.1.1
-         date = 1368.1.1
-
-          modifier = "chi_administration_in_disarray"
-         start_date = 1328.1.1
-         date = 1368.1.1
 
          government = {
 
@@ -10056,10 +10041,11 @@ countries = {
                character = cmr_gentile_ii_varano start_date = 1325.1.1 end_date = 1329.3.1 regnal_number = 2
             }
             ruler_term  = { character = cmr_gentile_ii_varano start_date = 1329.3.1 end_date = 1.1.1 regnal_number = 2 }
+
              # Junior Co-Ruler until 1316
 
 
-          }
+         }
       }
       CMS = {
          country_rank = rank_county
@@ -11095,10 +11081,11 @@ countries = {
             ruler_term  = { character = crt_giovanni_morosini start_date = 1327.1.1 end_date = 1329.1.1 regnal_number = 0 }
             ruler_term  = { character = crt_mario_morosini start_date = 1329.1.1 end_date = 1331.1.1 regnal_number = 0 }
             ruler_term  = { character = crt_viago_zeno start_date = 1333.1.1 end_date = 1.1.1 regnal_number = 0 }
+
              # Really Unknown, but he is known to be Duke of Candia and this era Duke is not known
 
 
-          }
+         }
       }
       CSA = {
          type = pop
@@ -12119,9 +12106,8 @@ countries = {
             ruler_term  = { character = dan_chistopher_ii start_date = 1320.1.25 end_date = 1326.1.1 regnal_number = 2 }
             ruler_term  = { character = dan_valdemar_iii start_date = 1326.1.1 end_date = 1329.1.1 regnal_number = 3 }
             ruler_term  = { character = dan_chistopher_ii start_date = 1329.1.1 end_date = 1332.8.2 regnal_number = 2 }
-             #Yes, there are 2 Valdemar III
 
-
+            #Yes, there are 2 Valdemar III
             regnal_numbers = {
                name_guthrum = 1
                name_harold = 3
@@ -12888,12 +12874,7 @@ countries = {
                peasants_protected_faith
             }
 
-             satisfaction = 0.30
-
-             satisfaction = 0.25
-
-             satisfaction = 0.25
-         }
+          }
       }
       DLN = {
          capital = donglan
@@ -13262,9 +13243,8 @@ countries = {
                character = dru_vseslav_rogvolodich_rurikovich start_date = 1186.1.1 end_date = 1200.1.1 regnal_number = 1
             }
             ruler_term  = { character = dru_vojtech_borisovich_rurikovich start_date = 1217.1.1 end_date = 1220.1.1 regnal_number = 1 }
-             # Restored
 
-
+            # Restored
             # Annexed to Polotsk, later to Vitebsk since 1220
             regnal_numbers = {
                name_roman = 1
@@ -13891,9 +13871,8 @@ countries = {
             ruler_term  = { character = cep_john_orsini start_date = 1323.1.1 end_date = 1335.1.1 regnal_number = 1 }
             ruler_term  = { character = epi_nikephoros_ii_orsini start_date = 1335.1.1 end_date = 1336.1.1 regnal_number = 2 }
             ruler_term  = { character = epi_theodoros_synadenos start_date = 1336.1.1 end_date = 1.1.1 regnal_number = 0 }
-             # As Governor of Epirus
 
-
+            # As Governor of Epirus
             regnal_numbers = {
                name_michael = 2
                name_theodore = 1
@@ -14053,6 +14032,8 @@ countries = {
       }
       ERRB = {
          capital = constantinople
+
+         dynasty = velisar_dynasty
          liturgical_language = greek_language
          country_rank = rank_empire
          starting_technology_level = 3
@@ -14125,8 +14106,6 @@ countries = {
             ruler = rug_khosmar_velisar
             heir_selection = cognatic_primogeniture
 
-            ruler_term = { character = rug_khosmar_velisar start_date = 1328.1.1 regnal_number = 0 }
-
             reforms = {
                autocracy
                theme_system
@@ -14140,6 +14119,8 @@ countries = {
                administrative_system = pronoia_system
                patriarchate_law = state_patriarchate_policy
             }
+
+            ruler_term  = { character = rug_khosmar_velisar start_date = 1328.1.1 end_date = 1.1.1 regnal_number = 0 }
 
             privilege = {
                elaborate_court_ceremonies
@@ -14776,10 +14757,11 @@ countries = {
                character = fer_nicolo_i_este start_date = 1335.12.31 end_date = 1336.12.31 regnal_number = 1
             }
             ruler_term  = { character = fer_obizzo_iii_este start_date = 1337.1.1 end_date = 1.1.1 regnal_number = 3 }
+
              # As venetian governor
 
 
-          }
+         }
       }
       FEZ = {
          capital = fez
@@ -14952,10 +14934,6 @@ countries = {
          tolerated_cultures = {
             emilian
          }
-
-          modifier = "interdict"
-         start_date = 1000.1.1
-         date = 1345.1.1
 
          government = {
 
@@ -15201,9 +15179,8 @@ countries = {
             ruler_term  = { character = fra_philippe_v_capet start_date = 1316.11.20 end_date = 1322.1.3 regnal_number = 5 }
             ruler_term  = { character = fra_charles_iv_capet start_date = 1322.1.3 end_date = 1328.3.21 regnal_number = 4 }
             ruler_term  = { character = fra_philip_vi_valois start_date = 1328.4.1 end_date = 1.1.1 regnal_number = 6 }
-             # Second reign
 
-
+            # Second reign
             regnal_numbers = {
                name_theodoric = 4
                name_thobald = 1
@@ -15956,10 +15933,11 @@ countries = {
                character = gen_raffaello_doria start_date = 1335.1.1 end_date = 1336.12.31 regnal_number = 0
             }
             ruler_term  = { character = gen_galeotto_spinola start_date = 1337.1.1 end_date = 1.1.1 regnal_number = 0 }
+
              # Among others
 
 
-          }
+         }
       }
       GEO = {
          capital = poti_caucasus
@@ -16315,7 +16293,7 @@ countries = {
             #Tartora Khan	1205-1236
             #the Dareli queen (name
             #Torra Khan	1241-1275
-            #Shah Ra�is Khan	1275
+            #Shah Ra?is Khan	1275
             ruler_term  = { character = gli_sau_malik_ii_trakhan start_date = 1276.1.1 end_date = 1.1.1 regnal_number = 2 }
 
             regnal_numbers = {
@@ -16445,7 +16423,7 @@ countries = {
          include = "expl_northern_europe"
 
          government = {
-            #Controlled by the S�ckingen Abbey for the most part until 1387
+            #Controlled by the S?ckingen Abbey for the most part until 1387
             ruler = random
 
           }
@@ -17928,7 +17906,7 @@ countries = {
             ruler_term  = { character = jap_hei_mitsuyori start_date = 1290.1.1 end_date = 1334.1.1 regnal_number = 1 }
             ruler_term  = { character = jap_hei_chikamitsu start_date = 1334.1.1 end_date = 1.1.1 regnal_number = 1 }
 
-          } #Following the line of ?????, as the main line geneaology has a lot of problems, with too many generations in between
+          }
       }
       HEL = {
          capital = dzilam
@@ -18198,7 +18176,7 @@ countries = {
             ruler_term  = { character = jap_tou_tokitsune start_date = 1310.1.1 end_date = 1314.1.1 regnal_number = 1 }
             ruler_term  = { character = jap_tou_ujimura start_date = 1314.1.1 end_date = 1.1.1 regnal_number = 1 }
 
-          } #https://chibasi.net/tou.htm#rekidai
+          }
       }
       HIR = {
          type = pop
@@ -20509,7 +20487,7 @@ countries = {
             yelnya berezhnyany demidov katyn mikulino vydreya orsha rudnya krasny belik
             pustosel roslavl rognedino izyaslavl zaroy mglin khotsimsk drokov kastsyukovichy shumyachi
             krychaw monastyrshchina mstsislaw horki chavusy slawharad kopys mogilev novy_bykhaw bykhaw
-            rahachow bryansk
+            rahachow
          }
 
          include = "expl_eastern_europe"
@@ -21104,10 +21082,10 @@ countries = {
             #Kalinga Magha
             #Chandrabhanu (1255-62)
             #Savakanmaindan (1262-77)
-            #Kulasekara Cinkaiariyan (1277�84)
-            #Kulotunga Cinkaiariyan (1284�92)
-            #Vickrama Cinkaiariyan (1292�1302)
-            #Varodaya Cinkaiariyan (1302�25)
+            #Kulasekara Cinkaiariyan (1277?84)
+            #Kulotunga Cinkaiariyan (1284?92)
+            #Vickrama Cinkaiariyan (1292?1302)
+            #Varodaya Cinkaiariyan (1302?25)
             ruler = jfn_martanda_cinkaiariyan_aryacakravarti
 
           }
@@ -21190,20 +21168,20 @@ countries = {
          government = {
             ruler = jjk_viravarman_ii_chandela
 
-            #Vidyadhara (Vidyadhara)	1003�1035
-            #Vijaya-Pala (Vijayapala)	1035�1050
-            #Deva-Varman	1050�1060
-            #Kirtti-Varman (Kirtivarman)	1060�1100
-            #Sallakshana-Varman (Sallak?a?avarman)	1100�1110
-            #Jaya-Varman	1110�1120
-            #Prithvi-Varman (P?thvivarman)	1120�1128
-            #Madana-Varman	1128�1164
-            #Yasho-Varman II	1164�1165
-            #Paramardi-Deva	1165�1203
-            #Trailokya-Varman	1203�1245
-            #Vira-Varman (Viravarman)	1245�1285
-            #Bhoja-Varman	1285�1288
-            #Hammira-Varman (Hammiravarman)	1288�1311
+            #Vidyadhara (Vidyadhara)	1003?1035
+            #Vijaya-Pala (Vijayapala)	1035?1050
+            #Deva-Varman	1050?1060
+            #Kirtti-Varman (Kirtivarman)	1060?1100
+            #Sallakshana-Varman (Sallak?a?avarman)	1100?1110
+            #Jaya-Varman	1110?1120
+            #Prithvi-Varman (P?thvivarman)	1120?1128
+            #Madana-Varman	1128?1164
+            #Yasho-Varman II	1164?1165
+            #Paramardi-Deva	1165?1203
+            #Trailokya-Varman	1203?1245
+            #Vira-Varman (Viravarman)	1245?1285
+            #Bhoja-Varman	1285?1288
+            #Hammira-Varman (Hammiravarman)	1288?1311
             ruler_term  = { character = jjk_viravarman_ii_chandela start_date = 1311.1.1 end_date = 1.1.1 regnal_number = 2 }
 
             regnal_numbers = {
@@ -22994,9 +22972,8 @@ countries = {
             ruler_term  = { character = kie_mindaugas_holshanski start_date = 1321.1.1 end_date = 1324.1.1 regnal_number = 1 }
             ruler_term  = { character = kie_algimantas start_date = 1324.1.1 end_date = 1331.1.1 regnal_number = 1 }
             ruler_term  = { character = kie_teodoras_ivanovich_rurikovich start_date = 1331.1.1 end_date = 1.1.1 regnal_number = 1 }
-             # Restored
 
-
+            # Restored
             privilege = {
                clergy_powerful_dioceses
                market_fairs
@@ -24288,10 +24265,11 @@ countries = {
             ruler_term  = { character = jap_kawano_michitsugu start_date = 1267.1.1 end_date = 1272.1.1 regnal_number = 1 }
             ruler_term  = { character = jap_kawano_michiari start_date = 1272.1.1 end_date = 1311.8.28 regnal_number = 1 }
             ruler_term  = { character = jap_kawano_michimori start_date = 1311.8.28 end_date = 1.1.1 regnal_number = 1 }
+
              #Not actually the first one, but not much info about all the preceding ones so started with him
 
 
-          }
+         }
       }
       KNT = {
 
@@ -26221,9 +26199,8 @@ countries = {
             ruler_term  = { character = lat_baudouin_ii_courtenay start_date = 1228.1.1 end_date = 1229.4.9 regnal_number = 2 }
             ruler_term  = { character = lat_jean_i_brienne start_date = 1229.4.9 end_date = 1237.3.27 regnal_number = 1 }
             ruler_term  = { character = lat_baudouin_ii_courtenay start_date = 1237.3.27 end_date = 1261.7.25 regnal_number = 2 }
-             # Co-Ruler during the minority of Baldwin II
 
-
+            # Co-Ruler during the minority of Baldwin II
             regnal_numbers = {
                name_baldwin = 2
                name_henry = 1
@@ -27750,6 +27727,8 @@ countries = {
       }
       LRC = {
          capital = la_rochelle
+
+         dynasty = rancon_dynasty
          country_rank = rank_duchy
          starting_technology_level = 3
 
@@ -27785,9 +27764,9 @@ countries = {
             outward_vs_inward = -50
 
              
+            ruler = random
             heir_selection = salic_law
 
-            ruler = random
             ruler_term  = { character = lrc_ostend_1 start_date = 1010.1.1 end_date = 1019.1.1 regnal_number = 1 }
             ruler_term  = { character = lrc_aimeric_1 start_date = 1019.1.2 end_date = 1042.1.1 regnal_number = 1 }
             ruler_term  = { character = lrc_ostend_2 start_date = 1042.1.2 end_date = 1068.1.1 regnal_number = 2 }
@@ -28455,9 +28434,8 @@ countries = {
 
             ruler_term  = { character = mai_konrad_i_wittelsbach start_date = 1161.1.1 end_date = 1165.1.1 regnal_number = 1 }
             ruler_term  = { character = mai_konrad_i_wittelsbach start_date = 1183.8.23 end_date = 1200.10.25 regnal_number = 1 }
-             # Restored
 
-
+            # Restored
             regnal_numbers = {
                name_conrad = 1
                name_henry = 1
@@ -30240,9 +30218,8 @@ countries = {
                character = mis_vladimir_volodarevich_rurikovich start_date = 1167.1.1 end_date = 1216.1.1 regnal_number = 2
                character = pok_vasilko_volodarevich_rurikovich start_date = 1167.1.1 end_date = 1216.1.1 regnal_number = 1
             }
-             # Restored
 
-
+            # Restored
             # Lithuanian rulers since 1216 until 1242 when it was annexed
             regnal_numbers = {
                name_gleb = 1
@@ -36663,10 +36640,11 @@ countries = {
             ruler_term  = { character = ogk_friedrich_ii_hohenstaufen start_date = 1218.5.19 end_date = 1250.12.13 regnal_number = 1 }
             ruler_term  = { character = ogk_konrad_iv_hohenstaufen start_date = 1250.12.13 end_date = 1254.5.21 regnal_number = 4 }
             ruler_term  = { character = ogk_adolf_von_nassau start_date = 1291.5.5 end_date = 1298.7.2 regnal_number = 1 }
-             #Enumerated as successor of Conrad I who was German King 911�918 but not Emperor
+
+             #Enumerated as successor of Conrad I who was German King 911?918 but not Emperor
 
 
-          }
+         }
       }
       OGL = {
          capital = ouargla
@@ -39893,10 +39871,6 @@ countries = {
             kashubian
          }
 
-          modifier = "interdict"
-         start_date = 1000.1.1
-         date = 1342.1.1
-
          government = {
 
             centralization_vs_decentralization = 80
@@ -42059,10 +42033,11 @@ countries = {
             ruler_term  = { character = rim_ferrantino_malatesta start_date = 1326.8.1 end_date = 1331.1.1 regnal_number = 0 }
             ruler_term  = { character = rim_ferrantino_malatesta start_date = 1334.1.1 end_date = 1335.1.1 regnal_number = 0 }
             ruler_term  = { character = rim_malatesta_iii_malatesta start_date = 1335.1.1 end_date = 1.1.1 regnal_number = 3 }
-             # As Podest�
+
+             # As Podest?
 
 
-          }
+         }
       }
       RIVN = {
          capital = wexford
@@ -43262,9 +43237,8 @@ countries = {
             ruler_term  = { character = sco_john_balliol_of_scotland start_date = 1292.11.17 end_date = 1296.7.10 regnal_number = 1 }
             ruler_term  = { character = sco_robert_the_bruce start_date = 1306.3.25 end_date = 1329.6.7 regnal_number = 1 }
             ruler_term  = { character = sco_david_ii start_date = 1329.6.7 end_date = 1333.5.14 regnal_number = 2 }
-             # exile in france
 
-
+            # exile in france
             regnal_numbers = {
                name_robert = 1
                name_john = 1
@@ -44213,9 +44187,8 @@ countries = {
             }
             ruler_term  = { character = ara_jaume_ii_arago start_date = 1285.11.11 end_date = 1295.12.11 regnal_number = 1 }
             ruler_term  = { character = sic_federico_iii_sicily start_date = 1295.12.11 end_date = 1.1.1 regnal_number = 3 }
-             # Marital Co-Ruler
 
-
+            # Marital Co-Ruler
             regnal_numbers = {
                name_roger = 3
                name_simeon = 1
@@ -44867,9 +44840,8 @@ countries = {
             ruler_term  = { character = dan_valdemar_iii start_date = 1325.3.12 end_date = 1326.8.15 regnal_number = 5 }
             ruler_term  = { character = shl_gerhard_iii_holstein_rendsburg start_date = 1326.8.15 end_date = 1330.1.1 regnal_number = 1 }
             ruler_term  = { character = dan_valdemar_iii start_date = 1330.1.1 end_date = 1.1.1 regnal_number = 5 }
-             #Yes, there are 2 Erik I
 
-
+            #Yes, there are 2 Erik I
             regnal_numbers = {
                name_olaf = 1
                name_canute = 2
@@ -49921,10 +49893,10 @@ countries = {
              
             ruler = tnk_vira_pandya
 
-            #Maravarman Sundara I	1216�1238 CE
-            #Sundaravarman Kulasekara II	1238�1240 CE
-            #Maravarman Sundara II	1238�1251 CE
-            #Jatavarman Sundara I	1251�1268 CE
+            #Maravarman Sundara I	1216?1238 CE
+            #Sundaravarman Kulasekara II	1238?1240 CE
+            #Maravarman Sundara II	1238?1251 CE
+            #Jatavarman Sundara I	1251?1268 CE
             ruler_term  = { character = tnk_maravarman_kulasekara_pandya start_date = 1268.1.1 end_date = 1310.1.1 regnal_number = 1 }
             ruler_term  = { character = tnk_sundara_pandya start_date = 1310.1.1 end_date = 1327.1.1 regnal_number = 4 }
             ruler_term  = { character = tnk_vira_pandya start_date = 1327.1.1 end_date = 1.1.1 regnal_number = 4 }
@@ -55002,9 +54974,8 @@ countries = {
 
             ruler_term  = { character = wtg_werner_iii_wittgenstein start_date = 1277.1.1 end_date = 1322.1.1 regnal_number = 3 }
             ruler_term  = { character = wtg_siegfried_ii_wittgenstein start_date = 1322.7.18 end_date = 1.1.1 regnal_number = 2 }
-             #It isn't really known who actually ruled in this period. For simplicity sake we assume it was Werner
 
-
+            #It isn't really known who actually ruled in this period. For simplicity sake we assume it was Werner
             regnal_numbers = {
                Werner = 3
                Siegfried = 2
