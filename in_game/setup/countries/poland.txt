@@ -6,53 +6,25 @@
 	unit_color1 = rgb {	252 248 245 }
 	unit_color2 = rgb {	52 137 213 }
 
-	culture_definition = lesser_polish
-	religion_definition = catholic
+	culture_definition = greater_polish
+	religion_definition = vulgar_catholic
 
 	description_category = military
 	difficulty = 3
 }
 
-SDZ = {
-	color = rgb { 255 190 0 }
+KSHB = {
+	color = rgb { 130 65 88 }
 
-	culture_definition = lesser_polish
-	religion_definition = catholic
+	culture_definition = kashubian
+	religion_definition = vulgar_catholic
 }
 
-LCZ = {
-	color = rgb { 230 140 94 }
+STDR = {
+	color = rgb { 188 79 119 }
 
-	culture_definition = lesser_polish
-	religion_definition = catholic
-}
-
-PLK = {
-	color = rgb { 139 45 57 }
-
-	culture_definition = mazovian
-	religion_definition = catholic
-}
-
-RAW = {
-	color = hsv { 0.6 0.35 0.38 }
-
-	culture_definition = mazovian
-	religion_definition = catholic
-}
-
-CZK = {
-	color = rgb { 223 165 189 }
-
-	culture_definition = mazovian
-	religion_definition = catholic
-}
-
-INO = {
-	color = rgb { 243 219 212 }
-
-	culture_definition = greater_polish
-	religion_definition = catholic
+	culture_definition = polabian
+	religion_definition = vulgar_catholic
 }
 
 VOL = {
@@ -120,7 +92,7 @@ VBK = {
 MSV = {
 	color = rgb { 200 119 62 }
 
-	culture_definition = smolenskian_culture
+	culture_definition = polatskian_culture
 	religion_definition = orthodox
 }
 
@@ -307,4 +279,18 @@ OPV = {
 	
 	culture_definition = silesian
 	religion_definition = catholic
+}
+
+OSZG = {
+	color = rgb { 191 118 76 }
+	
+	culture_definition = osmagyar
+	religion_definition = vulgar_catholic
+}
+
+BLSB = {
+	color = rgb { 165 102 66 }
+	
+	culture_definition = black_serb
+	religion_definition = vulgar_catholic
 }

@@ -116,12 +116,36 @@ FIN = {
 	color = map_finnish
 	color2 = rgb { 16 41 202 }
 
-	culture_definition = finnish
+	culture_definition = swedish
 	religion_definition = catholic
 	
 	unit_color0 = hsv360 {	0	0	50	} 
 	unit_color1 = hsv360 {	216	75	35	} 
 	unit_color2 = hsv360 	{	30	80	85	}	
+
+	
+}
+
+
+BJA = {
+	color = map_bjarmian
+	color2 = rgb { 16 41 202 }
+
+	culture_definition = bjarmian
+	religion_definition = muinaisusko
+
+
+	
+}
+
+
+TAV = {
+	color = map_tavastian
+	color2 = rgb { 16 41 202 }
+
+	culture_definition = tavastian
+	religion_definition = muinaisusko
+
 
 	
 }
@@ -159,30 +183,6 @@ IZRT = {
 
 	culture_definition = ingrian
 	religion_definition = muinaisusko
-}
-
-
-BJA = {
-	color = map_bjarmian
-	color2 = rgb { 16 41 202 }
-
-	culture_definition = bjarmian
-	religion_definition = muinaisusko
-
-
-	
-}
-
-
-TAV = {
-	color = map_tavastian
-	color2 = rgb { 16 41 202 }
-
-	culture_definition = tavastian
-	religion_definition = muinaisusko
-
-
-	
 }
 
 KVE = {

@@ -2,14 +2,13 @@
 	color = map_BRI
 	color2 = rgb { 16 41 202 }
 
-	culture_definition = gallo
-	religion_definition = catholic
+	culture_definition = breton
+	religion_definition = african_catholic
 }
 
 
 FRA = {
 	color = map_FRA
-	color2 = rgb { 16 41 202 }
 	
 	unit_color0 = rgb { 0 38 94 }
 	unit_color1 = rgb { 171 19 19 }
@@ -43,7 +42,15 @@ AQN = {
 	color = map_AQN
 	color2 = rgb { 16 41 202 }
 
-	culture_definition = gascon
+	culture_definition = aquitan
+	religion_definition = catholic
+}
+
+#Gothalaunia
+GTL = {
+	color = rgb { 76 65 130 }
+
+	culture_definition = tarragones
 	religion_definition = catholic
 }
 
@@ -52,7 +59,25 @@ ALE = {
 	#color = map_FRA
 	color = rgb { 162 116 225 }
 
-	culture_definition = norman
+	culture_definition = divreen
+	religion_definition = catholic
+}
+
+#Rennes
+RNN = {
+	#color = map_FRA
+	color = rgb { 92 101 119 }
+
+	culture_definition = breton
+	religion_definition = african_catholic
+}
+
+#Guise
+GUI = {
+	#color = map_FRA
+	color = rgb { 58 76 78 }
+
+	culture_definition = francique
 	religion_definition = catholic
 }
 
@@ -88,7 +113,7 @@ AUV = {
 	color = map_AUV
 	color2 = rgb { 218 155 75 }
 
-	culture_definition = auvergnat
+	culture_definition = alvernhatz
 	religion_definition = catholic
 }
 
@@ -113,9 +138,9 @@ CHP = {
 #Dauphine
 DAU = {
 	#color = map_FRA
-	color = rgb { 93 194 122 }
+	color = rgb { 178 60 129 }
 
-	culture_definition = arpitan
+	culture_definition = daufines
 	religion_definition = catholic
 }
 
@@ -205,16 +230,15 @@ PRO = {
 	color = map_PRO
 	color2 = rgb { 93 160 163 }
 
-	culture_definition = provencal
+	culture_definition = ligur
 	religion_definition = catholic
 }
 
 #Orange
 ORA = {
-	color = map_ORA
-	color2 = rgb { 255 128 0 }
+	color = rgb { 255 246 218 }
 
-	culture_definition = provencal
+	culture_definition = daufines
 	religion_definition = catholic
 }
 
@@ -241,16 +265,16 @@ LOR = {
 	color = map_LOR
 	color2 = rgb { 115 142 205 }
 
-	culture_definition = lorrain
+	culture_definition = ostrisch
 	religion_definition = catholic
 }
 
 #Bar
 BAR = {
 	#color = map_FRA
-	color = rgb { 178 163 143 }
+	color = rgb { 162 204 187 }
 
-	culture_definition = lorrain
+	culture_definition = francique
 	religion_definition = catholic
 }
 
@@ -272,21 +296,12 @@ MRT = {
 	religion_definition = catholic
 }
 
-#Poitou
-POI = {
-	#color = map_FRA
-	color = rgb { 241 116 119 }
-
-	culture_definition = poitevin
-	religion_definition = catholic
-}
-
 #Anjou
 ANJ = {
 	#color = map_FRA
-	color = rgb { 197 50 53 }
+	color = rgb { 99 47 112 }
 
-	culture_definition = angevin
+	culture_definition = gallo
 	religion_definition = catholic
 }
 
@@ -380,8 +395,15 @@ IJO = {
 #Valentinois
 VLN = {
 	#color = map_FRA
-	color = rgb { 107 142 246 }
-	culture_definition = vivaro_alpine
+	color = rgb { 91 45 80 }
+	culture_definition = ronadzyte
+	religion_definition = manichaeism
+}
+
+#Lyonais
+LYO = {
+	color = rgb { 221 133 110 }
+	culture_definition = creissent
 	religion_definition = catholic
 }
 
@@ -436,34 +458,34 @@ BSC = {
 #Strasbourg
 ALS = {
 	#color = map_FRA
-	color = rgb { 246 223 15 }
-	culture_definition = rhine_alemannic
+	color = rgb { 190 50 40 }
+	culture_definition = ostrisch
 	religion_definition = catholic
 }
 
 #Montbéliard
 MTB = {
 	#color = map_FRA
-	color = rgb { 250 38 38 }
-	culture_definition = franc_comtois
+	color = rgb { 112 128 96 }
+	culture_definition = ostrisch
 	religion_definition = catholic
 }
 
 TUL = {
-	color = rgb { 233 78 78 }
-	culture_definition = lorrain
+	color = rgb { 142 58 124 }
+	culture_definition = francique
 	religion_definition = catholic
 }
 
 VDU = {
-	color = rgb { 223 255 0 }
-	culture_definition = lorrain
+	color = rgb { 204 131 89 }
+	culture_definition = francique
 	religion_definition = catholic
 }
 
 MTZ = {
-	color = rgb { 136 115 156 }
-	culture_definition = lorrain
+	color = rgb { 240 192 160 }
+	culture_definition = ostrisch
 	religion_definition = catholic
 }
 
@@ -484,7 +506,7 @@ RET = {
 	#color = map_FRA
 	color = rgb { 166 223 215 }
 
-	culture_definition = champenais
+	culture_definition = francique
 	religion_definition = catholic
 }
 
@@ -531,7 +553,31 @@ MRC = {
 VNT = {
 	color = rgb { 211 21 22 }
 
-	culture_definition = limousin
+	culture_definition = alvernhatz
+	religion_definition = catholic
+}
+
+#Turenne
+TUE = {
+	color = rgb { 204 154 128 }
+
+	culture_definition = alvernhatz
+	religion_definition = catholic
+}
+
+#Tulle
+XTL = {
+	color = rgb { 173 135 173 }
+
+	culture_definition = alvernhatz
+	religion_definition = catholic
+}
+
+#Limoges
+LMG = {
+	color = rgb { 122 42 49 }
+
+	culture_definition = creissent
 	religion_definition = catholic
 }
 
@@ -539,8 +585,88 @@ VNT = {
 RCC = {
 	color = rgb { 87 13 135 }
 
-	culture_definition = limousin
+	culture_definition = creissent
 	religion_definition = catholic
+}
+
+#Brosse
+BSS = {
+	color = rgb { 198 195 109 }
+
+	culture_definition = creissent
+	religion_definition = catholic
+}
+
+#Brioude
+BIU = {
+	color = rgb { 129 99 142 }
+
+	culture_definition = alvernhatz
+	religion_definition = catholic
+}
+
+#Florac
+FLR = {
+	color = rgb { 120 160 188 }
+
+	culture_definition = tolosan
+	religion_definition = catholic
+}
+
+#Poitou
+POI = {
+	color = rgb { 115 217 204 }
+
+	culture_definition = rochelaes
+	religion_definition = catholic
+}
+
+#Thouars
+THR = {
+	color = rgb { 122 128 165 }
+
+	culture_definition = rochelaes
+	religion_definition = catholic
+}
+
+#Montaigu
+MTU = {
+	color = rgb { 133 158 188 }
+
+	culture_definition = rochelaes
+	religion_definition = catholic
+}
+
+#Talmont
+XTM = {
+	color = rgb { 86 132 188 }
+
+	culture_definition = rochelaes
+	religion_definition = catholic
+}
+
+#Loudun
+LOU = {
+	color = rgb { 86 170 132 }
+
+	culture_definition = rochelaes
+	religion_definition = catholic
+}
+
+#Retz
+RTZ = {
+	color = rgb { 175 137 82 }
+
+	culture_definition = rochelaes
+	religion_definition = catholic
+}
+
+#Nantes
+NTN = {
+	color = rgb { 85 137 82 }
+
+	culture_definition = breton
+	religion_definition = african_catholic
 }
 
 #Carlat
@@ -555,28 +681,21 @@ CLT = {
 ANG = {
 	color = rgb { 156 65 224 }
 
-	culture_definition = saintongeais
+	culture_definition = rochelaes
 	religion_definition = catholic
 }
 
-SCL	= { #Saint-Claude Abbey
-	color = rgb { 200 196 50 }
-	
-	culture_definition = arpitan
+#Lusignan
+LSN = {
+	color = rgb { 193 111 56 }
+
+	culture_definition = creissent
 	religion_definition = catholic
 }
 
-GNV	= { #Geneve
-color = rgb { 200 32 50 }
+LRC = { #La Rochelle
+	color = rgb { 90 79 158 }
 
-culture_definition = arpitan
-religion_definition = catholic
-
-}
-
-SAV	= { #Savoy
-	color = hsv360 { 338 57 76 }
-
-	culture_definition = arpitan
+	culture_definition = rochelaes
 	religion_definition = catholic
 }

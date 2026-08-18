@@ -1,5 +1,5 @@
 ﻿HUN = {
-	color = map_hungarian
+	color = map_HUN
 	color2 = rgb { 152  85  92 }
 
 	unit_color0 = hsv360 {	7 87 50 }
@@ -7,10 +7,28 @@
 	unit_color2 = rgb {	239 239 242 }
 
 	culture_definition = hungarian
-	religion_definition = catholic
+	religion_definition = orthodox
 
 	description_category = diplomatic
 	difficulty = 1
+}
+
+ISTR = {
+	color = rgb { 99  75  72 }
+   culture_definition = istriota
+   religion_definition = orthodox
+}
+
+SZEN = {
+	color = rgb { 129  163  75 }
+   culture_definition = hungarian
+   religion_definition = orthodox
+}
+
+PTZK = {
+	color = rgb { 214  186  139 }
+   culture_definition = patzinak
+   religion_definition = orthodox
 }
 
 WAL = {

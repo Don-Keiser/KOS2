@@ -1,4 +1,14 @@
-﻿ANR = { #Andorra
+﻿CAT = {
+	color = map_CAT
+	color2 = rgb { 16 41 202 }
+
+	culture_definition = catalan
+	religion_definition = catholic
+
+	
+}
+
+ANR = {
 	color = map_ANR
 	color2 = rgb { 16 41 202 }
 	
@@ -6,7 +16,7 @@
 	religion_definition = catholic
 }
 
-ARA = { #Aragon
+ARA = {
 	color = map_ARA
 	color2 = rgb { 16 41 202 }
 	
@@ -18,10 +28,33 @@ ARA = { #Aragon
 	religion_definition = catholic
 
 	description_category = administrative
-	difficulty = 1	
+	difficulty = 1
+
+	
 }
 
-CAS = { #Castile
+VAL = {
+	color = map_VAL
+	color2 = rgb { 16 41 202 }
+
+	culture_definition = catalan
+	religion_definition = catholic
+
+	
+}
+
+MLL = {
+	color = map_MLL
+	color2 = rgb { 16 41 202 }
+
+	culture_definition = catalan
+	religion_definition = catholic
+
+	
+}
+
+
+CAS = {
 	color = map_CAS
 	color2 = rgb { 16 41 202 }
 
@@ -34,63 +67,11 @@ CAS = { #Castile
 
 	description_category = military
 	difficulty = 2
-}
-
-CAT = { #Catalonia
-	color = map_CAT
-	color2 = rgb { 16 41 202 }
-
-	culture_definition = catalan
-	religion_definition = catholic
-}
-
-GLC = { #Galicia
-	color = map_GLC
-	color2 = rgb { 16 41 202 }
-
-	culture_definition = galician
-	religion_definition = catholic
-}
-
-GRA = { #Granada
-	color = map_GRA
-	color2 = rgb { 16 41 202 }
-
-	culture_definition = andalusi
-	religion_definition = sunni
-}
-
-LON = { #Leon
-	color = map_LON
-	color2 = rgb { 16 41 202 }
-
-	culture_definition = leonese
-	religion_definition = catholic
-	
-	unit_color0 = purple
-	unit_color1 = white
-	unit_color2 = red
-}
-
-MLL = { #Mallorca
-	color = map_MLL
-	color2 = rgb { 16 41 202 }
-
-	culture_definition = catalan
-	religion_definition = catholic
-}
-
-NAV = { #Navarre
-	color = map_NAV
-	color2 = rgb { 16 41 202 }
-
-	culture_definition = basque
-	religion_definition = catholic
 
 	
 }
 
-POR = { #Portugal
+POR = {
 	color = map_POR
 	color2 = rgb { 16 41 202 }
 
@@ -103,27 +84,86 @@ POR = { #Portugal
 
 	description_category = administrative
 	difficulty = 2
+
+	
 }
 
-VAL = { #Valencia
-	color = map_VAL
+LON = {
+	color = map_LON
 	color2 = rgb { 16 41 202 }
 
-	culture_definition = catalan
+	culture_definition = leonese
+	religion_definition = catholic
+	
+	unit_color0 = purple
+	unit_color1 = white
+	unit_color2 = red
+
+	
+}
+
+GLC = {
+	color = map_GLC
+	color2 = rgb { 16 41 202 }
+
+	culture_definition = galician
+	religion_definition = catholic
+
+	
+}
+
+GRA = {
+	color = map_GRA
+	color2 = rgb { 16 41 202 }
+
+	culture_definition = andalusi
+	religion_definition = sunni
+
+	
+}
+
+NAV = {
+	color = map_NAV
+	color2 = rgb { 16 41 202 }
+
+	culture_definition = basque
+	religion_definition = catholic
+
+	
+}
+
+TRGN = {
+	color = rgb { 97 142 119 }
+
+	culture_definition = tarragones
 	religion_definition = catholic
 }
 
-#Special HOLY ORDERS
-#ACT = {
-#	color = map_ACT
+CNTB = {
+	color = rgb { 163 174 97 }
+
+	culture_definition = asturian
+	religion_definition = arian
+}
+
+#CTV = {
+#	color = map_CTV
 #	color2 = rgb { 16 41 202 }
 #
 #	culture_definition = castilian
 #	religion_definition = catholic
 #}
 
-#CTV = {
-#	color = map_CTV
+#STO = {
+#	color = map_STO
+#	color2 = rgb { 16 41 202 }
+#
+#	culture_definition = castilian
+#	religion_definition = catholic
+#}
+
+#ACT = {
+#	color = map_ACT
 #	color2 = rgb { 16 41 202 }
 #
 #	culture_definition = castilian
@@ -143,13 +183,5 @@ VAL = { #Valencia
 #	color2 = rgb { 16 41 202 }
 #
 #	culture_definition = portuguese
-#	religion_definition = catholic
-#}
-
-#STO = {
-#	color = map_STO
-#	color2 = rgb { 16 41 202 }
-#
-#	culture_definition = castilian
 #	religion_definition = catholic
 #}

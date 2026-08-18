@@ -35,7 +35,7 @@ MAM = {
 SKN = {
 	color = rgb { 211 230 111 }
 	culture_definition = hijazi_culture
-	religion_definition = shia
+	religion_definition = sunni
 }
 
 #Tripoli - TRP (Stateless)
@@ -44,4 +44,10 @@ TRP = {
 	color2 = blue_light
 	culture_definition = libyan_arabic_culture
 	religion_definition = sunni
+}
+
+KHMT = {
+	color = rgb { 38 38 38 }
+	culture_definition = coptic_culture
+	religion_definition = miaphysite
 }

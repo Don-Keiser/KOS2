@@ -1,71 +1,4 @@
-﻿AIT = { #Ait Babbas
-	color = rgb { 208 20 29 }  
-	
-	culture_definition = kabyle
-	religion_definition = sunni
-}
-
-ALG = { #Algeria
-	color = map_algiers
-	color2 = rgb { 230  225  110 }  #same as in EU4
-	
-	culture_definition = algerian
-	religion_definition = sunni
-}
-
-BTL = { #Banu Tellis
-	color = rgb { 155 233 115 }
-	
-	culture_definition = eastern_amazigh
-	religion_definition = sunni
-}
-
-CNR = { #Guanche
-	color = map_guanche
-	color2 = rgb { 65  112  201 } 
-	
-	culture_definition = guanche
-	religion_definition = guanche_religion
-}
-
-DJE = { #Djerid
-	color = rgb { 255 133 15 } #former GHD (Djerid) EU4 color 
-	
-	culture_definition = eastern_amazigh
-	religion_definition = ibadi
-}
-
-FEZ = { #Fez
-	color = map_sanhaja
-	color2 = rgb { 14 101 15 } 
-	
-	culture_definition = zenati
-	religion_definition = sunni
-}
-
-GBS = { #Gabes
-	color = rgb { 255 233 215 }
-	
-	culture_definition = eastern_amazigh
-	religion_definition = sunni
-}
-
-GFS = { #Gafsa
-	color = rgb { 55 133 215 }
-	
-	culture_definition = tunisian
-	religion_definition = sunni
-}
-
-KUK = { #Kuku
-	color = map_kabyle
-	color2 = rgb { 255 244 0 }  
-	
-	culture_definition = kabyle
-	religion_definition = sunni
-}
-
-MOR = { #Morocco
+﻿MOR = {
 	color = map_morocco
 	color2 = rgb { 191  110  62 }  #same as in EU4
 	
@@ -76,7 +9,23 @@ MOR = { #Morocco
 	difficulty = 3
 }
 
-MRK = { #Marrakesh
+FEZ = {
+	color = map_sanhaja
+	color2 = rgb { 14 101 15 } 
+	
+	culture_definition = zenati
+	religion_definition = sunni
+}
+
+CNR = {
+	color = map_guanche
+	color2 = rgb { 65  112  201 } 
+	
+	culture_definition = guanche
+	religion_definition = guanche_religion
+}
+
+MRK = {
 	color = map_masmuda
 	color2 = rgb { 84  242  223 }  #same as in EU4
 	
@@ -84,24 +33,24 @@ MRK = { #Marrakesh
 	religion_definition = sunni
 }
 
-MZB = { #Mzab
-	color = hsv { 0 0 0.60 }
+TET = {
+	color = hsv { 0.21 0.99 0.38 }
 	
-	culture_definition = mozabite
-	religion_definition = ibadi
+	culture_definition = moroccan
+	religion_definition = sunni
 }
 
-OGL = { #Ouargla
-	color = rgb { 255 133 215 }
-	
-	culture_definition = mozabite
-	religion_definition = ibadi
-}
-
-SLE = { #Sale
+SLE = {
 	color = rgb { 246  103  94 }  #same as in EU4
 	
 	culture_definition = moroccan
+	religion_definition = sunni
+}
+
+TFL = {
+	color = rgb { 140 45 100 }  #same as in EU4
+	
+	culture_definition = sanhaja
 	religion_definition = sunni
 }
 
@@ -113,36 +62,7 @@ SOS = {
 	religion_definition = sunni
 }
 
-TAT = { #Touat
-	color = rgb { 145 143 215 }
-	
-	culture_definition = zenati
-	religion_definition = sunni
-}
-
-TET = { #Tetouan
-	color = hsv { 0.21 0.99 0.38 }
-	
-	culture_definition = moroccan
-	religion_definition = sunni
-}
-
-TFL = { #Tafilalt
-	color = rgb { 140 45 100 }  #same as in EU4
-	
-	culture_definition = sanhaja
-	religion_definition = sunni
-}
-
-TGT = { #Touggourt
-	color = map_TGT
-	color2 = rgb { 90 140 190 }  #same as in EU4
-	
-	culture_definition = mozabite
-	religion_definition = ibadi
-}
-
-TLE = { #Tlemcen
+TLE = {
 	color = map_tlemcen
 	color2 = rgb { 40 110 140 }  #same as in EU4
 	
@@ -150,7 +70,45 @@ TLE = { #Tlemcen
 	religion_definition = sunni
 }
 
-TUN = { #Tunis
+ALG = {
+	color = map_algiers
+	color2 = rgb { 230  225  110 }  #same as in EU4
+	
+	culture_definition = algerian
+	religion_definition = sunni
+}
+
+TGT = {
+	color = map_TGT
+	color2 = rgb { 90 140 190 }  #same as in EU4
+	
+	culture_definition = mozabite
+	religion_definition = ibadi
+}
+
+KUK = { #new tag, Kuku country
+	color = map_kabyle
+	color2 = rgb { 255 244 0 }  
+	
+	culture_definition = kabyle
+	religion_definition = sunni
+}
+
+AIT = { #new tag, Ait Babbas
+	color = rgb { 208 20 29 }  
+	
+	culture_definition = kabyle
+	religion_definition = sunni
+}
+
+MZB = {
+	color = hsv { 0 0 0.60 }
+	
+	culture_definition = mozabite
+	religion_definition = ibadi
+}
+
+TUN = {
 	color = map_tunis
 	color2 = rgb { 146  134  57 }  #same as in EU4
 	
@@ -158,9 +116,59 @@ TUN = { #Tunis
 	religion_definition = sunni
 }
 
-ZAB = { #ZAB
+DJE = { #new tag, former Djerid country
+	color = rgb { 255 133 15 } #former GHD (Djerid) EU4 color 
+	
+	culture_definition = eastern_amazigh
+	religion_definition = ibadi
+}
+
+GFS = { 
+	color = rgb { 55 133 215 }
+	
+	culture_definition = tunisian
+	religion_definition = sunni
+}
+
+GBS = { 
+	color = rgb { 255 233 215 }
+	
+	culture_definition = eastern_amazigh
+	religion_definition = sunni
+}
+
+BTL = { 
+	color = rgb { 155 233 115 }
+	
+	culture_definition = eastern_amazigh
+	religion_definition = sunni
+}
+
+ZAB = { 
 	color = hsv360 { 109 79 67 }
 	
 	culture_definition = algerian
 	religion_definition = sunni
+}
+
+OGL = { 
+	color = rgb { 255 133 215 }
+	
+	culture_definition = mozabite
+	religion_definition = ibadi
+}
+
+TAT = { 
+	color = rgb { 145 143 215 }
+	
+	culture_definition = zenati
+	religion_definition = sunni
+}
+
+#KOS
+MURO = { 
+	color = rgb { 127 101 44 }
+	
+	culture_definition = muretannian
+	religion_definition = african_catholic
 }
