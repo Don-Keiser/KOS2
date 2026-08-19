@@ -171,7 +171,7 @@ SAA = {
 STE = {
 	color = rgb { 204 102 102 }
 	
-	culture_definition = western_pomeranian
+	culture_definition = greater_polish
 	religion_definition = vulgar_catholic
 }
 
@@ -322,7 +322,7 @@ GSW = {
 WOL = {
 	color = rgb { 86 116 82 }
 
-	culture_definition = western_pomeranian
+	culture_definition = rani
 	religion_definition = vulgar_catholic
 }
 

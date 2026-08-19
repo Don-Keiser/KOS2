@@ -319,3 +319,45 @@ VYT = {
 	culture_definition = novgorodian
 	religion_definition = orthodox
 }
+
+MRDV = {
+	color = rgb { 119 109 131 }
+
+	culture_definition = erzya_culture
+	religion_definition = muinaisusko
+}
+
+VRNO = {
+	color = rgb { 183 88 53 }
+
+	culture_definition = meschera_culture
+	religion_definition = muinaisusko
+}
+
+ERMR = {
+	color = rgb { 232 112 67 }
+
+	culture_definition = meschera_culture
+	religion_definition = muinaisusko
+}
+
+MURM = {
+	color = rgb { 145 204 42 }
+
+	culture_definition = merya_culture
+	religion_definition = muinaisusko
+}
+
+THVM = {
+	color = rgb { 131 108 160 }
+
+	culture_definition = merya_culture
+	religion_definition = muinaisusko
+}
+
+KNMR = {
+	color = rgb { 105 108 80 }
+
+	culture_definition = merya_culture
+	religion_definition = muinaisusko
+}

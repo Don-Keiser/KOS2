@@ -14030,6 +14030,28 @@ countries = {
 
           }
       }
+      ERMR = {
+         capital = lyubichi
+         country_rank = rank_duchy
+         starting_technology_level = 3
+
+         own_control_core = {
+            staraya_ryazan putyatino shilovo knyazhoye skopin ryazhsk pronsk klepiki shatur vlasovo
+            osovets lyubichi perevitska vysokoye vokhna alexandrovskaya_sloboda kirzhach rogozh pushkino moscow
+            bronnitsy kolomna koshira rostislavl_ryazansky serebryanye_prudy mikhaylov ryazan kazari tuma kasimov
+            koponovo
+         }
+
+         include = "expl_eastern_europe"
+         include = "eastern_european_monarchy_no_coast"
+
+         government = {
+            type = monarchy
+            ruler = random
+            heir_selection = cognatic_primogeniture
+
+          }
+      }
       ERRB = {
          capital = constantinople
 
@@ -24232,6 +24254,27 @@ countries = {
 
           }
       }
+      KNMR = {
+         capital = yaroslavl
+         country_rank = rank_duchy
+         starting_technology_level = 3
+
+         own_control_core = {
+            rostov ilyinskoye_khovanskoye gavrilovskoye borisogleb petrovsk_rostov pereyaslavl yuryev_polsky lezhnevo shuya ivanovo
+            romanov danilov sudislavl yakovlevskoye_bolshoye kostroma nerekhta sol_velikaya yaroslavl kurba bolshoye_selo
+            ust_sheksna beloe pokrovskoye_yaroslav lyubim buy galich nikolo_dor kadyy ostrovskoye yuryev_povolzhsk
+         }
+
+         include = "expl_eastern_europe"
+         include = "eastern_european_monarchy_no_coast"
+
+         government = {
+            type = monarchy
+            ruler = random
+            heir_selection = cognatic_primogeniture
+
+          }
+      }
       KNO = {
 
          variables = {
@@ -32057,6 +32100,34 @@ countries = {
          country_rank = rank_county
 
        }
+      MRDV = {
+         capital = saransk
+         country_rank = rank_duchy
+         starting_technology_level = 3
+
+         own_control_core = {
+            beljamen ilovlya zenzevatka zimnyatsky kumylzhenskaya veesky kalach verkhny_mamon buturlinovka novaya_pokrovka voronezh
+            teshevka donkov ust_stanovykh_ryas kozlov staroyuryevo morsha sasovo azeevo kadom arzamas
+            sarov shatki bolshoye_murashkino dalneye_konstantinovo perevoz spasskoye_lyskovo lyskovo kurmysh sergach sechenovo
+            alatyr promsa chamzinka bolshoye_boldino lukoyanov krasnoslobodsk temnikov tarbeevka zubova_polyana ruzayevka
+            saransk lunino penza shemysheyka petrovsk ukek goly_karamysh kamyshin kotovo danilovka
+            mikhaylovka malodelskaya novoanninsky alexeyevskaya uryupin bannoye sadovoye anna_russia usman lipetsk
+            izberdey tambov bondari zemetchino mokhcha insar mokshan nizhny_lomov chembar malaya_serdoba
+            yekaterinovka lysye_gory atkarsk rudnya_pontic samoylovka balanda arkadak yelan machekha novonikolayevsky
+            borisoglebsk bolshaya_gribanovka zherdevka mordovo rasskazovo kirsanov serdobinskaya rtishchevo turki balashov
+            uvarovo
+         }
+
+         include = "expl_eastern_europe"
+         include = "eastern_european_monarchy_no_coast"
+
+         government = {
+            type = monarchy
+            ruler = random
+            heir_selection = cognatic_primogeniture
+
+          }
+      }
       MRH = {
          capital = yabrin
          religious_school = hanbali_school
@@ -33075,6 +33146,26 @@ countries = {
 
          government = {
             ruler = random
+
+          }
+      }
+      MURM = {
+         capital = yaropolch
+         country_rank = rank_duchy
+         starting_technology_level = 3
+
+         own_control_core = {
+            starodub_votsky pavlovo gorbatovo melenki murom ardatov pestyaki yaropolch gorokhovets meshchersk rastyapino vasilyeva_sloboda lukh vichuga palekh starodub_on_the_klyazma
+            rozhdestveno muromtsevo_murom suzdal vladimir sudogda zolotkovo moshok
+         }
+
+         include = "expl_eastern_europe"
+         include = "eastern_european_monarchy_no_coast"
+
+         government = {
+            type = monarchy
+            ruler = random
+            heir_selection = cognatic_primogeniture
 
           }
       }
@@ -46320,7 +46411,7 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            stettin ueckermunde gryfow gryfia_gora resko szadzko demmin swinousjcie goleniow kamien
+            stettin ueckermunde gryfow gryfia_gora resko szadzko swinousjcie goleniow kamien
             nowogard pyrzyce
          }
 
@@ -48607,6 +48698,28 @@ countries = {
 
          government = {
             type = monarchy
+
+          }
+      }
+      THVM = {
+         capital = vertyazin
+         country_rank = rank_duchy
+         starting_technology_level = 3
+
+         own_control_core = {
+            dmitrov klin rogachevo dubna kalyazin poreevo yanovo bogorodskoye_pereyaslavl gorodetsk maksatikha
+            yezsk spas_na_kholmu rozhalovo koi kesova_gora ramenki mednoye mikshino vyshny_volochyok udomlya
+            smerdyn ves_yogonskaya prozorovo mologa uglich kimra kashin vertyazin tver brody_tver
+            mikulino_tver kholm_tver volok lotoshino
+         }
+
+         include = "expl_eastern_europe"
+         include = "eastern_european_monarchy_no_coast"
+
+         government = {
+            type = monarchy
+            ruler = random
+            heir_selection = cognatic_primogeniture
 
           }
       }
@@ -53851,6 +53964,29 @@ countries = {
 
           }
       }
+      VRNO = {
+         capital = vorotynsk_novosil
+         country_rank = rank_duchy
+         starting_technology_level = 3
+
+         own_control_core = {
+            bryansk karachev boldyzh revny fatezh dmitriyev opalkova troitskoye_na_shchigrakh kastornoye semidesyatnoye
+            mtsensk novosil bogorodskoye tagin kromy zvenihorod_siverskyi bolkhov belyov khotiml khvastovichi
+            ktsyn usty kozelsk meshchovsk fominichi masalsk gorodechnya mozhino yukhnov vorotynsk
+            rzhavets odoyev plavsk vorotynsk_novosil arkhangelskoye bogoroditsk karniki dubok kurkino gogol
+            talitsa_yelets yelets ust_livny kolpny mikhailovka terbuny zemlyansk
+         }
+
+         include = "expl_eastern_europe"
+         include = "eastern_european_monarchy_no_coast"
+
+         government = {
+            type = monarchy
+            ruler = random
+            heir_selection = cognatic_primogeniture
+
+          }
+      }
       VTN = {
          capital = vientiane
          country_rank = rank_duchy
@@ -54679,7 +54815,7 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            wolgast stralsund rugen grimmen ribnitz anklam
+            wolgast stralsund rugen grimmen ribnitz anklam demmin
          }
 
          include = "eastern_european_catholic"
