@@ -48,7 +48,7 @@ kvens = {
 }
 
 bjarmian = {
-	language = finnish_dialect
+	language = bjarmian_dialect
 	
 	color = map_bjarmian
 	
@@ -62,7 +62,7 @@ bjarmian = {
 
 
 karelian = {
-	language = finnish_dialect
+	language = karelian_dialect
 	
 	color = map_karelian
 	
@@ -83,7 +83,7 @@ sapmi = {
 }
 
 ingrian = {
-	language = finnish_dialect
+	language = ingrian_dialect
 	
 	color = map_ingrian
 	
@@ -95,7 +95,7 @@ ingrian = {
 }
 
 vepsian = {
-	language = finnish_dialect	
+	language = vespian_dialect	
 	color = map_vepsian
 	
 	tags = { finnish_gfx eastern_european_gfx european_gfx }
@@ -106,7 +106,7 @@ vepsian = {
 }
 
 votian = {#https://en.wikipedia.org/wiki/Votians
-	language = finnish_dialect	
+	language = votian_dialect	
 	color = map_votian
 	
 	tags = { finnish_gfx eastern_european_gfx european_gfx }

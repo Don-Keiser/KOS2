@@ -13779,8 +13779,8 @@ tresivio = {
 	define_pop = {	type = peasants	size = 3.900	culture = lombard	religion = catholic }
 }
 bormio = {
-	define_pop = {	type = clergy	size = 0.004	culture = lombard	religion = catholic }
-	define_pop = {	type = peasants	size = 4.090	culture = lombard	religion = catholic }
+	define_pop = {	type = clergy	size = 0.004	culture = romansh	religion = catholic }
+	define_pop = {	type = peasants	size = 4.090	culture = romansh	religion = catholic }
 	define_pop = {	type = peasants	size = 3.200	culture = elvaitz	religion = arian }
 }
 chiavenna = {

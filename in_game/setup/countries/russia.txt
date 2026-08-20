@@ -307,7 +307,7 @@ MOG = {
 }
 
 PRM = {
-	color = rgb { 236 159 90 }
+	color = rgb { 175 73 73 }
 
 	culture_definition = komi
 	religion_definition = komi_paganism
@@ -359,5 +359,54 @@ KNMR = {
 	color = rgb { 105 108 80 }
 
 	culture_definition = merya_culture
+	religion_definition = muinaisusko
+}
+
+GLYD = {
+	color = rgb { 79 145 100 }
+
+	culture_definition = golyad
+	religion_definition = romuva
+}
+OHTS = {
+	color = rgb { 150 185 174 }
+
+	culture_definition = ohitsemid
+	religion_definition = muinaisusko
+}
+ALDM = {
+	color = rgb { 55 168 53 }
+
+	culture_definition = vepsian
+	religion_definition = muinaisusko
+}
+ANGM = {
+	color = rgb { 65 127 63 }
+
+	culture_definition = vepsian
+	religion_definition = muinaisusko
+}
+PRM = {
+	color = rgb { 175 73 73 }
+
+	culture_definition = komi
+	religion_definition = komi_paganism
+}
+TLYJ = {
+	color = rgb { 160 22 22 }
+
+	culture_definition = komi
+	religion_definition = komi_paganism
+}
+MARL = {
+	color = rgb { 223 112 130 }
+
+	culture_definition = mari_culture
+	religion_definition = mari_paganism
+}
+VINM = {
+	color = rgb { 104 66 60 }
+
+	culture_definition = bjarmian
 	religion_definition = muinaisusko
 }

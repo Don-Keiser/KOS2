@@ -353,6 +353,24 @@ finnish_language = {
 		estonian_dialect = {
 
 		}
+		ohitsemid_dialect = {
+
+		}
+		bjarmian_dialect = {
+
+		}
+		karelian_dialect = {
+
+		}
+		ingrian_dialect = {
+
+		}
+		vespian_dialect = {
+
+		}
+		votian_dialect = {
+
+		}
 		issartian_dialect = {
 
 		}

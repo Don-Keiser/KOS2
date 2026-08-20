@@ -59,6 +59,24 @@ estonian = { #https://en.wikipedia.org/wiki/Estonians
 	}
 }
 
+ohitsemid = { #Kinda like Estonians
+	language = ohitsemid_dialect
+	
+	color = map_ohitsemid
+	
+	tags = { finnish_gfx baltic_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+		issartian = positive
+		estonian = kindred
+	}
+	
+	culture_groups = {
+		finnic_group
+		baltic_group
+	}
+}
+
 issartian = { #Estonian and Sarmatian mix
 	language = issartian_dialect
 	
@@ -178,6 +196,42 @@ pruthenian = { #Baltic
 
 	culture_groups = {
 		baltic_group
+	}
+}
+
+galindian = { #Baltic
+	language = galindian_dialect
+	
+	color = map_galindian
+	
+	tags = { baltic_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+		aukstaitian = kindred
+		curonian = kindred
+		samogitian = kindred
+		sudovian = kindred
+		golyad = kindred
+	}
+
+	culture_groups = {
+		baltic_group
+	}
+}
+
+golyad = { #Baltic
+	language = golyad_dialect
+	
+	color = map_golyad
+	
+	tags = { baltic_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+		galindian = kindred
+	}
+
+	culture_groups = {
+		eastern_baltic_group
 	}
 }
 

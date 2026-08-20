@@ -45,21 +45,21 @@ DRUS = {
 GLND = {
 	color = rgb { 112 144 112 }
 
-	culture_definition = pruthenian
+	culture_definition = galindian
 	religion_definition = romuva
 }
 
 SDVA = {
 	color = rgb { 153 167 90 }
 
-	culture_definition = pruthenian
+	culture_definition = sudovian
 	religion_definition = romuva
 }
 
 NDRV = {
 	color = rgb { 109 122 45 }
 
-	culture_definition = pruthenian
+	culture_definition = sudovian
 	religion_definition = romuva
 }
 

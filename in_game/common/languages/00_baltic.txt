@@ -50,5 +50,9 @@
 		}
 		western_baltic_dialect = {
 		}
+		galindian_dialect = {
+		}
+		golyad_dialect = {
+		}
 	}
 }

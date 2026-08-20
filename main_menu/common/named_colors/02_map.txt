@@ -72,6 +72,7 @@ colors = {
 	map_kurland = rgb { 99 137 153 }
 	map_estonian = rgb { 157 193 186 }
 	map_issartian = rgb { 149 229 193 }
+	map_ohitsemid = rgb { 196 208 209 }
 	map_latvian = rgb { 230 219 181 }
 	map_liv = rgb { 193 225 181 }
 	map_aukstaitian = rgb { 245 199 199 }
@@ -225,9 +226,11 @@ colors = {
 
 	#Poland + Ruthenia + Baltics
 	map_samogitian = rgb { 0 124 45 }
-	map_western_baltic = rgb { 121 115 152 }
+	map_western_baltic = rgb { 44 91 80 }
 	map_curonian = rgb { 14 52 212 }
-	map_sudovian = rgb { 132 144 54 }
+	map_sudovian = rgb { 91 157 165 }
+	map_galindian = rgb { 53 109 117 }
+	map_golyad = rgb { 79 145 100 }
 	map_baltic_german = rgb { 65 112 242 }
 	map_german_silesian = rgb { 190 171 171 }
 	map_ruthenian = rgb { 81 123 210 } #same as in EU4
@@ -259,8 +262,8 @@ colors = {
 
 	#Russia
 	map_pomor = hsv360 { 80 81 37 }
-	map_vepsian = rgb { 19 179 112 }
-	map_votian = rgb { 0 154 255 }
+	map_vepsian = rgb { 165 193 127 }
+	map_votian = rgb { 104 156 137 }
 	map_mansi = rgb { 124 15 221 }
 	map_ket = rgb { 224 225 21 }
 
@@ -270,14 +273,14 @@ colors = {
 	map_moksha = rgb { 255 85 153 }
 	map_erzya = rgb { 206 60 63 }
 	map_meschera = rgb { 106 160 163 }
-	map_komi = rgb { 249 182 114 }
+	map_komi = rgb { 173 167 97 }
 	map_besermyan = rgb { 182 249 114 } 
 	map_udmurt = rgb { 114 182 249 }
 	map_nenets = rgb { 0 122 156 }
 	map_khanty = rgb { 0 151 28 }
 	map_selkup = rgb { 255 253 85 }
 	map_enets = rgb { 0 129 196 }
-	map_mari = rgb { 37 224 228 }
+	map_mari = rgb { 120 193 126 }
 	map_merya = rgb { 137 124 128 }
 	map_khakas = rgb { 0 153 69 }
 	map_nganasan = rgb { 231 221 23 }

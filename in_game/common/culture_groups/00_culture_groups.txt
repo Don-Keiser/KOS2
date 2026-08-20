@@ -27,6 +27,9 @@ austronesian_group = {
 baltic_group = {
 }
 
+eastern_baltic_group = {
+}
+
 bohemian_group = {
 }
 
