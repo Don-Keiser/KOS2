@@ -66,6 +66,9 @@ ethiopian_group = {
 finnic_group = {
 }
 
+harzunan_group = {
+}
+
 french_group = {
 }
 

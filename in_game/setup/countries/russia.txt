@@ -323,43 +323,43 @@ VYT = {
 MRDV = {
 	color = rgb { 119 109 131 }
 
-	culture_definition = erzya_culture
-	religion_definition = muinaisusko
+	culture_definition = moksha_culture
+	religion_definition = moksha_religion
 }
 
 VRNO = {
 	color = rgb { 183 88 53 }
 
 	culture_definition = meschera_culture
-	religion_definition = muinaisusko
+	religion_definition = erzya_religion
 }
 
 ERMR = {
 	color = rgb { 232 112 67 }
 
 	culture_definition = meschera_culture
-	religion_definition = muinaisusko
+	religion_definition = erzya_religion
 }
 
 MURM = {
 	color = rgb { 145 204 42 }
 
-	culture_definition = merya_culture
-	religion_definition = muinaisusko
+	culture_definition = muroma_culture
+	religion_definition = mari_paganism
 }
 
 THVM = {
 	color = rgb { 131 108 160 }
 
 	culture_definition = merya_culture
-	religion_definition = muinaisusko
+	religion_definition = mari_paganism
 }
 
 KNMR = {
 	color = rgb { 105 108 80 }
 
 	culture_definition = merya_culture
-	religion_definition = muinaisusko
+	religion_definition = mari_paganism
 }
 
 GLYD = {
@@ -409,4 +409,34 @@ VINM = {
 
 	culture_definition = bjarmian
 	religion_definition = muinaisusko
+}
+DLSK = {
+	color = rgb { 127 93 51 }
+
+	culture_definition = urdasha
+	religion_definition = muinaisusko
+}
+DRKM = {
+	color = rgb { 124 85 41 }
+
+	culture_definition = kharimor
+	religion_definition = muinaisusko
+}
+ISHT = {
+	color = rgb { 153 112 62 }
+
+	culture_definition = oltaugir
+	religion_definition = muinaisusko
+}
+UPKA = {
+	color = rgb { 153 120 84 }
+
+	culture_definition = oltaugir
+	religion_definition = muinaisusko
+}
+UDMR = {
+	color = rgb { 145 70 43 }
+
+	culture_definition = udmurt
+	religion_definition = udmurt_paganism
 }

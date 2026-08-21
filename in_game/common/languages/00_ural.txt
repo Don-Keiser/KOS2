@@ -133,3 +133,31 @@ yeniseian_language = {	#https://en.wikipedia.org/wiki/Yeniseian_languages + http
 	lowborn = {
 	}
 }
+
+harzunan_language = {	#Uralic-Iranian
+	color = map_harzunan
+
+	family = uralic_language_family
+
+	male_names = {
+		Chukhpelek Epkuv Evtin Kushchta Lyutya Makshchim Mikipur Mikit Mikul Mikuv 
+		Payal Pilya Sanka Shcherki Tepan Tyomkigi Untary Vashchka Vashchkigi 
+		Valakshchi Yarashch Yoshchka Yoshchkigi Yukhur Yuvan 
+	}
+	female_names = {
+		Kaltesekwa Litta Lushcha Marpa Palashka Petushch Tarashchya Urne Vushchta Nasta
+	}
+	dynasty_names = {
+	}
+	lowborn = {
+	}
+
+	dialects = {
+		urdasha_dialect = {
+		}
+		oltaugir_dialect = {
+		}
+		kharimor_dialect = {
+		}
+	}
+}

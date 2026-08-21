@@ -1,0 +1,47 @@
+﻿urdasha = {
+	language = urdasha_dialect
+	
+	color = map_urdasha
+	
+	tags = { caucasian_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+		oltaugir = positive
+		kharimor = positive
+	}
+	culture_groups = {
+		harzunan_group
+	}
+}
+
+oltaugir = {
+	language = oltaugir_dialect
+	
+	color = map_oltaugir
+	
+	tags = { caucasian_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+		urdasha = positive
+		kharimor = kindred
+	}
+	culture_groups = {
+		harzunan_group
+	}
+}
+
+kharimor = {
+	language = kharimor_dialect
+	
+	color = map_kharimor
+	
+	tags = { caucasian_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+		urdasha = positive
+		oltaugir = kindred
+	}
+	culture_groups = {
+		harzunan_group
+	}
+}

@@ -19,7 +19,7 @@ black_serb = {
 	tags = { caucasian_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
 
 	opinions = {
-		osmagyar = kidnred
+		osmagyar = kindred
 	}
 	culture_groups = {
 		scythian_group

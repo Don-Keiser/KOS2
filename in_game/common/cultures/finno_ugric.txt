@@ -135,6 +135,15 @@ merya_culture = {
 
 }
 
+muroma_culture = {
+	language = mari_language	
+	color = map_muroma
+	
+	tags = { finnish_gfx eastern_european_gfx european_gfx }
+
+
+}
+
 nenets_culture = {
 	language = nenets_language
 	color = map_nenets
