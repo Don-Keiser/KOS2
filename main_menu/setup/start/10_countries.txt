@@ -259,8 +259,7 @@ countries = {
 
          own_control_core = {
             kalamata andravida chalandritsa pontikokastro andritsaina karytaina kyparissia modon kalavryta tripolitsa
-            veligosti mystras leuktron oitylo monemvasia astros argos xylokastro nafplio ermioni
-            damala kythira
+            mystras leuktron oitylo monemvasia astros xylokastro nafplio ermioni damala kythira
          }
 
          include = "expl_mediterranean"
@@ -1747,6 +1746,28 @@ countries = {
             ruler = random
           }
       }
+      AMNC = {
+         capital = konitsa
+         country_rank = rank_duchy
+         starting_technology_level = 3
+
+         own_control_core = {
+            konitsa
+         }
+
+         include = "expl_mediterranean"
+         include = "expl_silk_road_west"
+         include = "expl_silk_road_center"
+         include = "expl_silk_road_east"
+         include = "expl_indian_trade_route"
+         include = "catholic_monarchy"
+
+         government = {
+            type = monarchy
+            ruler = random
+            heir_selection = cognatic_primogeniture
+          }
+      }
       AMP = {
          capital = tlacalahuastla
          court_language = nahuatl_language
@@ -2552,6 +2573,28 @@ countries = {
                name_william = 1
                name_walter = 2
             }
+          }
+      }
+      ARGL = {
+         capital = argos
+         country_rank = rank_duchy
+         starting_technology_level = 3
+
+         own_control_core = {
+            argos
+         }
+
+         include = "expl_mediterranean"
+         include = "expl_silk_road_west"
+         include = "expl_silk_road_center"
+         include = "expl_silk_road_east"
+         include = "expl_indian_trade_route"
+         include = "catholic_monarchy"
+
+         government = {
+            type = monarchy
+            ruler = random
+            heir_selection = cognatic_primogeniture
           }
       }
       ARI = {
@@ -10423,6 +10466,28 @@ countries = {
             ruler_term  = { character = hun_karoly_robert start_date = 1301.1.14 end_date = 1.1.1 regnal_number = 1 }
           }
       }
+      CRPS = {
+         capital = karpenisi
+         country_rank = rank_duchy
+         starting_technology_level = 3
+
+         own_control_core = {
+            karpenisi
+         }
+
+         include = "expl_mediterranean"
+         include = "expl_silk_road_west"
+         include = "expl_silk_road_center"
+         include = "expl_silk_road_east"
+         include = "expl_indian_trade_route"
+         include = "catholic_monarchy"
+
+         government = {
+            type = monarchy
+            ruler = random
+            heir_selection = cognatic_primogeniture
+          }
+      }
       CRR = {
          capital = cairo_montenotte
 
@@ -11350,6 +11415,28 @@ countries = {
             laws = {
                sharia_law = maliki_policy
             }
+          }
+      }
+      DADI = {
+         capital = gravia
+         country_rank = rank_duchy
+         starting_technology_level = 3
+
+         own_control_core = {
+            bodonitsa gravia
+         }
+
+         include = "expl_mediterranean"
+         include = "expl_silk_road_west"
+         include = "expl_silk_road_center"
+         include = "expl_silk_road_east"
+         include = "expl_indian_trade_route"
+         include = "catholic_monarchy"
+
+         government = {
+            type = monarchy
+            ruler = random
+            heir_selection = cognatic_primogeniture
           }
       }
       DAH = {
@@ -13479,18 +13566,17 @@ countries = {
             bozhenitsa svoge zemlungrad kratovo archar kutlovitsa vratsa lom oryahovo dobrolak
             gigen nikopol tarnovo cherven ruse razgrad targoviste_BUL shumen drastar kladentsi
             karvuna cernavoda kaliakra pangalia constanta harsova babadag isaccea enisala boruy
-            tutrakan kumanovo skopje vranje novo_brdo tetovo kicevo prilep bitola ohrid
-            edessa devol berat ballsh kastoria florina ostrovo veria kleisoura_epirus konitsa
-            siatista servia hatera argyrokastro ioannina grevena trikala elassona tyrnavos stomio
-            arta pyli karditsa farsala larissa demetrias angelokastron karpenisi neopatras loidoriki
-            zetounion bodonitsa gravia atalanti livadeia thebes negroponte athens tsaribrod pirot
-            svrljig orhei tuzara ungheni iasi cotnari targu_neamt piatra_lui_craciun bacau targu_trotus
-            roman vaslui husi targu_lapusnei chisinau tighina gura_galbenei targul_saratii tutova barlad
-            oancea tecuci adjud focsani tulnici cudalbi galati cahul reni palada
-            ismail chilia tulcea sarata cetatea_alba ramnicu_sarat braila viziru parscov buzau
-            meteleu orasul_de_floci valenii_de_munte bukov slobozia cegani lichiresti slanic ploesti gaiseni
-            bucharest giurgiu comana gratia targoviste cetateni pitesti campulung_muscel arges glavacioc
-            slatina rusii_de_vede zimnicea turnu_magurele
+            tutrakan kumanovo skopje vranje novo_brdo tetovo kicevo prilep bitola edessa
+            berat ballsh ostrovo veria servia hatera argyrokastro ioannina trikala elassona
+            tyrnavos stomio arta pyli karditsa farsala larissa demetrias angelokastron neopatras
+            loidoriki zetounion atalanti livadeia thebes athens tsaribrod pirot svrljig orhei
+            tuzara ungheni iasi cotnari targu_neamt piatra_lui_craciun bacau targu_trotus roman vaslui
+            husi targu_lapusnei chisinau tighina gura_galbenei targul_saratii tutova barlad oancea tecuci
+            adjud focsani tulnici cudalbi galati cahul reni palada ismail chilia
+            tulcea sarata cetatea_alba ramnicu_sarat braila viziru parscov buzau meteleu orasul_de_floci
+            valenii_de_munte bukov slobozia cegani lichiresti slanic ploesti gaiseni bucharest giurgiu
+            comana gratia targoviste cetateni pitesti campulung_muscel arges glavacioc slatina rusii_de_vede
+            zimnicea turnu_magurele
          }
 
          include = "expl_mediterranean"
@@ -13895,6 +13981,28 @@ countries = {
       EVR = {
          country_rank = rank_county
        }
+      EVRP = {
+         capital = negroponte
+         country_rank = rank_duchy
+         starting_technology_level = 3
+
+         own_control_core = {
+            negroponte
+         }
+
+         include = "expl_mediterranean"
+         include = "expl_silk_road_west"
+         include = "expl_silk_road_center"
+         include = "expl_silk_road_east"
+         include = "expl_indian_trade_route"
+         include = "catholic_monarchy"
+
+         government = {
+            type = monarchy
+            ruler = random
+            heir_selection = cognatic_primogeniture
+          }
+      }
       EVS = {
          capital = holzminden
          country_rank = rank_county
@@ -16033,6 +16141,28 @@ countries = {
             bristol
          }
 
+         include = "catholic_monarchy"
+
+         government = {
+            type = monarchy
+            ruler = random
+            heir_selection = cognatic_primogeniture
+          }
+      }
+      GRBN = {
+         capital = grevena
+         country_rank = rank_duchy
+         starting_technology_level = 3
+
+         own_control_core = {
+            grevena siatista
+         }
+
+         include = "expl_mediterranean"
+         include = "expl_silk_road_west"
+         include = "expl_silk_road_center"
+         include = "expl_silk_road_east"
+         include = "expl_indian_trade_route"
          include = "catholic_monarchy"
 
          government = {
@@ -25325,6 +25455,28 @@ countries = {
             ruler_term  = { character = lca_franchino_i_rusconi start_date = 1313.1.1 end_date = 1.1.1 regnal_number = 0 }
           }
       }
+      LCDM = {
+         capital = veligosti
+         country_rank = rank_duchy
+         starting_technology_level = 3
+
+         own_control_core = {
+            veligosti
+         }
+
+         include = "expl_mediterranean"
+         include = "expl_silk_road_west"
+         include = "expl_silk_road_center"
+         include = "expl_silk_road_east"
+         include = "expl_indian_trade_route"
+         include = "catholic_monarchy"
+
+         government = {
+            type = monarchy
+            ruler = random
+            heir_selection = cognatic_primogeniture
+          }
+      }
       LCK = {
          country_rank = rank_county
        }
@@ -25770,6 +25922,28 @@ countries = {
 
          government = {
             ruler = random
+          }
+      }
+      LHND = {
+         capital = ohrid
+         country_rank = rank_duchy
+         starting_technology_level = 3
+
+         own_control_core = {
+            florina kastoria ohrid
+         }
+
+         include = "expl_mediterranean"
+         include = "expl_silk_road_west"
+         include = "expl_silk_road_center"
+         include = "expl_silk_road_east"
+         include = "expl_indian_trade_route"
+         include = "catholic_monarchy"
+
+         government = {
+            type = monarchy
+            ruler = random
+            heir_selection = cognatic_primogeniture
           }
       }
       LHQ = {
@@ -31011,6 +31185,28 @@ countries = {
             type = tribe
             ruler = random
             heir_selection = tribal_oldest_male
+          }
+      }
+      MSCP = {
+         capital = devol
+         country_rank = rank_duchy
+         starting_technology_level = 3
+
+         own_control_core = {
+            kleisoura_epirus devol
+         }
+
+         include = "expl_mediterranean"
+         include = "expl_silk_road_west"
+         include = "expl_silk_road_center"
+         include = "expl_silk_road_east"
+         include = "expl_indian_trade_route"
+         include = "catholic_monarchy"
+
+         government = {
+            type = monarchy
+            ruler = random
+            heir_selection = cognatic_primogeniture
           }
       }
       MSD = {

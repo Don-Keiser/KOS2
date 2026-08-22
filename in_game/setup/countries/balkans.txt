@@ -442,3 +442,57 @@ KRTH = {
 	culture_definition = greek_culture
 	religion_definition = orthodox
 }
+LHND = {
+	color = rgb { 124 38 61 }
+	
+	culture_definition = aromanian
+	religion_definition = catholic
+}
+MSCP = {
+	color = rgb { 182 83 60 }
+	
+	culture_definition = aromanian
+	religion_definition = catholic
+}
+GRBN = {
+	color = rgb { 109 66 122 }
+	
+	culture_definition = aromanian
+	religion_definition = catholic
+}
+AMNC = {
+	color = rgb { 183 53 103 }
+	
+	culture_definition = aromanian
+	religion_definition = catholic
+}
+CRPS = {
+	color = rgb { 143 61 50 }
+	
+	culture_definition = aromanian
+	religion_definition = catholic
+}
+DADI = {
+	color = rgb { 146 86 110 }
+	
+	culture_definition = aromanian
+	religion_definition = orthodox
+}
+EVRP = {
+	color = rgb { 195 71 80 }
+	
+	culture_definition = aromanian
+	religion_definition = catholic
+}
+ARGL = {
+	color = rgb { 100 54 79 }
+	
+	culture_definition = aromanian
+	religion_definition = orthodox
+}
+LCDM = {
+	color = rgb { 165 101 62 }
+	
+	culture_definition = aromanian
+	religion_definition = orthodox
+}
