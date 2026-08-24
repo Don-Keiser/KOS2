@@ -97,6 +97,13 @@ AIGA = {
 	religion_definition = orthodox
 }
 
+UGIN = {
+	color = rgb { 109 168 104 }
+
+	culture_definition = bolghar_culture
+	religion_definition = orthodox
+}
+
 OPTI = {
 	color = rgb { 99 142 107 }
 
@@ -186,5 +193,11 @@ TRSS = {
 	color = rgb { 109 126 67 }
 
 	culture_definition = isaurian
+	religion_definition = orthodox
+}
+NSIT = {
+	color = rgb { 167 161 237 }
+
+	culture_definition = greek_culture
 	religion_definition = orthodox
 }

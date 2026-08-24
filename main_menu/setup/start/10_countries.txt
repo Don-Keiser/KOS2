@@ -778,7 +778,7 @@ countries = {
       }
       AIGA = {
          capital = canakkale
-         country_rank = rank_county
+         country_rank = rank_duchy
 
          own_control_core = {
             biga lapseki canakkale ayvacik bayramic can imbros lemnos gonen
@@ -34245,6 +34245,25 @@ countries = {
             }
           }
       }
+      NSIT = {
+         capital = naxos
+         country_rank = rank_county
+
+         own_control_core = {
+            naxos amorgos milos
+         }
+
+         include = "expl_mediterranean"
+         include = "expl_silk_road_west"
+         include = "expl_silk_road_center"
+         include = "expl_silk_road_east"
+         include = "expl_indian_trade_route"
+
+         government = {
+            type = republic
+            ruler = random
+          }
+      }
       NSL = {
          country_rank = rank_county
        }
@@ -36027,7 +36046,7 @@ countries = {
       }
       OPSI = {
          capital = bursa
-         country_rank = rank_county
+         country_rank = rank_duchy
 
          own_control_core = {
             bursa adranos iznik sogut bilecik eynegol domanic bandirma
@@ -36046,7 +36065,7 @@ countries = {
       }
       OPTI = {
          capital = izmit
-         country_rank = rank_county
+         country_rank = rank_duchy
 
          own_control_core = {
             silli izmit atpazari goynuk akyazi mudurnu
@@ -39976,7 +39995,7 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            dubrovnik
+            dubrovnik kythnos
          }
 
          include = "expl_mediterranean"
@@ -50626,6 +50645,25 @@ countries = {
             reforms = {
                legacy_of_genghis
             }
+          }
+      }
+      UGIN = {
+         capital = kymi
+         country_rank = rank_duchy
+
+         own_control_core = {
+            kymi eretreia kleisoura oreos sporades karystos andros mykonos
+         }
+
+         include = "expl_mediterranean"
+         include = "expl_silk_road_west"
+         include = "expl_silk_road_center"
+         include = "expl_silk_road_east"
+         include = "expl_indian_trade_route"
+
+         government = {
+            type = monarchy
+            ruler = random
           }
       }
       UGL = {
