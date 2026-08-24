@@ -1,0 +1,126 @@
+﻿phrygian = {
+	
+	language = phrygian_dialect
+	
+	color = map_phrygian
+	
+	tags = { greek_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+		paphlagonian = kindred
+		isaurian = kindred
+		cilician = kindred
+		cappadocian = kindred
+		galatian = kindred
+	}
+	
+	culture_groups = {
+		anatolian_group
+	}
+}
+
+paphlagonian = {
+	
+	language = paphlagonian_dialect
+	
+	color = map_paphlagonian
+	
+	tags = { greek_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+		phrygian = kindred
+		isaurian = kindred
+		cilician = kindred
+		cappadocian = kindred
+		galatian = kindred
+	}
+	
+	culture_groups = {
+		anatolian_group
+	}
+}
+
+isaurian = {
+	
+	language = isaurian_dialect
+	
+	color = map_isaurian
+	
+	tags = { greek_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+		paphlagonian = kindred
+		phrygian = kindred
+		cilician = kindred
+		cappadocian = kindred
+		galatian = kindred
+	}
+	
+	culture_groups = {
+		anatolian_group
+	}
+}
+
+cilician = {
+	
+	language = cilician_dialect
+	
+	color = map_cilician
+	
+	tags = { greek_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+		paphlagonian = kindred
+		phrygian = kindred
+		isaurian = kindred
+		cappadocian = kindred
+		galatian = kindred
+	}
+	
+	culture_groups = {
+		anatolian_group
+	}
+}
+
+cappadocian = {
+	
+	language = cappadocian_dialect
+	
+	color = map_cappadocian
+	
+	tags = { greek_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+		paphlagonian = kindred
+		phrygian = kindred
+		isaurian = kindred
+		cilician = kindred
+		galatian = kindred
+	}
+	
+	culture_groups = {
+		anatolian_group
+	}
+}
+
+galatian = {
+	
+	language = galatian_dialect
+	
+	color = map_galatian
+	
+	tags = { greek_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+		paphlagonian = kindred
+		phrygian = kindred
+		isaurian = kindred
+		cilician = kindred
+		cappadocian = kindred
+	}
+	
+	culture_groups = {
+		anatolian_group
+		celtic_group
+	}
+}

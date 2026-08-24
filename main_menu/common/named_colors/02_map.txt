@@ -582,6 +582,14 @@ colors = {
 	map_nepal = rgb { 215 12 64 }
 
 	map_greek = rgb { 120 180 210 } #same as in EU4
+	map_pamphylian_greek = rgb { 136 204 189 }
+	map_anatolian_language = rgb { 91 114 79 }
+	map_phrygian = rgb { 109 138 94 }
+	map_paphlagonian = rgb { 135 155 106 }
+	map_isaurian = rgb { 79 104 70 }
+	map_cilician = rgb { 90 132 75 }
+	map_cappadocian = rgb { 164 183 122 }
+	map_galatian = rgb { 57 81 43 }
 	map_dalmatian = rgb { 209 71 87 }
 	# map_serbian_culture = rgb { 206 143 143 }
 	# map_croatian_culture = rgb { 174 87 87 }

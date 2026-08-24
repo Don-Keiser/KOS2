@@ -7,35 +7,63 @@ SRTR = {
 }
 
 NLLI = {
-	color = rgb { 170 198 190 }
+	color = rgb { 193 138 58 }
 
 	culture_definition = thai_culture
 	religion_definition = orthodox
 }
 
 KZLK = {
-	color = rgb { 81 55 182 }
+	color = rgb { 78 127 98 }
+
+	culture_definition = thai_culture
+	religion_definition = orthodox
+}
+
+ONGT = {
+	color = rgb { 88 115 164 }
+
+	culture_definition = thai_culture
+	religion_definition = orthodox
+}
+
+KANL = {
+	color = rgb { 166 83 77 }
+
+	culture_definition = thai_culture
+	religion_definition = orthodox
+}
+
+THOS = {
+	color = rgb { 65 138 145 }
+
+	culture_definition = thai_culture
+	religion_definition = orthodox
+}
+
+PHML = {
+	color = rgb { 134 92 145 }
 
 	culture_definition = thai_culture
 	religion_definition = orthodox
 }
 
 HARG = {
-	color = rgb { 175 161 121 }
+	color = rgb { 168 85 63}
 
 	culture_definition = thai_culture
 	religion_definition = satsana_phi
 }
 
 AFSI = {
-	color = rgb { 173 77 55 }
+	color = rgb { 145 62 72}
 
 	culture_definition = thai_culture
 	religion_definition = satsana_phi
 }
 
 KAPA = {
-	color = rgb { 167 209 213 }
+	color = rgb { 117 66 83 }
 
 	culture_definition = thai_culture
 	religion_definition = satsana_phi
@@ -51,34 +79,112 @@ SMY = {
 OPSI = {
 	color = rgb { 136 221 132 }
 
-	culture_definition = greek_culture
+	culture_definition = rughan
 	religion_definition = orthodox
 }
 
 PARG = {
 	color = rgb { 98 142 61 }
 
-	culture_definition = greek_culture
+	culture_definition = rughan
 	religion_definition = orthodox
 }
 
 AIGA = {
 	color = rgb { 75 142 87 }
 
-	culture_definition = greek_culture
+	culture_definition = bolghar_culture
 	religion_definition = orthodox
 }
 
 OPTI = {
 	color = rgb { 99 142 107 }
 
-	culture_definition = greek_culture
+	culture_definition = rughan
 	religion_definition = orthodox
 }
 
 PAPH = {
-	color = rgb { 97 179 79 }
+	color = rgb { 134 165 103 }
+
+	culture_definition = paphlagonian
+	religion_definition = orthodox
+}
+KRLK = {
+	color = rgb { 96 129 160 }
+
+	culture_definition = pamphylian_greek
+	religion_definition = orthodox
+}
+MLTS = {
+	color = rgb { 194 239 229 }
+
+	culture_definition = greek_culture
+	religion_definition = orthodox
+}
+PHIL = {
+	color = rgb { 153 147 191 }
+
+	culture_definition = greek_culture
+	religion_definition = orthodox
+}
+SNOP = {
+	color = rgb { 153 147 191 }
 
 	culture_definition = pontic_greek_culture
+	religion_definition = orthodox
+}
+MSHT = {
+	color = rgb { 118 116 105 }
+
+	culture_definition = paphlagonian
+	religion_definition = orthodox
+}
+MITI = {
+	color = rgb { 206 200 88 }
+
+	culture_definition = phrygian
+	religion_definition = orthodox
+}
+MYSI = {
+	color = rgb { 167 192 38 }
+
+	culture_definition = phrygian
+	religion_definition = orthodox
+}
+LYDI = {
+	color = rgb { 135 188 50 }
+
+	culture_definition = phrygian
+	religion_definition = orthodox
+}
+TRKD = {
+	color = rgb { 88 111 166 }
+
+	culture_definition = isaurian
+	religion_definition = orthodox
+}
+OADA = {
+	color = rgb { 63 143 135 }
+
+	culture_definition = isaurian
+	religion_definition = orthodox
+}
+KODE = {
+	color = rgb { 196 147 61 }
+
+	culture_definition = isaurian
+	religion_definition = orthodox
+}
+MOAS = {
+	color = rgb { 145 77 104 }
+
+	culture_definition = isaurian
+	religion_definition = orthodox
+}
+TRSS = {
+	color = rgb { 109 126 67 }
+
+	culture_definition = isaurian
 	religion_definition = orthodox
 }

@@ -102,6 +102,9 @@ swiss_group = {
 greek_group = {
 }
 
+anatolian_group = {
+}
+
 haudenosaunee_group = {
 }
 

@@ -115,3 +115,24 @@ gothic_culture = {
 		greek_group
 	}
 }
+
+pamphylian_greek = {
+	
+	language = pamphylian_greek_dialect
+	
+	color = map_pamphylian_greek
+	
+	tags = { greek_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+		greek_culture = positive
+		griko_culture = positive
+		pontic_greek_culture = positive
+		gothic_culture = positive
+	}
+	
+	culture_groups = {
+		greek_group
+		anatolian_group
+	}
+}

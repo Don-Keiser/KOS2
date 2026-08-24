@@ -133,6 +133,7 @@ greek_language = {
 		}
 		sicilian_dialect = {}
 		dalmatoi_dialect = {}
+		pamphylian_greek_dialect = {}
 	}
 	
 }

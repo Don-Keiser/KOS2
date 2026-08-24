@@ -1,12 +1,12 @@
 ﻿PARTH = { #Parthia
-	color = rgb { 102 83 44 }
+	color = rgb { 128 101 143 }
 	color2 = rgb { 89 62 33 }
 
 	culture_definition = armenian_culture
 	religion_definition = orthodox
 }
 SRV = { #Shirvan
-	color = rgb { 107 84 42 }
+	color = rgb { 146 132 159 }
 
 	culture_definition = adhari_culture
 	religion_definition = zoroastrian
@@ -27,14 +27,14 @@ LAZO = { #Lazonia
 }
 
 CIBR = { #Caucasian Iberia
-	color = rgb { 137 108 55 }
+	color = rgb { 149 111 134 }
 
 	culture_definition = georgian_culture
 	religion_definition = zoroastrian
 }
 
 ARRN = { #Caucasian Albania
-	color = rgb { 89 70 33 }
+	color = rgb { 118 95 117 }
 
 	culture_definition = armenian_culture
 	religion_definition = zoroastrian

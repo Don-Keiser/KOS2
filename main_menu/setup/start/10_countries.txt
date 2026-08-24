@@ -781,8 +781,7 @@ countries = {
          country_rank = rank_county
 
          own_control_core = {
-            biga lapseki canakkale ayvacik bayramic can karystos imbros lemnos sporades
-            oreos kleisoura eretreia kymi andros mykonos kythnos naxos milos amorgos
+            biga lapseki canakkale ayvacik bayramic can imbros lemnos gonen
          }
 
          include = "expl_mediterranean"
@@ -790,7 +789,12 @@ countries = {
          include = "expl_silk_road_center"
          include = "expl_silk_road_east"
          include = "expl_indian_trade_route"
-       }
+
+         government = {
+            type = monarchy
+            ruler = random
+          }
+      }
       AIGI = {
          capital = vostitsa
          country_rank = rank_county
@@ -9430,7 +9434,7 @@ countries = {
             }
             ruler_term  = { character = cmr_gentile_ii_varano start_date = 1329.3.1 end_date = 1.1.1 regnal_number = 2 }
 
-             # Junior Co-Ruler until 1316
+             # Junior Co-Ruler until 1316
          }
       }
       CMS = {
@@ -10438,7 +10442,7 @@ countries = {
             ruler_term  = { character = crt_mario_morosini start_date = 1329.1.1 end_date = 1331.1.1 regnal_number = 0 }
             ruler_term  = { character = crt_viago_zeno start_date = 1333.1.1 end_date = 1.1.1 regnal_number = 0 }
 
-             # Really Unknown, but he is known to be Duke of Candia and this era Duke is not known
+             # Really Unknown, but he is known to be Duke of Candia and this era Duke is not known
          }
       }
       CSA = {
@@ -14066,7 +14070,7 @@ countries = {
             }
             ruler_term  = { character = fer_obizzo_iii_este start_date = 1337.1.1 end_date = 1.1.1 regnal_number = 3 }
 
-             # As venetian governor
+             # As venetian governor
          }
       }
       FEZ = {
@@ -15179,7 +15183,7 @@ countries = {
             }
             ruler_term  = { character = gen_galeotto_spinola start_date = 1337.1.1 end_date = 1.1.1 regnal_number = 0 }
 
-             # Among others
+             # Among others
          }
       }
       GEO = {
@@ -18195,7 +18199,7 @@ countries = {
          government = {
             ruler = hsf_ludwig_ii_von_mansbach
 
-             #Abbey reform
+             #Abbey reform
          }
       }
       HSI = {
@@ -20914,6 +20918,25 @@ countries = {
             }
           }
       }
+      KANL = {
+         capital = sabanozu
+         country_rank = rank_county
+
+         own_control_core = {
+            sabanozu
+         }
+
+         include = "expl_mediterranean"
+         include = "expl_silk_road_west"
+         include = "expl_silk_road_center"
+         include = "expl_silk_road_east"
+         include = "expl_indian_trade_route"
+
+         government = {
+            type = monarchy
+            ruler = random
+          }
+      }
       KAPA = {
          capital = kapan
          country_rank = rank_county
@@ -23155,7 +23178,7 @@ countries = {
             ruler_term  = { character = jap_kawano_michiari start_date = 1272.1.1 end_date = 1311.8.28 regnal_number = 1 }
             ruler_term  = { character = jap_kawano_michimori start_date = 1311.8.28 end_date = 1.1.1 regnal_number = 1 }
 
-             #Not actually the first one, but not much info about all the preceding ones so started with him
+             #Not actually the first one, but not much info about all the preceding ones so started with him
          }
       }
       KNT = {
@@ -23263,6 +23286,25 @@ countries = {
             type = tribe
             ruler = random
             heir_selection = tribal_oldest_male
+          }
+      }
+      KODE = {
+         capital = aksehir
+         country_rank = rank_county
+
+         own_control_core = {
+            aksehir ilgin
+         }
+
+         include = "expl_mediterranean"
+         include = "expl_silk_road_west"
+         include = "expl_silk_road_center"
+         include = "expl_silk_road_east"
+         include = "expl_indian_trade_route"
+
+         government = {
+            type = monarchy
+            ruler = random
           }
       }
       KOJ = {
@@ -23760,6 +23802,25 @@ countries = {
             type = tribe
             ruler = random
             heir_selection = tribal_oldest_male
+          }
+      }
+      KRLK = {
+         capital = kas
+         country_rank = rank_duchy
+
+         own_control_core = {
+            finike golhisar megri kas elmali yuksekkum tavas gokabat marmaris
+         }
+
+         include = "expl_mediterranean"
+         include = "expl_silk_road_west"
+         include = "expl_silk_road_center"
+         include = "expl_silk_road_east"
+         include = "expl_indian_trade_route"
+
+         government = {
+            type = monarchy
+            ruler = random
           }
       }
       KRM = {
@@ -24905,7 +24966,12 @@ countries = {
          include = "expl_silk_road_center"
          include = "expl_silk_road_east"
          include = "expl_indian_trade_route"
-       }
+
+         government = {
+            type = monarchy
+            ruler = random
+          }
+      }
       KZY = {
          capital = kazym
          type = pop
@@ -26957,6 +27023,25 @@ countries = {
             heir_selection = tribal_oldest_male
           }
       }
+      LYDI = {
+         capital = gordes
+         country_rank = rank_duchy
+
+         own_control_core = {
+            tavsanli emet simav gordes bigadic demirci akhisar
+         }
+
+         include = "expl_mediterranean"
+         include = "expl_silk_road_west"
+         include = "expl_silk_road_center"
+         include = "expl_silk_road_east"
+         include = "expl_indian_trade_route"
+
+         government = {
+            type = monarchy
+            ruler = random
+          }
+      }
       LYND = {
          capital = lincoln
          country_rank = rank_county
@@ -28922,6 +29007,26 @@ countries = {
             heir_selection = cognatic_primogeniture
           }
       }
+      MITI = {
+         capital = kaymaz
+         country_rank = rank_kingdom
+
+         own_control_core = {
+            emirdag sivrihisar kaymaz seyitgazi inonu kutahya sultanonu bozan mihaliccik altintas
+            aslanapa
+         }
+
+         include = "expl_mediterranean"
+         include = "expl_silk_road_west"
+         include = "expl_silk_road_center"
+         include = "expl_silk_road_east"
+         include = "expl_indian_trade_route"
+
+         government = {
+            type = monarchy
+            ruler = random
+          }
+      }
       MIU = {
 
          variables = {
@@ -29733,6 +29838,25 @@ countries = {
             ruler = random
           }
       }
+      MLTS = {
+         capital = balat
+         country_rank = rank_county
+
+         own_control_core = {
+            balat
+         }
+
+         include = "expl_mediterranean"
+         include = "expl_silk_road_west"
+         include = "expl_silk_road_center"
+         include = "expl_silk_road_east"
+         include = "expl_indian_trade_route"
+
+         government = {
+            type = republic
+            ruler = random
+          }
+      }
       MMA = {
          capital = luchuan_mangshi
          country_rank = rank_county
@@ -30266,6 +30390,25 @@ countries = {
          include = "asia_advanced_no_pagan_tribe"
 
          government = {
+            ruler = random
+          }
+      }
+      MOAS = {
+         capital = beysehir
+         country_rank = rank_county
+
+         own_control_core = {
+            seydisehir beysehir
+         }
+
+         include = "expl_mediterranean"
+         include = "expl_silk_road_west"
+         include = "expl_silk_road_center"
+         include = "expl_silk_road_east"
+         include = "expl_indian_trade_route"
+
+         government = {
+            type = monarchy
             ruler = random
           }
       }
@@ -31095,6 +31238,25 @@ countries = {
          }
 
          government = {
+            ruler = random
+          }
+      }
+      MSHT = {
+         capital = gerze
+         country_rank = rank_duchy
+
+         own_control_core = {
+            bafra samsun gadegara gerze
+         }
+
+         include = "expl_mediterranean"
+         include = "expl_silk_road_west"
+         include = "expl_silk_road_center"
+         include = "expl_silk_road_east"
+         include = "expl_indian_trade_route"
+
+         government = {
+            type = monarchy
             ruler = random
           }
       }
@@ -32004,6 +32166,25 @@ countries = {
          include = "expl_andean"
 
          government = {
+            ruler = random
+          }
+      }
+      MYSI = {
+         capital = balikesir
+         country_rank = rank_duchy
+
+         own_control_core = {
+            soma harmancik dursunbey mihalic susurluk balikesir balya manyas
+         }
+
+         include = "expl_mediterranean"
+         include = "expl_silk_road_west"
+         include = "expl_silk_road_center"
+         include = "expl_silk_road_east"
+         include = "expl_indian_trade_route"
+
+         government = {
+            type = monarchy
             ruler = random
           }
       }
@@ -33505,7 +33686,12 @@ countries = {
          include = "expl_silk_road_center"
          include = "expl_silk_road_east"
          include = "expl_indian_trade_route"
-       }
+
+         government = {
+            type = monarchy
+            ruler = random
+          }
+      }
       NLU = {
          capital = mengding_mengzi
          country_rank = rank_county
@@ -34721,6 +34907,25 @@ countries = {
             ruler = nzn_ufusato
           }
       }
+      OADA = {
+         capital = sarkikaraagac
+         country_rank = rank_county
+
+         own_control_core = {
+            sarkikaraagac
+         }
+
+         include = "expl_mediterranean"
+         include = "expl_silk_road_west"
+         include = "expl_silk_road_center"
+         include = "expl_silk_road_east"
+         include = "expl_indian_trade_route"
+
+         government = {
+            type = monarchy
+            ruler = random
+          }
+      }
       OAH = {
          country_rank = rank_county
 
@@ -35103,7 +35308,7 @@ countries = {
             ruler_term  = { character = ogk_konrad_iv_hohenstaufen start_date = 1250.12.13 end_date = 1254.5.21 regnal_number = 4 }
             ruler_term  = { character = ogk_adolf_von_nassau start_date = 1291.5.5 end_date = 1298.7.2 regnal_number = 1 }
 
-             #Enumerated as successor of Conrad I who was German King 911?918 but not Emperor
+             #Enumerated as successor of Conrad I who was German King 911?918 but not Emperor
          }
       }
       OGL = {
@@ -35655,6 +35860,25 @@ countries = {
             heir_selection = tribal_oldest_male
           }
       }
+      ONGT = {
+         capital = kursunlu
+         country_rank = rank_county
+
+         own_control_core = {
+            cankiri kursunlu
+         }
+
+         include = "expl_mediterranean"
+         include = "expl_silk_road_west"
+         include = "expl_silk_road_center"
+         include = "expl_silk_road_east"
+         include = "expl_indian_trade_route"
+
+         government = {
+            type = monarchy
+            ruler = random
+          }
+      }
       ONJ = {
          type = pop
          country_rank = rank_county
@@ -35806,8 +36030,7 @@ countries = {
          country_rank = rank_county
 
          own_control_core = {
-            bursa adranos dursunbey harmancik iznik sogut bilecik eynegol domanic emet
-            simav mihalic susurluk bigadic balikesir manyas balya soma bandirma gonen
+            bursa adranos iznik sogut bilecik eynegol domanic bandirma
          }
 
          include = "expl_mediterranean"
@@ -35815,13 +36038,18 @@ countries = {
          include = "expl_silk_road_center"
          include = "expl_silk_road_east"
          include = "expl_indian_trade_route"
-       }
+
+         government = {
+            type = monarchy
+            ruler = random
+          }
+      }
       OPTI = {
          capital = izmit
          country_rank = rank_county
 
          own_control_core = {
-            silli izmit atpazari goynuk akyazi
+            silli izmit atpazari goynuk akyazi mudurnu
          }
 
          include = "expl_mediterranean"
@@ -35829,7 +36057,12 @@ countries = {
          include = "expl_silk_road_center"
          include = "expl_silk_road_east"
          include = "expl_indian_trade_route"
-       }
+
+         government = {
+            type = monarchy
+            ruler = random
+          }
+      }
       OPV = {
          capital = raciborz
 
@@ -36810,9 +37043,7 @@ countries = {
 
          own_control_core = {
             safranbolu amasra bartin gerede mengen ulus yenicepazari kastamonu arac devrekani
-            inebolu kure_i_mamure taskopru sinop bafra boyabat gerze samsun gadegara gumus
-            iskilip cankiri bayat cerkes kursunlu sabanozu tosya bolu akcasehir eregli
-            konrapa mudurnu
+            inebolu kure_i_mamure taskopru boyabat cerkes bolu akcasehir eregli konrapa
          }
 
          include = "expl_mediterranean"
@@ -36820,7 +37051,12 @@ countries = {
          include = "expl_silk_road_center"
          include = "expl_silk_road_east"
          include = "expl_indian_trade_route"
-       }
+
+         government = {
+            type = monarchy
+            ruler = random
+          }
+      }
       PAR = {
          capital = parma
          country_rank = rank_county
@@ -36872,7 +37108,12 @@ countries = {
          include = "expl_silk_road_center"
          include = "expl_silk_road_east"
          include = "expl_indian_trade_route"
-       }
+
+         government = {
+            type = monarchy
+            ruler = random
+          }
+      }
       PARTH = {
          capital = yerevan
          liturgical_language = armenian_language
@@ -37486,6 +37727,44 @@ countries = {
          }
 
          government = {
+            ruler = random
+          }
+      }
+      PHIL = {
+         capital = kula
+         country_rank = rank_county
+
+         own_control_core = {
+            kula
+         }
+
+         include = "expl_mediterranean"
+         include = "expl_silk_road_west"
+         include = "expl_silk_road_center"
+         include = "expl_silk_road_east"
+         include = "expl_indian_trade_route"
+
+         government = {
+            type = monarchy
+            ruler = random
+          }
+      }
+      PHML = {
+         capital = iskilip
+         country_rank = rank_county
+
+         own_control_core = {
+            gumus iskilip bayat
+         }
+
+         include = "expl_mediterranean"
+         include = "expl_silk_road_west"
+         include = "expl_silk_road_center"
+         include = "expl_silk_road_east"
+         include = "expl_indian_trade_route"
+
+         government = {
+            type = monarchy
             ruler = random
           }
       }
@@ -38560,7 +38839,7 @@ countries = {
          our_cores_conquered_by_others = {
             mandore osian nagaur khed pali kurki ajmer merta nagaur makrana
             sambhar
-         } #Mandore + parts of Marwar. At its greatest extent the dynasty had however ruled most of northern India.
+         } #Mandore + parts of Marwar. At its greatest extent the dynasty had however ruled most of northern India.
 
          include = "expl_india_hindu"
          include = "india_limited_monarchy"
@@ -40246,7 +40525,7 @@ countries = {
             ruler_term  = { character = rim_ferrantino_malatesta start_date = 1334.1.1 end_date = 1335.1.1 regnal_number = 0 }
             ruler_term  = { character = rim_malatesta_iii_malatesta start_date = 1335.1.1 end_date = 1.1.1 regnal_number = 3 }
 
-             # As Podest?
+             # As Podest?
          }
       }
       RIVN = {
@@ -43245,10 +43524,9 @@ countries = {
          country_rank = rank_kingdom
 
          own_control_core = {
-            smyrna ayasuluk cesme menemen urla tire alasehir balat birgi cine
-            guzelhisar milas nazilli manisa demirci foca gordes kula mugla bodrum
-            gokabat golhisar marmaris megri tavas yuksekkum chios samos ikaria kos
-            rodos akhisar
+            smyrna ayasuluk cesme menemen urla tire alasehir birgi cine guzelhisar
+            milas nazilli manisa foca mugla bodrum chios samos ikaria kos
+            rodos
          }
 
          include = "expl_mediterranean"
@@ -43256,7 +43534,12 @@ countries = {
          include = "expl_silk_road_center"
          include = "expl_silk_road_east"
          include = "expl_indian_trade_route"
-       }
+
+         government = {
+            type = monarchy
+            ruler = random
+          }
+      }
       SMZ = {
 
          variables = {
@@ -43357,6 +43640,25 @@ countries = {
 
          government = {
             ruler = sng_sang_nila_utama
+          }
+      }
+      SNOP = {
+         capital = sinop
+         country_rank = rank_county
+
+         own_control_core = {
+            sinop
+         }
+
+         include = "expl_mediterranean"
+         include = "expl_silk_road_west"
+         include = "expl_silk_road_center"
+         include = "expl_silk_road_east"
+         include = "expl_indian_trade_route"
+
+         government = {
+            type = republic
+            ruler = random
           }
       }
       SNP = {
@@ -44082,17 +44384,15 @@ countries = {
             kayseri bogazliyan develi tomarza yahyali kirsehir urgup nevsehir hacibektas sariyahsi
             bozok dinek_keskin baliseyh sorgun candir ankara kalecik karakecili cubuk haymana
             polatli aksaray kochisar kulu_turkey insuyu bekarlar nigde bor_tur konya cumra
-            altinekin ladik turgut suluklu celtik larende hatunsaray eskil obruk karapinar
-            eregli_kar pirloganda sivas darende dasmenda deliktash gemerek gurun hafik sarkisla
-            zara tokat akdagmadeni aydincik koyulhisar niksar sulusaray zile beysehir aksehir
-            bolvadin ilgin sarkikaraagac seydisehir yalvac mihaliccik sivrihisar bozan kaymaz beypazari
-            karahisar_i_sahib altintas emirdag sandikli seyitgazi suhut tavsanli kutahya aslanapa usak
-            banaz gediz honaz lazkiye seyhli isparta burdur dinar egirdir stefani
-            uluborlu sungurlu huseyinabad corum sultanonu inonu antalya elmali finike kas
-            istanoz alaiye karahisar_i_teke manavgat selinti silifke anamur ermenek mut tarsus
-            candir_cil corycus molevon sis anavarza caxud amasya ladik_pontus merzifon sonisa
-            akkus bayramlu mesudiye terme unye sebinkarahisar keban harput sivrice adana
-            ayas kars_armenia iskenderun divrigi arapgir arguvan egin
+            altinekin ladik turgut suluklu celtik larende eskil obruk karapinar eregli_kar
+            sivas darende dasmenda deliktash gemerek gurun hafik sarkisla zara tokat
+            akdagmadeni aydincik koyulhisar niksar sulusaray zile bolvadin beypazari karahisar_i_sahib sandikli
+            suhut usak banaz gediz honaz lazkiye seyhli isparta burdur dinar
+            egirdir stefani uluborlu sungurlu huseyinabad corum antalya istanoz alaiye karahisar_i_teke
+            manavgat selinti silifke anamur ermenek mut tarsus candir_cil corycus molevon
+            sis anavarza caxud amasya ladik_pontus merzifon sonisa akkus bayramlu mesudiye
+            terme unye sebinkarahisar keban harput sivrice adana ayas kars_armenia iskenderun
+            divrigi arapgir arguvan egin
          }
 
          own_conquered = {
@@ -46365,6 +46665,25 @@ countries = {
             ruler_term  = { character = tho_murtagh_o_brien start_date = 1317.1.1 end_date = 1.1.1 regnal_number = 0 }
           }
       }
+      THOS = {
+         capital = tosya
+         country_rank = rank_county
+
+         own_control_core = {
+            tosya
+         }
+
+         include = "expl_mediterranean"
+         include = "expl_silk_road_west"
+         include = "expl_silk_road_center"
+         include = "expl_silk_road_east"
+         include = "expl_indian_trade_route"
+
+         government = {
+            type = monarchy
+            ruler = random
+          }
+      }
       THP = {
          capital = kruje
 
@@ -46704,7 +47023,7 @@ countries = {
                name_henry = 2
             }
 
-             #ruler_term = { character = tir_jan_jindrich_luxembourg start_date = 1335.4.2 regnal_number = 1 } # As Marital Co-Ruler
+             #ruler_term = { character = tir_jan_jindrich_luxembourg start_date = 1335.4.2 regnal_number = 1 } # As Marital Co-Ruler
          }
       }
       TJP = {
@@ -48632,6 +48951,25 @@ countries = {
             ruler_term  = { character = tri_balduin_von_luxembourg start_date = 1307.11.23 end_date = 1.1.1 regnal_number = 1 }
           }
       }
+      TRKD = {
+         capital = yalvac
+         country_rank = rank_county
+
+         own_control_core = {
+            yalvac
+         }
+
+         include = "expl_mediterranean"
+         include = "expl_silk_road_west"
+         include = "expl_silk_road_center"
+         include = "expl_silk_road_east"
+         include = "expl_indian_trade_route"
+
+         government = {
+            type = monarchy
+            ruler = random
+          }
+      }
       TRML = {
          capital = termoli
          country_rank = rank_county
@@ -48741,6 +49079,25 @@ countries = {
       TRS = {
          country_rank = rank_county
        }
+      TRSS = {
+         capital = hatunsaray
+         country_rank = rank_county
+
+         own_control_core = {
+            hatunsaray pirloganda
+         }
+
+         include = "expl_mediterranean"
+         include = "expl_silk_road_west"
+         include = "expl_silk_road_center"
+         include = "expl_silk_road_east"
+         include = "expl_indian_trade_route"
+
+         government = {
+            type = monarchy
+            ruler = random
+          }
+      }
       TRT = {
          type = pop
          country_rank = rank_county
@@ -51118,7 +51475,7 @@ countries = {
             ruler_term  = { character = ver_cangrande_scala start_date = 1311.11.29 end_date = 1329.7.22 regnal_number = 1 }
             ruler_term  = { character = ver_mastino_ii_scala start_date = 1329.7.22 end_date = 1.1.1 regnal_number = 2 }
 
-             #ruler_term = { character = ver_alberto_ii_scala start_date = 1329.7.22 regnal_number = 2 } # Co-Ruler until 1351
+             #ruler_term = { character = ver_alberto_ii_scala start_date = 1329.7.22 regnal_number = 2 } # Co-Ruler until 1351
          }
       }
       VEZ = {

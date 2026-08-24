@@ -10218,9 +10218,9 @@ montendre = {
 la_rochelle = {
 	define_pop = {	type = nobles	size = 0.010	culture = rochelaes	religion = catholic }
 	define_pop = {	type = clergy	size = 0.009	culture = rochelaes	religion = catholic }
-	define_pop = {	type = burghers	size = 2.800	culture = rochelaes	religion = catholic }
-	define_pop = {	type = peasants	size = 44.000	culture = rochelaes	religion = catholic }
-	define_pop = {	type = peasants	size = 6.300	culture = akvitadzyte	religion = catholic }
+	define_pop = {	type = burghers	size = 5.800	culture = rochelaes	religion = catholic }
+	define_pop = {	type = peasants	size = 86.000	culture = rochelaes	religion = catholic }
+	define_pop = {	type = peasants	size = 12.300	culture = akvitadzyte	religion = catholic }
 }
 oleron = {
 	define_pop = {	type = clergy	size = 0.009	culture = rochelaes	religion = catholic }
