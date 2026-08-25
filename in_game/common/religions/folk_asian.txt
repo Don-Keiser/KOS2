@@ -35,6 +35,18 @@ bimoism = {
 
 }
 
+awasa_cult = { 
+	color = map_awasa_cult
+	group = folk_asian_group
+
+	religious_aspects = 1
+	
+	definition_modifier = {
+		tolerance_heretic = 1
+		tolerance_heathen = 1
+	}
+}
+
 ka_niam_khasi_religion = { #https://www.judgementiscome.com/home/ethnic-religions/ka-niam-khasi
 	color = map_khasi
 	group = folk_asian_group

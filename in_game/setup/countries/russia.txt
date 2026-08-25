@@ -414,25 +414,25 @@ DLSK = {
 	color = rgb { 127 93 51 }
 
 	culture_definition = urdasha
-	religion_definition = muinaisusko
+	religion_definition = narezar
 }
 DRKM = {
 	color = rgb { 124 85 41 }
 
 	culture_definition = kharimor
-	religion_definition = muinaisusko
+	religion_definition = narezar
 }
 ISHT = {
 	color = rgb { 153 112 62 }
 
 	culture_definition = oltaugir
-	religion_definition = muinaisusko
+	religion_definition = narezar
 }
 UPKA = {
 	color = rgb { 153 120 84 }
 
 	culture_definition = oltaugir
-	religion_definition = muinaisusko
+	religion_definition = narezar
 }
 UDMR = {
 	color = rgb { 145 70 43 }

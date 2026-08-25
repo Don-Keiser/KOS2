@@ -235,6 +235,22 @@ alan_paganism = { #https://en.wikipedia.org/wiki/Ossetian_mythology
 	}
 }
 
+narezar = { #Mix of Uralic, Iranian and Tengrism Paganism
+	color = religion_narezar
+	group = folk_european_group
+
+	religious_aspects = 1
+	
+	definition_modifier = {
+		army_light_cavalry_power = 0.1
+        movement_speed_if_no_road = 0.05
+	}
+
+	tags = {
+		folk_european_gfx pagan_gfx
+	}
+}
+
 romuva = { 
 	color = color_romuva
 	group = folk_european_group
