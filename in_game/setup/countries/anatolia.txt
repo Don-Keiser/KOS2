@@ -10,42 +10,42 @@ NLLI = {
 	color = rgb { 193 138 58 }
 
 	culture_definition = thai_culture
-	religion_definition = orthodox
+	religion_definition = solar_christianity
 }
 
 KZLK = {
 	color = rgb { 78 127 98 }
 
 	culture_definition = thai_culture
-	religion_definition = orthodox
+	religion_definition = solar_christianity
 }
 
 ONGT = {
 	color = rgb { 88 115 164 }
 
 	culture_definition = thai_culture
-	religion_definition = orthodox
+	religion_definition = solar_christianity
 }
 
 KANL = {
 	color = rgb { 166 83 77 }
 
 	culture_definition = thai_culture
-	religion_definition = orthodox
+	religion_definition = solar_christianity
 }
 
 THOS = {
 	color = rgb { 65 138 145 }
 
 	culture_definition = thai_culture
-	religion_definition = orthodox
+	religion_definition = solar_christianity
 }
 
 PHML = {
 	color = rgb { 134 92 145 }
 
 	culture_definition = thai_culture
-	religion_definition = orthodox
+	religion_definition = solar_christianity
 }
 
 HARG = {
@@ -200,4 +200,10 @@ NSIT = {
 
 	culture_definition = greek_culture
 	religion_definition = orthodox
+}
+MYRN = {
+	color = rgb { 157 138 173 }
+
+	culture_definition = rughan
+	religion_definition = collyridianism
 }

@@ -334,6 +334,35 @@ arian = {
 	tags = { eastern_christian_gfx christian_gfx abrahamic_gfx }
 }
 
+solar_christianity = { 
+	color = religion_solar_christianity
+	group = christian
+
+	has_patriarchs = yes
+	has_canonization = yes
+	has_autocephalous_patriarchates = yes
+	has_religious_influence = yes
+	use_icons = yes
+
+	clergy_goods_demand_modifier = {
+		incense = 2
+	}
+
+	definition_modifier = {
+		tolerance_own = 1
+		tolerance_heretic = 1
+		stability_cost_efficiency = 0.2
+		global_max_literacy = 5
+		country_allow_canonization = yes
+	}
+	
+	opinions = {
+		orthodox = positive
+	}
+
+	tags = { eastern_christian_gfx christian_gfx abrahamic_gfx }
+}
+
 vulgar_catholic = { 
 	color = religion_vulgar_catholic
 	group = christian
@@ -579,6 +608,32 @@ orthodox = {
 		sunni = enemy
 		shia = enemy
 		judaism = positive
+	}
+
+	tags = { orthodox_gfx eastern_christian_gfx christian_gfx abrahamic_gfx }
+
+}
+
+collyridianism = {
+	color = religion_collyridianism
+	group = christian
+
+	has_canonization = yes
+	has_autocephalous_patriarchates = yes
+	has_religious_influence = yes
+	use_icons = yes
+
+	clergy_goods_demand_modifier = {
+		incense = 2
+	}
+
+	definition_modifier = {
+		stability_cost_efficiency = 0.2
+		country_allow_canonization = yes
+	}
+	
+	opinions = {
+		orthodox = positive
 	}
 
 	tags = { orthodox_gfx eastern_christian_gfx christian_gfx abrahamic_gfx }

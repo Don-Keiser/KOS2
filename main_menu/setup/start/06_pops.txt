@@ -26865,12 +26865,12 @@ oreos = {
 	define_pop = {	type = peasants	size = 3.000	culture = greek_culture	religion = orthodox }
 }
 mitilene = {
-	define_pop = {	type = clergy	size = 0.010	culture = greek_culture	religion = orthodox }
-	define_pop = {	type = peasants	size = 4.063	culture = greek_culture	religion = orthodox }
+	define_pop = {	type = clergy	size = 0.010	culture = rughan	religion = collyridianism }
+	define_pop = {	type = peasants	size = 4.063	culture = greek_culture	religion = collyridianism }
 }
 molyvos = {
-	define_pop = {	type = clergy	size = 0.010	culture = greek_culture	religion = orthodox }
-	define_pop = {	type = peasants	size = 4.831	culture = greek_culture	religion = orthodox }
+	define_pop = {	type = clergy	size = 0.010	culture = rughan	religion = collyridianism }
+	define_pop = {	type = peasants	size = 4.831	culture = greek_culture	religion = collyridianism }
 }
 imbros = {
 	define_pop = {	type = clergy	size = 0.010	culture = greek_culture	religion = orthodox }
@@ -29314,9 +29314,9 @@ corum = {
 	define_pop = {	type = tribesmen	size = 3.959	culture = thai_culture	religion = tengri }
 }
 gumus = {
-	define_pop = {	type = clergy	size = 0.004	culture = thai_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 31.278	culture = thai_culture	religion = sunni }
-	define_pop = {	type = slaves	size = 3.475	culture = pontic_greek_culture	religion = orthodox }
+	define_pop = {	type = clergy	size = 0.004	culture = thai_culture	religion = solar_christianity }
+	define_pop = {	type = peasants	size = 31.278	culture = thai_culture	religion = solar_christianity }
+	define_pop = {	type = slaves	size = 3.475	culture = pontic_greek_culture	religion = solar_christianity }
 }
 huseyinabad = {
 	define_pop = {	type = clergy	size = 0.005	culture = thai_culture	religion = sunni }
@@ -29324,8 +29324,8 @@ huseyinabad = {
 	define_pop = {	type = tribesmen	size = 1.708	culture = thai_culture	religion = tengri }
 }
 iskilip = {
-	define_pop = {	type = clergy	size = 0.007	culture = thai_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 30.041	culture = thai_culture	religion = sunni }
+	define_pop = {	type = clergy	size = 0.007	culture = thai_culture	religion = solar_christianity }
+	define_pop = {	type = peasants	size = 30.041	culture = thai_culture	religion = solar_christianity }
 }
 sungurlu = {
 	define_pop = {	type = clergy	size = 0.005	culture = thai_culture	religion = sunni }
@@ -29666,31 +29666,31 @@ sultan_mountains_2 = {
 sultan_mountains_3 = {
 }
 cankiri = {
-	define_pop = {	type = clergy	size = 0.005	culture = thai_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 11.867	culture = thai_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 7.911	culture = thai_culture	religion = shia }
+	define_pop = {	type = clergy	size = 0.005	culture = thai_culture	religion = solar_christianity }
+	define_pop = {	type = peasants	size = 11.867	culture = thai_culture	religion = solar_christianity }
+	define_pop = {	type = tribesmen	size = 7.911	culture = thai_culture	religion = solar_christianity }
 }
 bayat = {
-	define_pop = {	type = clergy	size = 0.005	culture = thai_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 12.105	culture = thai_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 8.070	culture = thai_culture	religion = shia }
+	define_pop = {	type = clergy	size = 0.005	culture = thai_culture	religion = solar_christianity }
+	define_pop = {	type = peasants	size = 12.105	culture = thai_culture	religion = solar_christianity }
+	define_pop = {	type = tribesmen	size = 8.070	culture = thai_culture	religion = solar_christianity }
 }
 cerkes = {
 	define_pop = {	type = clergy	size = 0.007	culture = thai_culture	religion = sunni }
 	define_pop = {	type = peasants	size = 8.808	culture = thai_culture	religion = sunni }
 }
 kursunlu = {
-	define_pop = {	type = clergy	size = 0.007	culture = thai_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 7.728	culture = thai_culture	religion = sunni }
+	define_pop = {	type = clergy	size = 0.007	culture = thai_culture	religion = solar_christianity }
+	define_pop = {	type = peasants	size = 7.728	culture = thai_culture	religion = solar_christianity }
 }
 sabanozu = {
-	define_pop = {	type = clergy	size = 0.005	culture = thai_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 9.741	culture = thai_culture	religion = sunni }
+	define_pop = {	type = clergy	size = 0.005	culture = thai_culture	religion = solar_christianity }
+	define_pop = {	type = peasants	size = 9.741	culture = thai_culture	religion = solar_christianity }
 }
 tosya = {
-	define_pop = {	type = clergy	size = 0.005	culture = thai_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 11.619	culture = thai_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 7.746	culture = thai_culture	religion = shia }
+	define_pop = {	type = clergy	size = 0.005	culture = thai_culture	religion = solar_christianity }
+	define_pop = {	type = peasants	size = 11.619	culture = thai_culture	religion = solar_christianity }
+	define_pop = {	type = tribesmen	size = 7.746	culture = thai_culture	religion = solar_christianity }
 }
 karahisar_i_sahib = {
 	define_pop = {	type = nobles	size = 0.118	culture = thai_culture	religion = sunni }
@@ -29849,10 +29849,10 @@ kaymaz = {
 	define_pop = {	type = slaves	size = 1.651	culture = greek_culture	religion = orthodox }
 }
 kibrus = {
-	define_pop = {	type = peasants	size = 10.747	culture = thai_culture	religion = sunni }
+	define_pop = {	type = peasants	size = 10.747	culture = thai_culture	religion = solar_christianity }
 }
 kizilca = {
-	define_pop = {	type = peasants	size = 8.499	culture = thai_culture	religion = sunni }
+	define_pop = {	type = peasants	size = 8.499	culture = thai_culture	religion = solar_christianity }
 }
 mihaliccik = {
 	define_pop = {	type = clergy	size = 0.036	culture = greek_culture	religion = orthodox }
@@ -30312,11 +30312,11 @@ inonu = {
 	define_pop = {	type = tribesmen	size = 0.791	culture = thai_culture	religion = shia }
 }
 nalli = {
-	define_pop = {	type = clergy	size = 0.036	culture = greek_culture	religion = orthodox }
-	define_pop = {	type = clergy	size = 0.036	culture = thai_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 7.226	culture = thai_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 2.223	culture = thai_culture	religion = shia }
-	define_pop = {	type = slaves	size = 1.667	culture = greek_culture	religion = orthodox }
+	define_pop = {	type = clergy	size = 0.036	culture = greek_culture	religion = solar_christianity }
+	define_pop = {	type = clergy	size = 0.036	culture = thai_culture	religion = solar_christianity }
+	define_pop = {	type = peasants	size = 7.226	culture = thai_culture	religion = solar_christianity }
+	define_pop = {	type = tribesmen	size = 2.223	culture = thai_culture	religion = solar_christianity }
+	define_pop = {	type = slaves	size = 1.667	culture = greek_culture	religion = solar_christianity }
 }
 sogut = {
 	define_pop = {	type = nobles	size = 0.009	culture = thai_culture	religion = sunni }
