@@ -97,7 +97,7 @@ SPAL = {
 }
 
 TSZH = {
-	color = rgb { 129 198 157 }
+	color = rgb { 173 94 55 }
 
 	culture_definition = sarmatian
 	religion_definition = scythian_pantheon

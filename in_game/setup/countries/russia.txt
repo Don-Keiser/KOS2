@@ -363,7 +363,7 @@ KNMR = {
 }
 
 GLYD = {
-	color = rgb { 79 145 100 }
+	color = rgb { 206 181 97 }
 
 	culture_definition = golyad
 	religion_definition = romuva
@@ -439,4 +439,375 @@ UDMR = {
 
 	culture_definition = udmurt
 	religion_definition = udmurt_paganism
+}
+
+VRKZ = {
+    color = rgb { 166 133 133 }
+
+    culture_definition = sarmatian
+    religion_definition = vulgar_catholic
+}
+
+MAZR = {
+    color = rgb { 150 82 55 }
+
+    culture_definition = sarmatian
+    religion_definition = collyridianism
+}
+
+DNUV = {
+    color = rgb { 133 73 67 }
+
+    culture_definition = sarmatian
+    religion_definition = scythian_pantheon
+}
+
+ARDB = {
+    color = rgb { 136 175 130 }
+
+    culture_definition = sarmatian
+    religion_definition = collyridianism
+}
+
+ZARX = {
+    color = rgb { 175 166 137 }
+
+    culture_definition = sarmatian
+    religion_definition = vulgar_catholic
+}
+
+PRLT = {
+    color = rgb { 175 123 98 }
+
+    culture_definition = sarmatian
+    religion_definition = scythian_pantheon
+}
+
+SRKH = {
+    color = rgb { 214 214 145 }
+
+    culture_definition = sarmatian
+    religion_definition = vulgar_catholic
+}
+
+FRDR = {
+    color = rgb { 215 195 58 }
+
+    culture_definition = sarmatian
+    religion_definition = scythian_pantheon
+}
+
+ARTV = {
+    color = rgb { 12 133 198 }
+
+    culture_definition = issartian
+    religion_definition = muinaisusko
+}
+
+SAUR = {
+    color = rgb { 34 193 166 }
+
+    culture_definition = issartian
+    religion_definition = vulgar_catholic
+}
+
+ASPU = {
+    color = rgb { 102 237 146 }
+
+    culture_definition = issartian
+    religion_definition = muinaisusko
+}
+
+VRNK = {
+    color = rgb { 85 121 151 }
+
+    culture_definition = issartian
+    religion_definition = muinaisusko
+}
+
+TSVK = {
+    color = rgb { 10 219 36 }
+
+    culture_definition = issartian
+    religion_definition = scythian_pantheon
+}
+
+TRKT = {
+    color = rgb { 136 97 201 }
+
+    culture_definition = issartian
+    religion_definition = muinaisusko
+}
+
+SVDL = {
+    color = rgb { 16 113 155 }
+
+    culture_definition = issartian
+    religion_definition = muinaisusko
+}
+
+BGRL = {
+    color = rgb { 51 75 181 }
+
+    culture_definition = issartian
+    religion_definition = scythian_pantheon
+}
+
+DNVK = {
+    color = rgb { 162 65 97 }
+
+    culture_definition = issartian
+    religion_definition = muinaisusko
+}
+
+ARSK = {
+    color = rgb { 115 188 137 }
+
+    culture_definition = issartian
+    religion_definition = muinaisusko
+}
+
+KTVL = {
+    color = rgb { 149 229 178 }
+
+    culture_definition = issartian
+    religion_definition = muinaisusko
+}
+
+VSKD = {
+    color = rgb { 93 234 190 }
+
+    culture_definition = issartian
+    religion_definition = muinaisusko
+}
+
+VAIN = {
+    color = rgb { 90 67 135 }
+
+    culture_definition = ohitsemid
+    religion_definition = muinaisusko
+}
+
+KAUR = {
+    color = rgb { 73 47 127 }
+
+    culture_definition = ohitsemid
+    religion_definition = muinaisusko
+}
+
+ILMR = {
+    color = rgb { 107 83 160 }
+
+    culture_definition = ohitsemid
+    religion_definition = muinaisusko
+}
+
+TAMM = {
+    color = rgb { 56 175 138 }
+
+    culture_definition = ohitsemid
+    religion_definition = muinaisusko
+}
+
+SADL = {
+    color = rgb { 38 119 94 }
+
+    culture_definition = ohitsemid
+    religion_definition = muinaisusko
+}
+
+TRVP = {
+    color = rgb { 10 102 54 }
+
+    culture_definition = ohitsemid
+    religion_definition = muinaisusko
+}
+
+ODRK = {
+    color = rgb { 145 214 206 }
+
+    culture_definition = ohitsemid
+    religion_definition = muinaisusko
+}
+
+RAUD = {
+    color = rgb { 36 81 64 }
+
+    culture_definition = ohitsemid
+    religion_definition = muinaisusko
+}
+
+SELJ = {
+    color = rgb { 150 185 174 }
+
+    culture_definition = ohitsemid
+    religion_definition = muinaisusko
+}
+
+KRGM = {
+    color = rgb { 68 145 120 }
+
+    culture_definition = ohitsemid
+    religion_definition = muinaisusko
+}
+
+VAIG = {
+    color = rgb { 128 181 164 }
+
+    culture_definition = ohitsemid
+    religion_definition = muinaisusko
+}
+
+PNDM = {
+    color = rgb { 245 165 110 }
+
+    culture_definition = meschera_culture
+    religion_definition = erzya_religion
+}
+
+NORO = {
+    color = rgb { 181 114 90 }
+
+    culture_definition = meschera_culture
+    religion_definition = erzya_religion
+}
+
+KUZV = {
+    color = rgb { 231 87 87 }
+
+    culture_definition = meschera_culture
+    religion_definition = erzya_religion
+}
+
+VLTM = {
+    color = rgb { 76 172 177 }
+
+    culture_definition = meschera_culture
+    religion_definition = muinaisusko
+}
+
+AZRO = {
+    color = rgb { 87 146 112 }
+
+    culture_definition = meschera_culture
+    religion_definition = muinaisusko
+}
+
+JUMR = {
+    color = rgb { 76 172 77 }
+
+    culture_definition = meschera_culture
+    religion_definition = mari_paganism
+}
+
+NISK = {
+    color = rgb { 131 141 242 }
+
+    culture_definition = meschera_culture
+    religion_definition = erzya_religion
+}
+
+INES = {
+    color = rgb { 146 134 77 }
+
+    culture_definition = meschera_culture
+    religion_definition = muinaisusko
+}
+
+VOND = {
+    color = rgb { 97 126 37 }
+
+    culture_definition = merya_culture
+    religion_definition = muinaisusko
+}
+
+LEMU = {
+    color = rgb { 150 82 200 }
+
+    culture_definition = merya_culture
+    religion_definition = muinaisusko
+}
+
+VEKS = {
+    color = rgb { 136 158 183 }
+
+    culture_definition = merya_culture
+    religion_definition = mari_paganism
+}
+
+JOMK = {
+    color = rgb { 189 189 189 }
+
+    culture_definition = merya_culture
+    religion_definition = mari_paganism
+}
+
+KUDA = {
+    color = rgb { 165 165 22 }
+
+    culture_definition = merya_culture
+    religion_definition = mari_paganism
+}
+
+TULA = {
+    color = rgb { 12 165 75 }
+
+    culture_definition = merya_culture
+    religion_definition = mari_paganism
+}
+
+NRJR = {
+    color = rgb { 217 211 77 }
+
+    culture_definition = merya_culture
+    religion_definition = mari_paganism
+}
+
+JAVR = {
+    color = rgb { 131 108 160 }
+
+    culture_definition = merya_culture
+    religion_definition = mari_paganism
+}
+
+ULVA = {
+    color = rgb { 178 125 169 }
+
+    culture_definition = merya_culture
+    religion_definition = muinaisusko
+}
+
+MRMA = {
+    color = rgb { 105 108 80 }
+
+    culture_definition = merya_culture
+    religion_definition = mari_paganism
+}
+
+SUMA = {
+    color = rgb { 55 112 196 }
+
+    culture_definition = muroma_culture
+    religion_definition = mari_paganism
+}
+
+JUGR = {
+    color = rgb { 176 72 77 }
+
+    culture_definition = muroma_culture
+    religion_definition = mari_paganism
+}
+
+VKSA = {
+    color = rgb { 36 13 125 }
+
+    culture_definition = muroma_culture
+    religion_definition = erzya_religion
+}
+
+VMAS = {
+    color = rgb { 123 214 190 }
+
+    culture_definition = erzya_culture
+    religion_definition = erzya_religion
 }
