@@ -2383,7 +2383,7 @@ montmorillon = { topography = flatland vegetation = grasslands climate = oceanic
 niort = { topography = flatland vegetation = grasslands climate = oceanic religion = catholic culture = poitevin raw_material = fiber_crops}
 saintes = { topography = flatland vegetation = grasslands climate = oceanic religion = catholic culture = saintongeais raw_material = wine}
 montendre = { topography = flatland vegetation = woods climate = oceanic religion = catholic culture = saintongeais raw_material = wine}
-la_rochelle = { topography = wetlands vegetation = grasslands climate = oceanic religion = catholic culture = saintongeais raw_material = wheat natural_harbor_suitability = 0.75}
+la_rochelle = { topography = flatland vegetation = farmland climate = oceanic religion = catholic culture = saintongeais raw_material = salt natural_harbor_suitability = 0.80}
 oleron = { topography = wetlands vegetation = grasslands climate = oceanic religion = catholic culture = saintongeais raw_material = salt natural_harbor_suitability = 0.50}
 royan = { topography = flatland vegetation = grasslands climate = oceanic religion = catholic culture = saintongeais raw_material = wheat natural_harbor_suitability = 0.00}
 st_jean_dangely = { topography = flatland vegetation = grasslands climate = oceanic religion = catholic culture = saintongeais raw_material = wine}
