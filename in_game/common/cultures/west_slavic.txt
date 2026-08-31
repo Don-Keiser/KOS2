@@ -218,12 +218,11 @@ sorbian = {
 	tags = { czech_gfx west_slavic_gfx slavic_gfx eastern_european_gfx european_gfx }
 
 	opinions = {
-		czech = positive
 		polabian = kindred
-		silesian = kindred
+		sorbian = kindred
 	}
 	culture_groups = {
-		bohemian_group
+		serb_group
 		slavic_group
 	}
 }

@@ -254,7 +254,7 @@ locations={
 	valence = { rank = town town_setup = french_town  }
 	vienne = { rank = town town_setup = french_town  }
 
-	la_rochelle = { rank = town town_setup = french_town }
+	la_rochelle = { rank = city town_setup = french_town }
 
 	#Germany
 	lubeck = { rank = city town_setup = german_coastal_city }
@@ -2356,4 +2356,7 @@ building_manager = {
 	#Ecclesiastical Province Cathedrals
 
 	#Stockades on Tribal and bordering Tribal/Hordes
+
+	#La Rochelle
+	
 }

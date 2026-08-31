@@ -6,6 +6,22 @@
 	tags = { romanian_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
 
 	opinions = { #ADD
+		juhasian = kindred
+	}	
+	culture_groups = {
+		romanian_group
+	}
+}
+
+juhasian = { 
+	language = romanian_language
+	
+	color = map_juhasian
+	
+	tags = { romanian_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
+
+	opinions = { #ADD
+		aromanian = kindred
 	}	
 	culture_groups = {
 		romanian_group
@@ -79,7 +95,6 @@ hungarian = { #Hungarians / Southern Magyars
 	tags = { hungarian_gfx eastern_european_gfx european_gfx }
 
 	opinions = { 
-		chiyalik_culture = kindred
 		szekely_culture = kindred
 		ezusteszak = kindred
 		aranydeli = kindred
@@ -103,11 +118,10 @@ osmagyar = { #Old Magyars / Northern Magyars
 		hungarian = negative
 		kunsag = positive
 		ezusteszak = kindred
-		black_serb = kindred
+		black_serb = positive
 	}	
 	culture_groups = {
 		hungarian_group
-		carpathian_group
 	}
 }
 

@@ -33,6 +33,9 @@ eastern_baltic_group = {
 bohemian_group = {
 }
 
+serb_group = {
+}
+
 british_group = {
 }
 

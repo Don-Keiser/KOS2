@@ -1,0 +1,274 @@
+﻿#Traditions
+lrc_rancon_charters = {
+    age = age_1_traditions
+    icon = guilds
+
+    potential = {
+        has_or_had_tag = LRC
+    }
+
+    burghers_estate_target_satisfaction = 0.05
+    global_trade_center_power = 0.05
+
+    requires = guilds
+}
+
+lrc_order_of_the_red_star = {
+    age = age_1_traditions
+    icon = scholasticism
+
+    potential = {
+        has_or_had_tag = LRC
+    }
+
+    research_speed_modifier = 0.05
+    global_institution_growth_modifier = 0.10
+
+    requires = scholasticism
+}
+
+lrc_hospitals_of_the_red_star = {
+    age = age_1_traditions
+    icon = alchemy_advance
+
+    potential = {
+        has_or_had_tag = LRC
+    }
+
+    global_life_expectancy = 1
+    global_disease_resistance = 0.04
+
+    requires = lrc_order_of_the_red_star
+}
+
+# Renaissance
+lrc_university_of_the_red_star = {
+    age = age_2_renaissance
+    icon = renaissance_advance
+
+    potential = {
+        has_or_had_tag = LRC
+    }
+
+    research_speed_modifier = 0.05
+    global_institution_growth_modifier = 0.10
+
+    requires = university_advance
+}
+
+lrc_rochelaes_letters = {
+    age = age_2_renaissance
+    icon = cultural_acceptance_advance
+
+    potential = {
+        has_or_had_tag = LRC
+    }
+
+    cultural_influence_modifier = 0.15
+    cultural_tradition_modifier = 0.10
+
+    requires = patron_of_art
+}
+
+lrc_markets_beyond_the_pillars = {
+    age = age_2_renaissance
+    icon = global_trade_routes_advance
+
+    potential = {
+        has_or_had_tag = LRC
+    }
+
+    trade_range = 350
+    merchant_power_from_maritime = 0.050
+
+    requires = trade_range_advance_age_2
+}
+
+lrc_akvitazyte_cavalry = {
+    age = age_2_renaissance
+    icon = finest_of_horses
+
+    potential = {
+        has_or_had_tag = LRC
+    }
+
+    army_light_cavalry_power = 0.15
+
+    requires = recruitment_improvements_renaissance
+}
+
+lrc_communal_muster = {
+    age = age_2_renaissance
+    icon = town_rights_advance
+
+    potential = {
+        has_or_had_tag = LRC
+    }
+
+    burghers_estate_levy_size = 0.20
+    levy_combat_efficiency_modifier = 0.05
+
+    requires = recruitment_law_advance
+}
+
+#Discovery
+lrc_masters_of_the_pertuis = {
+    age = age_3_discovery
+    icon = maritime_advance_age_3
+
+    potential = {
+        has_or_had_tag = LRC
+    }
+
+    global_maritime_presence_modifier = 0.15
+    naval_morale_modifier = 0.10
+
+    requires = trade_range_advance_age_3
+}
+
+
+lrc_star_guided_navigation = {
+    age = age_3_discovery
+    icon = safe_exploration_techniques_advance
+
+    potential = {
+        has_or_had_tag = LRC
+    }
+
+    exploration_mission_speed = 0.05
+    exploration_maintenance_efficiency = 0.10
+
+    requires = open_sea_exploration
+}
+
+
+lrc_salt_and_wine_convoys = {
+    age = age_3_discovery
+    icon = global_trade_routes_advance
+
+    potential = {
+        has_or_had_tag = LRC
+    }
+
+    global_merchant_power = 0.10
+    global_trade_through_owned_territory_efficiency = 0.10
+
+    requires = merchant_power_from_maritime_discovery_advance
+}
+
+lrc_marshes_as_ramparts = {
+    age = age_3_discovery
+    icon = defensive_army_attrition
+
+    potential = {
+        has_or_had_tag = LRC
+    }
+
+    fort_limit_modifier = 0.10
+    global_devastation_recovery = 0.0025
+
+    requires = pike_and_shot_advance
+}
+
+#Reformation
+lrc_cosmopolitan_harbour = {
+    age = age_4_reformation
+    icon = diplomatic_range_age_1
+
+    potential = {
+        has_or_had_tag = LRC
+    }
+
+    global_burghers_city_desired_pop = 0.05
+    tolerance_heretic = 0.5
+    tolerance_heathen = 0.5
+
+    requires = gov_reform_reformation_a
+}
+
+lrc_rochelaes_countinghouses = {
+    age = age_4_reformation
+    icon = court_accounting
+
+    potential = {
+        has_or_had_tag = LRC
+    }
+
+    merchant_maintenance_efficiency = 0.15
+    court_spending_efficiency = 0.05
+
+    requires = merchant_power_from_maritime_reformation_advance
+}
+
+lrc_corsairs_of_aunis = {
+    age = age_4_reformation
+    icon = letters_of_marque
+
+    potential = {
+        has_or_had_tag = LRC
+    }
+
+    hire_privateer_cost_modifier = -0.15
+    privateer_maintenance_cost_modifier = -0.10
+
+    requires = letters_of_marque
+}
+
+#Absolutism
+lrc_rochefort_arsenal = {
+    age = age_5_absolutism
+    icon = rudimentary_coastal_ship_repair
+
+    potential = {
+        has_or_had_tag = LRC
+    }
+
+    ship_build_speed = 0.20
+    global_maritime_presence_modifier = 0.10
+
+    requires = ship_building_techniques_absolutism
+}
+
+
+lrc_ducal_compact = {
+    age = age_5_absolutism
+    icon = diplomatic_range_age_1
+
+    potential = {
+        has_or_had_tag = LRC
+    }
+
+    subject_loyalty = 5
+    subject_income_modifier = 0.05
+
+    requires = government_size_absolutism
+}
+
+#Revolutions
+lrc_atlantic_entrepot = {
+    age = age_6_revolutions
+    icon = merchant_power_from_maritime_reformation_advance
+
+    potential = {
+        has_or_had_tag = LRC
+    }
+
+    global_merchant_power = 0.20
+    non_rural_migration_attraction = 0.50
+
+    requires = industrialization_advance
+}
+
+lrc_liberties_of_aunis = {
+    age = age_6_revolutions
+    icon = town_rights_advance
+
+    potential = {
+        has_or_had_tag = LRC
+    }
+
+    legislative_efficiency = 0.10
+    global_estate_target_satisfaction = 0.05
+
+    requires = government_size_revolutions
+}
