@@ -15029,9 +15029,10 @@ bihar = {
 	define_pop = {	type = peasants	size = 17.050	culture = hungarian	religion = catholic }
 }
 beius = {
-	define_pop = {	type = clergy	size = 0.009	culture = transylvanian	religion = orthodox }
-	define_pop = {	type = peasants	size = 10.208	culture = transylvanian	religion = orthodox }
-	define_pop = {	type = peasants	size = 5.495	culture = hungarian	religion = catholic }
+	define_pop = {	type = clergy	size = 0.009	culture = hungarian	religion = orthodox }
+	define_pop = {	type = peasants	size = 9.208	culture = jasz_culture	religion = alan_paganism }
+	define_pop = {	type = peasants	size = 2.400	culture = jasz_culture	religion = orthodox }
+	define_pop = {	type = peasants	size = 4.495	culture = hungarian	religion = orthodox }
 }
 cheresig = {
 	define_pop = {	type = clergy	size = 0.009	culture = hungarian	religion = catholic }
@@ -25082,59 +25083,79 @@ skofja_loka = {
 	define_pop = {	type = peasants	size = 7.977	culture = istriota	religion = orthodox }
 }
 bjelovar = {
-	define_pop = {	type = clergy	size = 0.010	culture = croatian	religion = catholic }
-	define_pop = {	type = peasants	size = 24.470	culture = croatian	religion = catholic }
+	define_pop = {	type = clergy	size = 0.010	culture = aranydeli	religion = orthodox }
+	define_pop = {	type = peasants	size = 17.470	culture = aranydeli	religion = orthodox }
+	define_pop = {	type = peasants	size = 6.400	culture = istriota	religion = orthodox }
+	define_pop = {	type = peasants	size = 1.800	culture = jasz_culture	religion = orthodox }
+	define_pop = {	type = peasants	size = 0.860	culture = hungarian	religion = orthodox }
 }
 koprivnica = {
-	define_pop = {	type = clergy	size = 0.010	culture = croatian	religion = catholic }
-	define_pop = {	type = peasants	size = 18.026	culture = croatian	religion = catholic }
-	define_pop = {	type = peasants	size = 1.999	culture = hungarian	religion = catholic }
+	define_pop = {	type = clergy	size = 0.010	culture = hungarian	religion = orthodox }
+	define_pop = {	type = peasants	size = 11.450	culture = hungarian	religion = orthodox }
+	define_pop = {	type = peasants	size = 3.400	culture = jasz_culture	religion = orthodox }
+	define_pop = {	type = peasants	size = 5.200	culture = aranydeli	religion = orthodox }
+	define_pop = {	type = peasants	size = 1.600	culture = istriota	religion = orthodox }
 }
 kutina = {
-	define_pop = {	type = clergy	size = 0.010	culture = croatian	religion = catholic }
-	define_pop = {	type = peasants	size = 22.521	culture = croatian	religion = catholic }
+	define_pop = {	type = clergy	size = 0.010	culture = aranydeli	religion = orthodox }
+	define_pop = {	type = peasants	size = 12.521	culture = aranydeli	religion = orthodox }
+	define_pop = {	type = peasants	size = 8.350	culture = jasz_culture	religion = orthodox }
+	define_pop = {	type = peasants	size = 2.400	culture = istriota	religion = orthodox }
 }
 pakrac = {
-	define_pop = {	type = clergy	size = 0.010	culture = croatian	religion = catholic }
-	define_pop = {	type = peasants	size = 21.454	culture = croatian	religion = catholic }
+	define_pop = {	type = clergy	size = 0.010	culture = aranydeli	religion = orthodox }
+	define_pop = {	type = peasants	size = 3.454	culture = aranydeli	religion = orthodox }
+	define_pop = {	type = peasants	size = 15.200	culture = aranydeli	religion = vulgar_catholic }
+	define_pop = {	type = peasants	size = 3.300	culture = jasz_culture	religion = orthodox }
 }
 vaska = {
-	define_pop = {	type = clergy	size = 0.010	culture = croatian	religion = catholic }
-	define_pop = {	type = peasants	size = 11.065	culture = croatian	religion = catholic }
+	define_pop = {	type = clergy	size = 0.010	culture = jasz_culture	religion = orthodox }
+	define_pop = {	type = peasants	size = 7.065	culture = jasz_culture	religion = orthodox }
+	define_pop = {	type = peasants	size = 4.192	culture = aranydeli	religion = orthodox }
 	define_pop = {	type = peasants	size = 1.225	culture = hungarian	religion = catholic }
 }
 virovitica = {
-	define_pop = {	type = clergy	size = 0.010	culture = croatian	religion = catholic }
-	define_pop = {	type = peasants	size = 8.192	culture = croatian	religion = catholic }
+	define_pop = {	type = clergy	size = 0.010	culture = aranydeli	religion = orthodox }
+	define_pop = {	type = peasants	size = 6.192	culture = aranydeli	religion = orthodox }
 	define_pop = {	type = peasants	size = 3.495	culture = hungarian	religion = catholic }
+	define_pop = {	type = peasants	size = 2.700	culture = jasz_culture	religion = orthodox }
 }
 vukovar = {
-	define_pop = {	type = clergy	size = 0.010	culture = croatian	religion = catholic }
-	define_pop = {	type = peasants	size = 7.148	culture = croatian	religion = catholic }
-	define_pop = {	type = peasants	size = 16.701	culture = hungarian	religion = catholic }
+	define_pop = {	type = clergy	size = 0.010	culture = aranydeli	religion = orthodox }
+	define_pop = {	type = peasants	size = 6.148	culture = aranydeli	religion = orthodox }
+	define_pop = {	type = peasants	size = 14.300	culture = aranydeli	religion = vulgar_catholic }
+	define_pop = {	type = peasants	size = 3.701	culture = hungarian	religion = orthodox }
 }
 ilok = {
-	define_pop = {	type = clergy	size = 0.010	culture = croatian	religion = catholic }
-	define_pop = {	type = peasants	size = 7.072	culture = croatian	religion = catholic }
-	define_pop = {	type = peasants	size = 7.072	culture = serbian	religion = orthodox }
-	define_pop = {	type = peasants	size = 9.445	culture = hungarian	religion = catholic }
+	define_pop = {	type = clergy	size = 0.010	culture = aranydeli	religion = orthodox }
+	define_pop = {	type = peasants	size = 13.072	culture = aranydeli	religion = orthodox }
+	define_pop = {	type = peasants	size = 3.950	culture = aranydeli	religion = vulgar_catholic }
+	define_pop = {	type = peasants	size = 4.072	culture = patzinak	religion = orthodox }
+	define_pop = {	type = peasants	size = 3.445	culture = hungarian	religion = orthodox }
 }
 osijek = {
-	define_pop = {	type = clergy	size = 0.010	culture = croatian	religion = catholic }
-	define_pop = {	type = peasants	size = 5.614	culture = croatian	religion = catholic }
-	define_pop = {	type = peasants	size = 13.115	culture = hungarian	religion = catholic }
+	define_pop = {	type = clergy	size = 0.010	culture = aranydeli	religion = orthodox }
+	define_pop = {	type = peasants	size = 10.614	culture = aranydeli	religion = orthodox }
+	define_pop = {	type = peasants	size = 3.800	culture = aranydeli	religion = vulgar_catholic }
+	define_pop = {	type = peasants	size = 5.115	culture = hungarian	religion = orthodox }
 }
 petrovaradin = {
-	define_pop = {	type = clergy	size = 0.010	culture = serbian	religion = orthodox }
-	define_pop = {	type = peasants	size = 20.613	culture = serbian	religion = orthodox }
+	define_pop = {	type = clergy	size = 0.010	culture = aranydeli	religion = orthodox }
+	define_pop = {	type = peasants	size = 19.613	culture = aranydeli	religion = orthodox }
+	define_pop = {	type = peasants	size = 1.600	culture = hungarian	religion = orthodox }
 }
 pozega = {
-	define_pop = {	type = clergy	size = 0.010	culture = croatian	religion = catholic }
-	define_pop = {	type = peasants	size = 21.092	culture = croatian	religion = catholic }
+	define_pop = {	type = clergy	size = 0.010	culture = aranydeli	religion = orthodox }
+	define_pop = {	type = peasants	size = 16.092	culture = aranydeli	religion = vulgar_catholic }
+	define_pop = {	type = peasants	size = 4.092	culture = aranydeli	religion = orthodox }
+	define_pop = {	type = peasants	size = 1.300	culture = jasz_culture	religion = orthodox }
 }
 sremska_mitrovica = {
-	define_pop = {	type = clergy	size = 0.010	culture = serbian	religion = orthodox }
-	define_pop = {	type = peasants	size = 21.733	culture = serbian	religion = orthodox }
+	define_pop = {	type = clergy	size = 0.010	culture = aranydeli	religion = orthodox }
+	define_pop = {	type = peasants	size = 16.733	culture = aranydeli	religion = orthodox }
+	define_pop = {	type = peasants	size = 2.400	culture = aranydeli	religion = vulgar_catholic }
+	define_pop = {	type = peasants	size = 1.072	culture = patzinak	religion = orthodox }
+	define_pop = {	type = peasants	size = 2.100	culture = hungarian	religion = orthodox }
 }
 zagreb = {
 	define_pop = {	type = clergy	size = 0.010	culture = istriota	religion = orthodox }
@@ -25148,8 +25169,10 @@ karlovac = {
 	define_pop = {	type = peasants	size = 4.600	culture = aranydeli	religion = orthodox }
 }
 petrinja = {
-	define_pop = {	type = clergy	size = 0.010	culture = croatian	religion = catholic }
-	define_pop = {	type = peasants	size = 22.107	culture = croatian	religion = catholic }
+	define_pop = {	type = clergy	size = 0.010	culture = aranydeli	religion = orthodox }
+	define_pop = {	type = peasants	size = 19.107	culture = aranydeli	religion = orthodox }
+	define_pop = {	type = peasants	size = 2.300	culture = istriota	religion = orthodox }
+	define_pop = {	type = peasants	size = 1.150	culture = jasz_culture	religion = orthodox }
 }
 sisak = {
 	define_pop = {	type = clergy	size = 0.010	culture = istriota	religion = orthodox }
@@ -25206,9 +25229,11 @@ crikvenica = {
 	define_pop = {	type = peasants	size = 1.510	culture = hungarian	religion = orthodox }
 }
 kaseg = {
-	define_pop = {	type = clergy	size = 0.010	culture = croatian	religion = catholic }
-	define_pop = {	type = peasants	size = 9.422	culture = croatian	religion = catholic }
-	define_pop = {	type = peasants	size = 1.660	culture = dalmatian	religion = catholic }
+	define_pop = {	type = clergy	size = 0.010	culture = aranydeli	religion = orthodox }
+	define_pop = {	type = peasants	size = 7.422	culture = aranydeli	religion = orthodox }
+	define_pop = {	type = peasants	size = 2.260	culture = dalmatian	religion = catholic }
+	define_pop = {	type = peasants	size = 1.600	culture = istriota	religion = catholic }
+	define_pop = {	type = peasants	size = 0.950	culture = dalmatoi	religion = orthodox }
 }
 krk = {
 	define_pop = {	type = clergy	size = 0.010	culture = hungarian	religion = orthodox }
@@ -25216,8 +25241,8 @@ krk = {
 	define_pop = {	type = peasants	size = 2.584	culture = istriota	religion = catholic }
 }
 otocac = {
-	define_pop = {	type = clergy	size = 0.010	culture = croatian	religion = catholic }
-	define_pop = {	type = peasants	size = 8.419	culture = croatian	religion = catholic }
+	define_pop = {	type = clergy	size = 0.010	culture = aranydeli	religion = orthodox }
+	define_pop = {	type = peasants	size = 8.419	culture = aranydeli	religion = orthodox }
 }
 pag = {
 	define_pop = {	type = peasants	size = 0.696	culture = hungarian	religion = orthodox }
@@ -25241,9 +25266,12 @@ knin = {
 	define_pop = {	type = peasants	size = 1.639	culture = aromanian	religion = orthodox }
 }
 novigrad = {
-	define_pop = {	type = clergy	size = 0.010	culture = croatian	religion = catholic }
-	define_pop = {	type = peasants	size = 12.768	culture = croatian	religion = catholic }
-	define_pop = {	type = peasants	size = 2.251	culture = dalmatian	religion = catholic }
+	define_pop = {	type = clergy	size = 0.010	culture = aranydeli	religion = orthodox }
+	define_pop = {	type = peasants	size = 9.768	culture = dalmatoi	religion = orthodox }
+	define_pop = {	type = peasants	size = 3.450	culture = dalmatian	religion = catholic }
+	define_pop = {	type = peasants	size = 1.700	culture = kuvirakun	religion = orthodox }
+	define_pop = {	type = peasants	size = 2.251	culture = aranydeli	religion = orthodox }
+	define_pop = {	type = peasants	size = 0.960	culture = hungarian	religion = orthodox }
 }
 sibenik = {
 	define_pop = {	type = clergy	size = 0.010	culture = croatian	religion = catholic }
@@ -25257,9 +25285,8 @@ sinj = {
 	define_pop = {	type = peasants	size = 8.375	culture = croatian	religion = catholic }
 }
 zadar = {
-	define_pop = {	type = peasants	size = 1.077	culture = croatian	religion = catholic }
-	define_pop = {	type = peasants	size = 0.806	culture = venetian	religion = catholic }
-	define_pop = {	type = peasants	size = 3.506	culture = dalmatian	religion = catholic }
+	define_pop = {	type = peasants	size = 1.977	culture = dalmatoi	religion = orthodox }
+	define_pop = {	type = peasants	size = 3.606	culture = dalmatian	religion = catholic }
 }
 dinaric_alps1 = {
 }
@@ -25354,8 +25381,9 @@ glamoc = {
 	define_pop = {	type = peasants	size = 6.965	culture = croatian	religion = catholic }
 }
 kljuc = {
-	define_pop = {	type = clergy	size = 0.010	culture = bosnian	religion = catholic }
-	define_pop = {	type = peasants	size = 18.854	culture = bosnian	religion = catholic }
+	define_pop = {	type = clergy	size = 0.010	culture = aranydeli	religion = orthodox }
+	define_pop = {	type = peasants	size = 15.854	culture = aranydeli	religion = orthodox }
+	define_pop = {	type = peasants	size = 3.200	culture = kuvirakun	religion = orthodox }
 }
 livno = {
 	define_pop = {	type = clergy	size = 0.010	culture = croatian	religion = catholic }
@@ -25413,35 +25441,36 @@ dinaric_alps5 = {
 dinaric_alps6 = {
 }
 bihac = {
-	define_pop = {	type = clergy	size = 0.010	culture = bosnian	religion = catholic }
-	define_pop = {	type = peasants	size = 1.886	culture = bosnian	religion = catholic }
-	define_pop = {	type = peasants	size = 10.691	culture = croatian	religion = catholic }
+	define_pop = {	type = clergy	size = 0.010	culture = aranydeli	religion = orthodox }
+	define_pop = {	type = peasants	size = 12.250	culture = aranydeli	religion = orthodox }
 }
 dubica = {
-	define_pop = {	type = clergy	size = 0.010	culture = croatian	religion = catholic }
-	define_pop = {	type = peasants	size = 11.827	culture = croatian	religion = catholic }
+	define_pop = {	type = clergy	size = 0.010	culture = aranydeli	religion = orthodox }
+	define_pop = {	type = peasants	size = 2.827	culture = aranydeli	religion = orthodox }
+	define_pop = {	type = peasants	size = 8.600	culture = aranydeli	religion = vulgar_catholic }
+	define_pop = {	type = peasants	size = 1.900	culture = jasz_culture	religion = orthodox }
 }
 gradiski_brod = {
-	define_pop = {	type = clergy	size = 0.010	culture = bosnian	religion = catholic }
-	define_pop = {	type = peasants	size = 3.005	culture = bosnian	religion = catholic }
-	define_pop = {	type = peasants	size = 17.047	culture = croatian	religion = catholic }
+	define_pop = {	type = clergy	size = 0.010	culture = aranydeli	religion = orthodox }
+	define_pop = {	type = peasants	size = 20.135	culture = aranydeli	religion = orthodox }
 }
 kozara = {
-	define_pop = {	type = clergy	size = 0.010	culture = bosnian	religion = catholic }
-	define_pop = {	type = peasants	size = 15.176	culture = bosnian	religion = catholic }
+	define_pop = {	type = clergy	size = 0.010	culture = aranydeli	religion = orthodox }
+	define_pop = {	type = peasants	size = 15.176	culture = aranydeli	religion = orthodox }
 }
 srb = {
-	define_pop = {	type = clergy	size = 0.010	culture = croatian	religion = catholic }
-	define_pop = {	type = peasants	size = 10.619	culture = croatian	religion = catholic }
-	define_pop = {	type = peasants	size = 1.871	culture = bosnian	religion = catholic }
+	define_pop = {	type = clergy	size = 0.010	culture = aranydeli	religion = orthodox }
+	define_pop = {	type = peasants	size = 9.619	culture = aranydeli	religion = orthodox }
+	define_pop = {	type = peasants	size = 2.871	culture = kuvirakun	religion = orthodox }
 }
 doboj = {
-	define_pop = {	type = clergy	size = 0.010	culture = bosnian	religion = catholic }
-	define_pop = {	type = peasants	size = 15.666	culture = bosnian	religion = catholic }
+	define_pop = {	type = clergy	size = 0.010	culture = aranydeli	religion = orthodox }
+	define_pop = {	type = peasants	size = 11.666	culture = aranydeli	religion = orthodox }
+	define_pop = {	type = peasants	size = 4.800	culture = patzinak	religion = orthodox }
 }
 glaz = {
-	define_pop = {	type = clergy	size = 0.010	culture = bosnian	religion = catholic }
-	define_pop = {	type = peasants	size = 13.504	culture = bosnian	religion = catholic }
+	define_pop = {	type = clergy	size = 0.010	culture = aranydeli	religion = orthodox }
+	define_pop = {	type = peasants	size = 13.504	culture = aranydeli	religion = orthodox }
 }
 soli = {
 	define_pop = {	type = clergy	size = 0.010	culture = bosnian	religion = catholic }

@@ -1,24 +1,51 @@
 diplomacy_manager = {
-    #-------Sacrum Imperium Romanum-------
+    #Sacrum Imperium Romanum
     dependency = { first = FRA second = PAV subject_type = fiefdom }
     dependency = { first = FRA second = FRE subject_type = fiefdom }
     dependency = { first = FRA second = ULM subject_type = fiefdom }
-    dependency = { first = FRA second = THU subject_type = fiefdom }
+    dependency = { first = FRA second = THU subject_type = appanage }
+    ##Marches
+    dependency = { first = FRA second = OST subject_type = march }
+    dependency = { first = FRA second = GTL subject_type = march }
+    dependency = { first = FRA second = ATN subject_type = march }
 
-    #-------Papacy-------
+    #Papacy
     dependency = { first = PAP second = AQU subject_type = vassal }
     dependency = { first = PAP second = ANC subject_type = vassal }
     dependency = { first = PAP second = BNV subject_type = vassal }
 
     #Hungary
-    dependency = { first = HUN second = KUNS subject_type = vassal }
-    dependency = { first = HUN second = ISTR subject_type = vassal }
+    dependency = { first = HUN second = KUNS subject_type = march }
+    dependency = { first = HUN second = ISTR subject_type = march }
     dependency = { first = HUN second = SZEN subject_type = vassal }
 
     #Rughan Empire
-    dependency = { first = ERRB second = MSGT subject_type = vassal }
-    dependency = { first = ERRB second = ALB subject_type = vassal }
+    ##Marches
+    dependency = { first = ERRB second = MSGT subject_type = march }
+    dependency = { first = ERRB second = ALB subject_type = march }
+    ##Vassals
     dependency = { first = ERRB second = ACH subject_type = vassal }
+    ##Tributaries
+    ###Princes
+    dependency = { first = ERRB second = OPTI subject_type = tributary }
+    dependency = { first = ERRB second = OPSI subject_type = tributary }
+    dependency = { first = ERRB second = AIGA subject_type = tributary }
+    dependency = { first = ERRB second = UGIN subject_type = tributary }
+    dependency = { first = ERRB second = PARG subject_type = tributary }
+    ###Anatolians
+    dependency = { first = ERRB second = MYSI subject_type = tributary }
+    dependency = { first = ERRB second = LYDI subject_type = tributary }
+    ###Valachs
+    dependency = { first = ERRB second = LHND subject_type = tributary }
+    dependency = { first = ERRB second = MSCP subject_type = tributary }
+    dependency = { first = ERRB second = GRBN subject_type = tributary }
+    dependency = { first = ERRB second = AMNC subject_type = tributary }
+    dependency = { first = ERRB second = CRPS subject_type = tributary }
+    dependency = { first = ERRB second = DADI subject_type = tributary }
+    dependency = { first = ERRB second = EVRP subject_type = tributary }
+    dependency = { first = ERRB second = ARGL subject_type = tributary }
+    dependency = { first = ERRB second = LCDM subject_type = tributary }
+    dependency = { first = ERRB second = LYDI subject_type = tributary }
 
     #Dumnonia
     dependency = { first = HUN second = KUNS subject_type = vassal }
@@ -37,12 +64,104 @@ diplomacy_manager = {
     dependency = { first = PCCE second = FDCH subject_type = vassal }
 	
 	#Thai
+    ##Thai Princes
     dependency = { first = SRTR second = KZLK subject_type = vassal }
     dependency = { first = SRTR second = NLLI subject_type = vassal }
     dependency = { first = SRTR second = HARG subject_type = vassal }
     dependency = { first = SRTR second = KAPA subject_type = vassal }
     dependency = { first = SRTR second = AFSI subject_type = vassal }
+    dependency = { first = SRTR second = ONGT subject_type = vassal }
+    dependency = { first = SRTR second = KANL subject_type = vassal }
+    dependency = { first = SRTR second = THOS subject_type = vassal }
+    dependency = { first = SRTR second = PHML subject_type = vassal }
+    ##Anatolian Vassals and Tributaries
     dependency = { first = SRTR second = PAPH subject_type = vassal }
-	
+    dependency = { first = SRTR second = MSHT subject_type = vassal }
+    dependency = { first = SRTR second = MITI subject_type = tributary }
+    ###Isaurian Vassals
+    dependency = { first = SRTR second = TRKD subject_type = vassal }
+    dependency = { first = SRTR second = OADA subject_type = vassal }
+    dependency = { first = SRTR second = MOAS subject_type = vassal }
+    dependency = { first = SRTR second = TRSS subject_type = vassal }
+    dependency = { first = SRTR second = KODE subject_type = vassal }
+    ###Marches
+    dependency = { first = SRTR second = KRLK subject_type = march }
+    ##Greek Tributaries
+    dependency = { first = SRTR second = SNOP subject_type = tributary }
 
+    #Smyrna
+    dependency = { first = SMY second = PHIL subject_type = vassal }
+    dependency = { first = SMY second = MLTS subject_type = vassal }
+    dependency = { first = SMY second = NSIT subject_type = tributary }
+    dependency = { first = SMY second = MYRN subject_type = tributary }
+
+    #Smyrna-Italia Alliance
+    scripted_mutual = { first = SMY second = BZIT type = alliance }
+	
+    #Dölshka
+    dependency = { first = DLSK second = INWA subject_type = tributary }
+    dependency = { first = DLSK second = DRKM subject_type = tributary }
+    dependency = { first = DLSK second = ISHT subject_type = tributary }
+    dependency = { first = DLSK second = UPKA subject_type = tributary }
+    dependency = { first = DLSK second = KARL subject_type = tributary }
+    #Tubilka dependency = { first = DLSK second = INWA subject_type = tributary }
+    #Yalgnkhotia dependency = { first = DLSK second = INWA subject_type = tributary }
+    #Koklyak dependency = { first = DLSK second = INWA subject_type = tributary }
+    #Olgharid dependency = { first = DLSK second = INWA subject_type = tributary }
+    ##Allies
+    scripted_mutual = { first = DLSK second = UDMR type = alliance }
+
+    #Parthia
+    dependency = { first = PARTH second = CIBR subject_type = vassal }
+    dependency = { first = PARTH second = ARRN subject_type = fiefdom }
+    dependency = { first = PARTH second = SRV subject_type = vassal }
+
+    #Abkhazia
+    dependency = { first = GEO second = LAZO subject_type = fiefdom }
+
+    #Poland
+    ##Vassals
+    dependency = { first = POL second = STE subject_type = vassal }
+    dependency = { first = POL second = KMM subject_type = vassal }
+    ##Tributaries
+    dependency = { first = POL second = STDR subject_type = tributary }
+    dependency = { first = POL second = WOL subject_type = tributary }
+    dependency = { first = POL second = KSHB subject_type = tributary }
+    ##Marches
+    dependency = { first = POL second = SOR subject_type = march }
+
+    #Osorszag
+    dependency = { first = OSZG second = BLSB subject_type = vassal }
+
+    #Maavald
+    ##Vassals
+    dependency = { first = EST second = LIIV subject_type = vassal }
+    dependency = { first = EST second = KUOL subject_type = vassal }
+    dependency = { first = EST second = KRMO subject_type = vassal }
+    dependency = { first = EST second = VANT subject_type = vassal }
+    dependency = { first = EST second = RIG subject_type = vassal }
+    dependency = { first = EST second = LIEP subject_type = vassal }
+    dependency = { first = EST second = UDMO subject_type = vassal }
+    ##Tributaries
+    dependency = { first = EST second = TRKT subject_type = tributary }
+    ##Marches
+    dependency = { first = EST second = ILMR subject_type = march }
+    dependency = { first = EST second = KAUR subject_type = march }
+    dependency = { first = EST second = VAIN subject_type = march }
+    dependency = { first = EST second = TVNG subject_type = march }
+
+    #Frisia
+    ##Allies
+    scripted_mutual = { first = FRI second = LUN type = alliance }
+    scripted_mutual = { first = FRI second = MUN type = alliance }
+
+    #Tsarzhadar
+    ##Tributary
+    dependency = { first = TSZH second = TRGD subject_type = tributary}
+
+    #Etelkoz-Volgymi Alliance
+    scripted_mutual = { first = ETLK second = VLGM type = alliance }
+
+    #Cantabrian-HRE Protection
+    scripted_oneway = { first = FRA second = CNTB type = guarantee }
 }
