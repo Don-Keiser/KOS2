@@ -226,6 +226,7 @@ french_language = {
 		burgundian_dialect = {}
 		angevin_dialect = {}
 		francique_dialect = {}
+		transylvanian_francique_dialect = {}
 		poitevin_dialect = {}
 		arpitan_dialect = {}
 	}

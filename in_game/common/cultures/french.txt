@@ -118,6 +118,24 @@ francique = {
 	}
 }
 
+transylvanian_frank = {
+	language = francique_dialect
+	
+	color = map_transylvanian_frank
+	
+	tags = { french_gfx western_european_gfx european_gfx }
+
+	opinions = {
+		french = kindred
+	}
+	
+	culture_groups = {
+		french_group
+		german_group
+		carpathian_group
+	}
+}
+
 champenais = {
 	language = francique_dialect
 	
