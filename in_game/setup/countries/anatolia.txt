@@ -129,6 +129,18 @@ MLTS = {
 	culture_definition = greek_culture
 	religion_definition = orthodox
 }
+HLKN = {
+	color = rgb { 165 219 209 }
+
+	culture_definition = greek_culture
+	religion_definition = orthodox
+}
+RHOD = {
+	color = rgb { 124 199 189 }
+
+	culture_definition = greek_culture
+	religion_definition = orthodox
+}
 PHIL = {
 	color = rgb { 153 147 191 }
 

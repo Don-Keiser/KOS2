@@ -544,7 +544,12 @@ countries = {
          include = "expl_silk_road_center"
          include = "expl_silk_road_east"
          include = "expl_indian_trade_route"
-       }
+
+         government = {
+            type = monarchy
+            ruler = random
+          }
+      }
       AGC = {
          capital = augsburg
          country_rank = rank_county
@@ -16912,7 +16917,12 @@ countries = {
          include = "expl_silk_road_center"
          include = "expl_silk_road_east"
          include = "expl_indian_trade_route"
-       }
+
+         government = {
+            type = monarchy
+            ruler = random
+          }
+      }
       HAT = {
          type = pop
          country_rank = rank_county
@@ -17677,6 +17687,25 @@ countries = {
          }
 
          government = {
+            ruler = random
+          }
+      }
+      HLKN = {
+         capital = bodrum
+         country_rank = rank_county
+
+         own_control_core = {
+            kos bodrum
+         }
+
+         include = "expl_mediterranean"
+         include = "expl_silk_road_west"
+         include = "expl_silk_road_center"
+         include = "expl_silk_road_east"
+         include = "expl_indian_trade_route"
+
+         government = {
+            type = republic
             ruler = random
           }
       }
@@ -21199,7 +21228,12 @@ countries = {
          include = "expl_silk_road_center"
          include = "expl_silk_road_east"
          include = "expl_indian_trade_route"
-       }
+
+         government = {
+            type = monarchy
+            ruler = random
+          }
+      }
       KAQ = {
          capital = kakol_kiej
          court_language = maya_language
@@ -24088,7 +24122,7 @@ countries = {
          country_rank = rank_duchy
 
          own_control_core = {
-            finike golhisar megri kas elmali yuksekkum tavas gokabat marmaris
+            finike golhisar megri kas elmali yuksekkum tavas gokabat
          }
 
          include = "expl_mediterranean"
@@ -30218,7 +30252,7 @@ countries = {
          country_rank = rank_county
 
          own_control_core = {
-            balat
+            balat chios cesme ikaria samos
          }
 
          include = "expl_mediterranean"
@@ -40976,6 +41010,25 @@ countries = {
             ruler = random
           }
       }
+      RHOD = {
+         capital = rodos
+         country_rank = rank_county
+
+         own_control_core = {
+            marmaris rodos
+         }
+
+         include = "expl_mediterranean"
+         include = "expl_silk_road_west"
+         include = "expl_silk_road_center"
+         include = "expl_silk_road_east"
+         include = "expl_indian_trade_route"
+
+         government = {
+            type = monarchy
+            ruler = random
+          }
+      }
       RIE = {
          capital = lohr
 
@@ -44131,9 +44184,8 @@ countries = {
          country_rank = rank_kingdom
 
          own_control_core = {
-            smyrna ayasuluk cesme menemen urla tire alasehir birgi cine guzelhisar
-            milas nazilli manisa foca mugla bodrum chios samos ikaria kos
-            rodos
+            smyrna ayasuluk menemen urla tire alasehir birgi cine guzelhisar milas
+            nazilli manisa foca mugla
          }
 
          include = "expl_mediterranean"

@@ -91,9 +91,16 @@ diplomacy_manager = {
 
     #Smyrna
     dependency = { first = SMY second = PHIL subject_type = vassal }
-    dependency = { first = SMY second = MLTS subject_type = vassal }
+    dependency = { first = SMY second = MLTS subject_type = tributary }
+    dependency = { first = SMY second = HLKN subject_type = tributary }
+    dependency = { first = SMY second = RHOD subject_type = tributary }
     dependency = { first = SMY second = NSIT subject_type = tributary }
     dependency = { first = SMY second = MYRN subject_type = tributary }
+
+    #League thing
+    scripted_mutual = { first = MLTS second = HLKN type = alliance }
+    scripted_mutual = { first = MLTS second = RHOD type = alliance }
+    scripted_mutual = { first = HLKN second = RHOD type = alliance }
 
     #Smyrna-Italia Alliance
     scripted_mutual = { first = SMY second = BZIT type = alliance }
