@@ -9498,9 +9498,9 @@ locations = {
       define_pop  = {  type = peasants  culture = german_carpathian religion = catholic size = 0.734 }
    }
    szolnok = {
-      define_pop  = {  type = clergy  culture = hungarian religion = catholic size = 0.008 }
-      define_pop  = {  type = peasants  culture = hungarian religion = catholic size = 13.191 }
-      define_pop  = {  type = peasants  culture = cuman_culture religion = catholic size = 2.327 }
+      define_pop  = {  type = peasants  culture = hungarian religion = orthodox size = 12.734 }
+      define_pop  = {  type = peasants  culture = jasz_culture religion = orthodox size = 1.038 }
+      define_pop  = {  type = peasants  culture = jasz_culture religion = alan_paganism size = 1.754 }
    }
    sopron = {
       define_pop  = {  type = nobles  culture = ezusteszak religion = vulgar_catholic size = 0.014 }
@@ -9554,20 +9554,29 @@ locations = {
       define_pop  = {  type = peasants  culture = osmagyar religion = vulgar_catholic size = 1.953 }
    }
    uzhorod = {
-      define_pop  = {  type = clergy  culture = rusyn_culture religion = orthodox size = 0.008 }
-      define_pop  = {  type = peasants  culture = rusyn_culture religion = orthodox size = 6.099 }
-      define_pop  = {  type = peasants  culture = slovak religion = catholic size = 1.662 }
-      define_pop  = {  type = peasants  culture = hungarian religion = catholic size = 3.326 }
+      define_pop  = {  type = peasants  culture = juhasian religion = catholic size = 4.507 }
+      define_pop  = {  type = peasants  culture = jasz_culture religion = catholic size = 0.838 }
+      define_pop  = {  type = peasants  culture = jasz_culture religion = alan_paganism size = 1.042 }
+      define_pop  = {  type = peasants  culture = jasz_culture religion = orthodox size = 0.442 }
+      define_pop  = {  type = peasants  culture = hungarian religion = orthodox size = 4.225 }
+      define_pop  = {  type = peasants  culture = szekely_culture religion = orthodox size = 1.266 }
+      define_pop  = {  type = peasants  culture = ezusteszak religion = vulgar_catholic size = 1.775 }
    }
    turna = {
-      define_pop  = {  type = clergy  culture = hungarian religion = catholic size = 0.008 }
-      define_pop  = {  type = peasants  culture = slovak religion = catholic size = 1.379 }
-      define_pop  = {  type = peasants  culture = hungarian religion = catholic size = 6.908 }
+      define_pop  = {  type = peasants  culture = hungarian religion = orthodox size = 5.097 }
+      define_pop  = {  type = peasants  culture = jasz_culture religion = orthodox size = 0.317 }
+      define_pop  = {  type = peasants  culture = jasz_culture religion = alan_paganism size = 0.277 }
+      define_pop  = {  type = peasants  culture = ezusteszak religion = vulgar_catholic size = 1.140 }
+      define_pop  = {  type = peasants  culture = juhasian religion = catholic size = 1.464 }
    }
    zemplin = {
-      define_pop  = {  type = clergy  culture = hungarian religion = catholic size = 0.008 }
-      define_pop  = {  type = peasants  culture = hungarian religion = catholic size = 9.404 }
-      define_pop  = {  type = peasants  culture = slovak religion = catholic size = 4.702 }
+      define_pop  = {  type = peasants  culture = hungarian religion = orthodox size = 4.755 }
+      define_pop  = {  type = peasants  culture = jasz_culture religion = orthodox size = 0.578 }
+      define_pop  = {  type = peasants  culture = jasz_culture religion = catholic size = 0.595 }
+      define_pop  = {  type = peasants  culture = jasz_culture religion = alan_paganism size = 0.895 }
+      define_pop  = {  type = peasants  culture = juhasian religion = catholic size = 4.079 }
+      define_pop  = {  type = peasants  culture = ezusteszak religion = vulgar_catholic size = 2.499 }
+      define_pop  = {  type = peasants  culture = sorbian religion = vulgar_catholic size = 0.713 }
    }
    khust = {
       define_pop  = {  type = peasants  culture = juhasian religion = catholic size = 3.661 }
@@ -9592,9 +9601,9 @@ locations = {
       define_pop  = {  type = peasants  culture = hungarian religion = orthodox size = 1.006 }
    }
    bihar = {
-      define_pop  = {  type = clergy  culture = hungarian religion = catholic size = 0.009 }
-      define_pop  = {  type = peasants  culture = transylvanian religion = orthodox size = 4.260 }
-      define_pop  = {  type = peasants  culture = hungarian religion = catholic size = 17.050 }
+      define_pop  = {  type = peasants  culture = hungarian religion = orthodox size = 12.366 }
+      define_pop  = {  type = peasants  culture = szekely_culture religion = orthodox size = 6.431 }
+      define_pop  = {  type = peasants  culture = juhasian religion = catholic size = 2.522 }
    }
    arad = {
       define_pop  = {  type = peasants  culture = hungarian religion = orthodox size = 8.676 }
@@ -9615,15 +9624,16 @@ locations = {
       define_pop  = {  type = peasants  culture = juhasian religion = catholic size = 1.178 }
    }
    kosice = {
-      define_pop  = {  type = nobles  culture = hungarian religion = catholic size = 0.014 }
-      define_pop  = {  type = clergy  culture = hungarian religion = catholic size = 0.080 }
-      define_pop  = {  type = burghers  culture = hungarian religion = catholic size = 1.512 }
-      define_pop  = {  type = peasants  culture = slovak religion = catholic size = 1.955 }
-      define_pop  = {  type = peasants  culture = hungarian religion = catholic size = 15.710 }
+      define_pop  = {  type = peasants  culture = hungarian religion = orthodox size = 8.812 }
+      define_pop  = {  type = peasants  culture = jasz_culture religion = orthodox size = 0.412 }
+      define_pop  = {  type = peasants  culture = juhasian religion = catholic size = 2.643 }
+      define_pop  = {  type = peasants  culture = transylvanian_frank religion = catholic size = 0.836 }
+      define_pop  = {  type = peasants  culture = ezusteszak religion = vulgar_catholic size = 4.350 }
+      define_pop  = {  type = peasants  culture = sorbian religion = vulgar_catholic size = 1.207 }
+      define_pop  = {  type = peasants  culture = jasz_culture religion = alan_paganism size = 1.011 }
    }
    szeged = {
-      define_pop  = {  type = clergy  culture = hungarian religion = catholic size = 0.008 }
-      define_pop  = {  type = peasants  culture = hungarian religion = catholic size = 22.941 }
+      define_pop  = {  type = peasants  culture = hungarian religion = orthodox size = 22.949 }
    }
    sic = {
       define_pop  = {  type = peasants  culture = szekely_culture religion = orthodox size = 12.987 }
@@ -9637,9 +9647,8 @@ locations = {
       define_pop  = {  type = peasants  culture = szekely_culture religion = orthodox size = 3.650 }
    }
    zarand = {
-      define_pop  = {  type = clergy  culture = hungarian religion = catholic size = 0.009 }
-      define_pop  = {  type = peasants  culture = transylvanian religion = orthodox size = 3.552 }
-      define_pop  = {  type = peasants  culture = hungarian religion = catholic size = 14.219 }
+      define_pop  = {  type = peasants  culture = hungarian religion = orthodox size = 15.236 }
+      define_pop  = {  type = peasants  culture = juhasian religion = catholic size = 2.544 }
    }
    nitra = {
       define_pop  = {  type = clergy  culture = ezusteszak religion = vulgar_catholic size = 0.008 }
@@ -9719,8 +9728,9 @@ locations = {
       define_pop  = {  type = peasants  culture = hungarian religion = orthodox size = 4.495 }
    }
    nagykallo = {
-      define_pop  = {  type = clergy  culture = hungarian religion = catholic size = 0.008 }
-      define_pop  = {  type = peasants  culture = hungarian religion = catholic size = 11.130 }
+      define_pop  = {  type = peasants  culture = hungarian religion = orthodox size = 8.861 }
+      define_pop  = {  type = peasants  culture = jasz_culture religion = orthodox size = 0.524 }
+      define_pop  = {  type = peasants  culture = jasz_culture religion = alan_paganism size = 1.753 }
    }
    esztergom = {
       define_pop  = {  type = clergy  culture = hungarian religion = catholic size = 0.008 }
@@ -9768,8 +9778,9 @@ locations = {
       define_pop  = {  type = peasants  culture = transylvanian_frank religion = catholic size = 0.775 }
    }
    nagyboszormeny = {
-      define_pop  = {  type = clergy  culture = hungarian religion = catholic size = 0.008 }
-      define_pop  = {  type = peasants  culture = hungarian religion = catholic size = 11.698 }
+      define_pop  = {  type = peasants  culture = hungarian religion = orthodox size = 8.445 }
+      define_pop  = {  type = peasants  culture = kunsag religion = orthodox size = 0.228 }
+      define_pop  = {  type = peasants  culture = kunsag religion = jayayan_zalmukh size = 3.033 }
    }
    lugoj = {
       define_pop  = {  type = peasants  culture = kunsag religion = orthodox size = 1.125 }
@@ -9799,8 +9810,10 @@ locations = {
       define_pop  = {  type = peasants  culture = jasz_culture religion = alan_paganism size = 1.052 }
    }
    karcag = {
-      define_pop  = {  type = clergy  culture = hungarian religion = orthodox size = 0.008 }
-      define_pop  = {  type = peasants  culture = hungarian religion = catholic size = 11.143 }
+      define_pop  = {  type = peasants  culture = hungarian religion = orthodox size = 6.561 }
+      define_pop  = {  type = peasants  culture = hungarian religion = jayayan_zalmukh size = 1.075 }
+      define_pop  = {  type = peasants  culture = kunsag religion = jayayan_zalmukh size = 9.538 }
+      define_pop  = {  type = peasants  culture = kunsag religion = orthodox size = 0.977 }
    }
    felvint = {
       define_pop  = {  type = peasants  culture = szekely_culture religion = orthodox size = 5.978 }
@@ -9835,8 +9848,9 @@ locations = {
       define_pop  = {  type = peasants  culture = aromanian religion = catholic size = 1.636 }
    }
    bekes = {
-      define_pop  = {  type = clergy  culture = hungarian religion = catholic size = 0.008 }
-      define_pop  = {  type = peasants  culture = hungarian religion = catholic size = 13.244 }
+      define_pop  = {  type = peasants  culture = hungarian religion = orthodox size = 11.464 }
+      define_pop  = {  type = peasants  culture = kunsag religion = orthodox size = 0.577 }
+      define_pop  = {  type = peasants  culture = kunsag religion = jayayan_zalmukh size = 1.211 }
    }
    hateg = {
       define_pop  = {  type = peasants  culture = transylvanian_frank religion = catholic size = 0.598 }
@@ -9867,9 +9881,13 @@ locations = {
       define_pop  = {  type = peasants  culture = transylvanian_frank religion = catholic size = 1.848 }
    }
    beregovo = {
-      define_pop  = {  type = clergy  culture = rusyn_culture religion = orthodox size = 0.008 }
-      define_pop  = {  type = peasants  culture = rusyn_culture religion = orthodox size = 6.165 }
-      define_pop  = {  type = peasants  culture = hungarian religion = catholic size = 4.109 }
+      define_pop  = {  type = peasants  culture = juhasian religion = catholic size = 3.660 }
+      define_pop  = {  type = peasants  culture = jasz_culture religion = catholic size = 0.315 }
+      define_pop  = {  type = peasants  culture = jasz_culture religion = alan_paganism size = 0.783 }
+      define_pop  = {  type = peasants  culture = jasz_culture religion = orthodox size = 0.625 }
+      define_pop  = {  type = peasants  culture = hungarian religion = orthodox size = 3.173 }
+      define_pop  = {  type = peasants  culture = szekely_culture religion = orthodox size = 1.313 }
+      define_pop  = {  type = peasants  culture = ezusteszak religion = vulgar_catholic size = 0.413 }
    }
    alba_iulia = {
       define_pop  = {  type = peasants  culture = szekely_culture religion = orthodox size = 12.660 }
@@ -9906,8 +9924,8 @@ locations = {
       define_pop  = {  type = peasants  culture = juhasian religion = catholic size = 2.295 }
    }
    debrecen = {
-      define_pop  = {  type = clergy  culture = hungarian religion = catholic size = 0.009 }
-      define_pop  = {  type = peasants  culture = hungarian religion = catholic size = 22.141 }
+      define_pop  = {  type = peasants  culture = hungarian religion = orthodox size = 20.254 }
+      define_pop  = {  type = peasants  culture = kunsag religion = jayayan_zalmukh size = 1.896 }
    }
    medias = {
       define_pop  = {  type = peasants  culture = transylvanian_frank religion = catholic size = 6.709 }
@@ -9947,8 +9965,8 @@ locations = {
       define_pop  = {  type = peasants  culture = juhasian religion = catholic size = 1.654 }
    }
    varda = {
-      define_pop  = {  type = clergy  culture = hungarian religion = catholic size = 0.008 }
-      define_pop  = {  type = peasants  culture = hungarian religion = catholic size = 11.463 }
+      define_pop  = {  type = peasants  culture = hungarian religion = orthodox size = 10.764 }
+      define_pop  = {  type = peasants  culture = juhasian religion = catholic size = 0.707 }
    }
    odorhei = {
       define_pop  = {  type = peasants  culture = szekely_culture religion = orthodox size = 10.639 }
@@ -10352,19 +10370,22 @@ locations = {
       define_pop  = {  type = peasants  culture = juhasian religion = catholic size = 4.274 }
    }
    ineu = {
-      define_pop  = {  type = clergy  culture = hungarian religion = catholic size = 0.009 }
-      define_pop  = {  type = peasants  culture = transylvanian religion = orthodox size = 3.811 }
-      define_pop  = {  type = peasants  culture = hungarian religion = catholic size = 15.252 }
+      define_pop  = {  type = peasants  culture = hungarian religion = orthodox size = 14.929 }
+      define_pop  = {  type = peasants  culture = szekely_culture religion = orthodox size = 1.606 }
+      define_pop  = {  type = peasants  culture = juhasian religion = catholic size = 2.537 }
    }
    cheresig = {
-      define_pop  = {  type = clergy  culture = hungarian religion = catholic size = 0.009 }
-      define_pop  = {  type = peasants  culture = transylvanian religion = orthodox size = 4.674 }
-      define_pop  = {  type = peasants  culture = hungarian religion = catholic size = 18.707 }
+      define_pop  = {  type = peasants  culture = hungarian religion = orthodox size = 16.725 }
+      define_pop  = {  type = peasants  culture = szekely_culture religion = orthodox size = 1.292 }
+      define_pop  = {  type = peasants  culture = juhasian religion = catholic size = 2.690 }
+      define_pop  = {  type = peasants  culture = transylvanian_frank religion = catholic size = 0.892 }
+      define_pop  = {  type = peasants  culture = jasz_culture religion = alan_paganism size = 1.791 }
    }
    oradea = {
-      define_pop  = {  type = clergy  culture = hungarian religion = catholic size = 0.009 }
-      define_pop  = {  type = peasants  culture = transylvanian religion = orthodox size = 4.425 }
-      define_pop  = {  type = peasants  culture = hungarian religion = catholic size = 17.713 }
+      define_pop  = {  type = peasants  culture = hungarian religion = orthodox size = 13.865 }
+      define_pop  = {  type = peasants  culture = szekely_culture religion = orthodox size = 5.441 }
+      define_pop  = {  type = peasants  culture = juhasian religion = catholic size = 1.724 }
+      define_pop  = {  type = peasants  culture = transylvanian_frank religion = catholic size = 1.117 }
    }
    aiud = {
       define_pop  = {  type = peasants  culture = szekely_culture religion = orthodox size = 13.517 }
@@ -10373,8 +10394,9 @@ locations = {
       define_pop  = {  type = peasants  culture = transylvanian_frank religion = catholic size = 3.486 }
    }
    carei = {
-      define_pop  = {  type = clergy  culture = hungarian religion = catholic size = 0.008 }
-      define_pop  = {  type = peasants  culture = hungarian religion = catholic size = 10.171 }
+      define_pop  = {  type = peasants  culture = hungarian religion = orthodox size = 6.685 }
+      define_pop  = {  type = peasants  culture = szekely_culture religion = orthodox size = 2.576 }
+      define_pop  = {  type = peasants  culture = juhasian religion = catholic size = 0.918 }
    }
    hodod = {
       define_pop  = {  type = peasants  culture = hungarian religion = orthodox size = 5.547 }
@@ -10632,9 +10654,13 @@ locations = {
       define_pop  = {  type = peasants  culture = osmagyar religion = vulgar_catholic size = 0.650 }
    }
    mukachevo = {
-      define_pop  = {  type = clergy  culture = rusyn_culture religion = orthodox size = 0.008 }
-      define_pop  = {  type = peasants  culture = rusyn_culture religion = orthodox size = 5.694 }
-      define_pop  = {  type = peasants  culture = hungarian religion = catholic size = 3.794 }
+      define_pop  = {  type = peasants  culture = juhasian religion = catholic size = 4.586 }
+      define_pop  = {  type = peasants  culture = jasz_culture religion = catholic size = 0.380 }
+      define_pop  = {  type = peasants  culture = jasz_culture religion = orthodox size = 0.290 }
+      define_pop  = {  type = peasants  culture = jasz_culture religion = alan_paganism size = 0.697 }
+      define_pop  = {  type = peasants  culture = hungarian religion = orthodox size = 2.358 }
+      define_pop  = {  type = peasants  culture = szekely_culture religion = orthodox size = 0.798 }
+      define_pop  = {  type = peasants  culture = ezusteszak religion = vulgar_catholic size = 0.387 }
    }
    mezhorje = {
       define_pop  = {  type = peasants  culture = juhasian religion = catholic size = 3.068 }
@@ -10701,8 +10727,9 @@ locations = {
       define_pop  = {  type = peasants  culture = german_carpathian religion = catholic size = 1.760 }
    }
    nagyecsed = {
-      define_pop  = {  type = clergy  culture = hungarian religion = catholic size = 0.008 }
-      define_pop  = {  type = peasants  culture = hungarian religion = catholic size = 12.510 }
+      define_pop  = {  type = peasants  culture = hungarian religion = orthodox size = 7.460 }
+      define_pop  = {  type = peasants  culture = szekely_culture religion = orthodox size = 3.369 }
+      define_pop  = {  type = peasants  culture = juhasian religion = catholic size = 1.689 }
    }
    gonc = {
       define_pop  = {  type = clergy  culture = hungarian religion = catholic size = 0.008 }
@@ -10720,8 +10747,9 @@ locations = {
       define_pop  = {  type = peasants  culture = hungarian religion = catholic size = 19.394 }
    }
    szabolcs = {
-      define_pop  = {  type = clergy  culture = hungarian religion = catholic size = 0.008 }
-      define_pop  = {  type = peasants  culture = hungarian religion = catholic size = 12.490 }
+      define_pop  = {  type = peasants  culture = hungarian religion = orthodox size = 11.441 }
+      define_pop  = {  type = peasants  culture = jasz_culture religion = orthodox size = 0.768 }
+      define_pop  = {  type = peasants  culture = jasz_culture religion = alan_paganism size = 0.289 }
    }
    nograd = {
       define_pop  = {  type = clergy  culture = hungarian religion = catholic size = 0.008 }
@@ -10733,16 +10761,19 @@ locations = {
       define_pop  = {  type = peasants  culture = hungarian religion = catholic size = 22.695 }
    }
    hajduszoboszlo = {
-      define_pop  = {  type = clergy  culture = hungarian religion = catholic size = 0.008 }
-      define_pop  = {  type = peasants  culture = hungarian religion = catholic size = 14.463 }
+      define_pop  = {  type = peasants  culture = hungarian religion = orthodox size = 9.780 }
+      define_pop  = {  type = peasants  culture = kunsag religion = orthodox size = 4.287 }
+      define_pop  = {  type = peasants  culture = kunsag religion = jayayan_zalmukh size = 0.404 }
    }
    szarvas = {
-      define_pop  = {  type = clergy  culture = hungarian religion = catholic size = 0.008 }
-      define_pop  = {  type = peasants  culture = hungarian religion = catholic size = 12.513 }
+      define_pop  = {  type = peasants  culture = hungarian religion = orthodox size = 11.109 }
+      define_pop  = {  type = peasants  culture = jasz_culture religion = orthodox size = 0.431 }
+      define_pop  = {  type = peasants  culture = kunsag religion = orthodox size = 0.370 }
+      define_pop  = {  type = peasants  culture = kunsag religion = jayayan_zalmukh size = 0.611 }
    }
    mako = {
-      define_pop  = {  type = clergy  culture = hungarian religion = catholic size = 0.008 }
-      define_pop  = {  type = peasants  culture = hungarian religion = catholic size = 28.115 }
+      define_pop  = {  type = peasants  culture = hungarian religion = orthodox size = 27.400 }
+      define_pop  = {  type = peasants  culture = jasz_culture religion = alan_paganism size = 0.723 }
    }
    adony = {
       define_pop  = {  type = clergy  culture = hungarian religion = orthodox size = 0.008 }
