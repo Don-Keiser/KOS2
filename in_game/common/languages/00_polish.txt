@@ -182,6 +182,7 @@ czechslovak_language = {
 		czech_dialect = {}
 		slovak_dialect = {}
 		sorbian_dialect = {}
+		banoserb_dialect = {}
 	}
 	
 	location_prefix = "location_prefix_czech"

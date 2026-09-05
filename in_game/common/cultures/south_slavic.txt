@@ -72,6 +72,26 @@ serbian = {
 	}
 }
 
+banoserb = {
+	language = banoserb_dialect
+	
+	color = map_banoserb
+	
+	tags = { south_slavic_gfx east_mediterranean_gfx mediterranean_gfx slavic_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+		patzinak = negative
+		hungarian = positive
+		albanian = positive
+		aranydeli = positive
+	}
+	culture_groups = {
+		slavic_group
+		south_slavic_group
+		carpathian_group
+	}
+}
+
 sclavene = { 
 	language = serbian_dialect
 	
