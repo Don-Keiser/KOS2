@@ -845,6 +845,16 @@ shekhawati = {
 		mewati = positive
 		bagri = positive
 	}
-	
 }
 
+atsingani = {
+	language = atsingani_language
+	
+	color = map_atsingani
+	
+	tags = { indian_gfx }
+
+	culture_groups = {
+		indo_aryan_group
+	}
+}

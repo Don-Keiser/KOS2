@@ -174,6 +174,112 @@ rajasthani_language = { #Including Marwari, Mewari, Harauti, Shekhawati, etc
 	}
 }
 
+atsingani_language = { 
+	color = map_atsingani_language
+
+	family = indic_language_family
+	
+	male_names = {
+		name_udai.name_singh name_amar.name_singh name_lakha name_mokal name_kumbha name_raimal name_sangha name_ratan.name_singh name_karan name_hammir name_natwar
+		name_jawan name_bhawani name_naryan name_ballu
+		
+		Achalraj Achalraja Adhandev Adityadeva Ajmal Alsi name_amir Anangpal Anangpala Anupapala
+		Anuppal Apara_Gangeya Arjunpal Arjunpala Arjunavarman Bacchdev Bachraj Baghpal
+		Baghpala Bahadur-Singh Beejpal Beejpala Bhaadar Bhilpala Bhoj Bhoja Bhojavarman
+		Bhopal Bhumpal Bhumpala Birpal Birpala Bisaldeva Brahmadeva Brahmapala Brahmdevpal name_chand Devapala
+		Devavarman Dhanga Dhangadeva Dharmapala Dhaulshaya Dilipapala Dilippal Doth Draupad
+		Draupada Dugarendra Gambhir Ganapatideva Gandadeva Gangeya Ghatamdeva Gopal Gopala Govindachandra
+		Govindaraja Govindraj Hamir Hammiravarman Harpal Harsa Harshapala Hirapal
+		Hirapala Indrapal Indrapala Ishtpala Jaganpal Jaganpala Jagatpal
+		Jagatpala Jagdev Jagdeva Jaidas Jaipal Jaitugideva Jasapala Jaspal Jatanpal
+		Jatanpala Jayapala Jayasakti Jayasimha Jhetpal Jhetpala Junpala Kailaspal Kailaspala
+		Kalkurna Kalyanachandra Kakhopal Kakhopala Kamal Kanhad Kanvarpal Kanvarpala Karnpal Keeratdeva
+		Khadag Khetrapal Khetrapala Kiratpal Kiratpala Krishnray Krsnapa Kumarapala Kunwar
+		Kunwarpal Ladahachandra Lakshmandeva Lokpala Madanapala Madanavarman Maharana Mahendrapal Mahendrapala
+		Mahipal Mahipala Mahipata Mahlakadeva Mandandeva Mangaldeva Margdeva Mihira Nagapala Nagdeo Nannuka Naravarman
+		Narayanapala Narpal Nayapala Nihaal Nihalray Paramardideva Pavak Peepalraj Popatraj Pritampal Pritampala Prithipala
+		name_prithvi Prithvipal Prithviraj Prithviraja Prithvivarman Rahila Rajapala Rajyapala Ramabhadra
+		Ramachandra Rampal Rampala Rana Rangraj Rangraja Ratnapala Rijhpala Roshandeva Salivaahan
+		Sallaksanavarman Saugandeva Shurapala Sisupal Sisupala Sohanpal Somasi Someshvara Sonpal Sonpala
+		Srichandra Subhatavarman Sukhinpal Sukhinpala Sulakshanpal Sultanpal Sultanpala Surajpal
+		Surajpala Traillokyachandra Tejapala Tejpal Tolpal Trailokyavarman Trilochanpala Udayaditya Udaysangh Uddharandeva
+		Vachhal Vakpati Vapyata Varshapala Varshpal Vasudev Vidurathpal Vidurathpala Vidyadhara
+		Vigrahapala Vigraharaja Vihangpal Vijayapala Vijayasakti Vinayakapala Vindhyavarman Viramdeva name_vira.name_varman Virsinghadeva Yasovarman Abhayapala
+		Acharya Ahila Ajairaja Ajayapala Ajay-Singh Alhana Allat Amarangeya Ambra-Prasad Amritapala Anahilla Ari-Singh Arnoraja Asaraja
+		Asvapala Balaprasada Baliraja Bhatarka Bhert-Patt Bhima Bhimadeva Bhim-Singh Bhuvan-Singh Bhoo-Chand Chachiga Chamundaraja
+		Chandanaraja Chandraraja Chaud-Singh Dadda Dambarisimha Deopali-Deo Dharapatta Dharasena Dhruvasena Dinakarn Dronasinha Dungar-Singh
+		Durlabharaja Gajasimha Gopendraka Gopendraraja Govinda Govindapala Guhasena
+		Guvaka Hammira Hammir-Singh Hanspal Hariraja Harischandra Hemachandra Jagadeva Jaitrasimha Jaitra-Singh
+		Jaskarn Jayaraja Jay-Singh Jay-Singh-Deo Jayat-Singh Jayshikari Jendraraja
+		Jojalla Kalbhoj Kanhadadeva Karandeva Karan-Singh Karnadeva Katudeva Katukaraja Keerti-Verma Kelhana Kharagraha
+		Khuman Kirtipala Kirtivarman Kshemraja Kshem-Singh Kshetra-Singh Lakhanapala Lakhshaman-Singh Lakshmana
+		Lakshmanadeva Lakshmivarman Lavanyakarna Lunavarman Luntiga Mahap Mahayak Mahendra 
+		Manavasimha Mathan-Singh Mattat Mulraja Nagabhata Nagarjuna Nagraja Naradeva Narapati Naravarmandeva Nar-Verma
+		Narwahan Padam-Singh Prahladana Pratapa Prithivipala Purnpala Rahap Ramapala Rayapala Rudrapala
+		Sahajapala Sahanapala Samanta Samant-Singh Samantasimha Samarasimha Samar-Singh Shaliwahan Shuchi-Verma
+		Siladitya Sindhuraja Singhraja Sinha Sinhad-Deo Siyaka Sohiya Someshwara Suratrana Tejasimha Tej-Singh Tribhuvanapala Udayasimha
+		Udayavarman name_upendra Vagbhata Vahadiasimha Vairisimha Vairsingh Vajradeva Vakapati
+		Valhana Valhanadeva Vallabharaja Vanraja Vasudeva Vatsaraja Vijada-Dasasyandana
+		Vijai-Singh Vikramaditya Vinaykpala Virama Viradeva Viranarayana Virsinh-Deo Viryarama Xemraja Yograj
+	}
+	female_names = {
+		Akal Anantadevi Damayanti Dattadevi Dehanagadevi Dhruvadevi Dhruvasvamini Hemavati
+		Kakanvati Kalayandevi Kanchuka Kanwar Karmavati Kumaradevi Lakshman Maharani Mahidevi Nattadevi
+		Prabhavati Prabhavatigupta Prasadhanadevi Puppadevi Rajamati Sanyukta Shrimitradevi
+		Annaladevi Bauladevi Bhuyikadevi Candrabhattarikadevi Chachinidevi Delhanadevi Desaladevi
+		Hariyadevi Laxmidevi Madhavi Mahalakshmi Manaladevi Mayanalladevi Namalladevi Padmaladevi Padmini
+		Pratha Rasaladevi Rudaladevi Rudrani Rupadevi Samyukta Sidhawa Somalladevi Suhava Sundaridevi Tihunaka Udayamati
+	}
+	dynasty_names = {
+		Sisodiya
+		Rastraudha
+		Solanki
+		Kachwaha
+		Satnami
+		rathore_dynasty
+		Hada
+		chauhan_dynasty
+		Holkar
+		tomara_dynasty
+		jadeja_dynasty
+		Khirwara
+		Nauhwara
+		Sinsiniwar
+		Balhara
+		Panwara
+		Bargujar
+		Guhilot
+		Dahiya
+		chandela_dynasty
+		Vaghela
+		Pathan
+		Pragvata
+		Somavansha
+		Adityavansha
+		Chandravansha
+		Suryavansha
+		samma_dynasty
+		chudasama_dynasty
+		bhatti_dynasty
+		Sanchore
+		Gujar
+		Chhinda
+	}
+	lowborn = {
+		name_singh
+		Jat
+		name_devi
+		name_lal
+		Begam
+		name_meena
+		Gupta
+		Prakash
+		Agarwal
+		name_ram
+		name_chandra
+	}
+}
+
 
 gujarati_language = { #Includes Saurashtra, Vasavi, etc
 	color = map_gujarati_language

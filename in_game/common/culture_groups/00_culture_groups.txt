@@ -93,6 +93,9 @@ scythian_group = {
 balkan_group = {
 }
 
+thracian_group = {
+}
+
 german_group = {
 }
 

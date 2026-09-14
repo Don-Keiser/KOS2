@@ -617,6 +617,7 @@ colors = {
 	map_pahari_language = rgb { 186 123 125 }
 	map_punjabi_language = rgb { 147 98 51 }
 	map_rajasthani_language = rgb { 236 146 57 }
+	map_atsingani_language = rgb { 183 183 33 }
 	map_sindhi_language = rgb { 246 205 166 }
 	map_sinhala_language = rgb { 210 52 30 }
 	map_tamil_language = rgb { 202 224 179 }
@@ -669,6 +670,7 @@ colors = {
 	map_mewati = rgb { 210 192 174 }
 	map_nimadi = rgb { 231 203 53 }
 	map_shekhawati = rgb { 145 99 55 }
+	map_atsingani = rgb { 183 183 33 }
 	
 	map_brahui = rgb { 114 55 150 }
 	map_kurukh = rgb { 195 135 150 }
@@ -4284,5 +4286,7 @@ colors = {
 	map_polabe = rgb { 186 27 45 }
 	map_luzdenie = rgb { 186 27 154 }
 	map_gwletydunie = rgb { 157 27 176 }
+	#Thracian
+	map_bessian = rgb { 34 183 163 }
 }
 
