@@ -74632,8 +74632,9 @@ locations = {
       define_pop  = {  type = peasants  culture = aromanian religion = catholic size = 0.890 }
    }
    zemlungrad = {
-      define_pop  = {  type = clergy  culture = bulgarian religion = orthodox size = 0.009 }
-      define_pop  = {  type = peasants  culture = bulgarian religion = orthodox size = 16.091 }
+      define_pop  = {  type = peasants  culture = red_croat religion = orthodox size = 11.704 }
+      define_pop  = {  type = peasants  culture = rughan religion = orthodox size = 2.539 }
+      define_pop  = {  type = peasants  culture = rughan religion = mithraic_zalmoxis size = 1.857 }
    }
    glubocica = {
       define_pop  = {  type = peasants  culture = moesogothic religion = arian size = 14.130 }
@@ -74805,15 +74806,18 @@ locations = {
       define_pop  = {  type = peasants  culture = hungarian religion = orthodox size = 1.600 }
    }
    kythira = {
-      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 2.672 }
+      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 2.360 }
+      define_pop  = {  type = peasants  culture = tsakonian religion = orthodox size = 0.312 }
    }
    monemvasia = {
-      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 4.563 }
-      define_pop  = {  type = peasants  culture = atsingani religion = manichaeism size = 0.480 }
+      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 3.790 }
+      define_pop  = {  type = peasants  culture = atsingani religion = manichaeism size = 0.360 }
+      define_pop  = {  type = peasants  culture = tsakonian religion = orthodox size = 0.893 }
    }
    mystras = {
-      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 6.882 }
-      define_pop  = {  type = peasants  culture = atsingani religion = manichaeism size = 0.684 }
+      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 6.701 }
+      define_pop  = {  type = peasants  culture = atsingani religion = manichaeism size = 0.456 }
+      define_pop  = {  type = peasants  culture = tsakonian religion = orthodox size = 0.409 }
    }
    oitylo = {
       define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 2.877 }
@@ -74853,8 +74857,8 @@ locations = {
       define_pop  = {  type = peasants  culture = aromanian religion = orthodox size = 0.516 }
    }
    astros = {
-      define_pop  = {  type = clergy  culture = greek_culture religion = orthodox size = 0.010 }
-      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 5.782 }
+      define_pop  = {  type = peasants  culture = tsakonian religion = orthodox size = 5.171 }
+      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 0.621 }
    }
    tripolitsa = {
       define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 4.577 }
@@ -74952,24 +74956,26 @@ locations = {
       define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 8.632 }
    }
    eretreia = {
-      define_pop  = {  type = clergy  culture = greek_culture religion = orthodox size = 0.008 }
-      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 4.883 }
+      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 3.811 }
+      define_pop  = {  type = peasants  culture = bolghar_culture religion = orthodox size = 0.760 }
+      define_pop  = {  type = peasants  culture = atsingani religion = manichaeism size = 0.320 }
    }
    karystos = {
-      define_pop  = {  type = clergy  culture = greek_culture religion = orthodox size = 0.008 }
-      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 3.385 }
+      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 2.811 }
+      define_pop  = {  type = peasants  culture = bolghar_culture religion = orthodox size = 0.582 }
    }
    kymi = {
-      define_pop  = {  type = clergy  culture = greek_culture religion = orthodox size = 0.008 }
-      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 4.097 }
+      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 3.360 }
+      define_pop  = {  type = peasants  culture = bolghar_culture religion = orthodox size = 0.745 }
    }
    kleisoura = {
-      define_pop  = {  type = clergy  culture = greek_culture religion = orthodox size = 0.008 }
-      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 3.568 }
+      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 2.356 }
+      define_pop  = {  type = peasants  culture = bolghar_culture religion = orthodox size = 0.930 }
+      define_pop  = {  type = peasants  culture = atsingani religion = manichaeism size = 0.290 }
    }
    oreos = {
-      define_pop  = {  type = clergy  culture = greek_culture religion = orthodox size = 0.008 }
-      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 3.000 }
+      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 2.578 }
+      define_pop  = {  type = peasants  culture = bolghar_culture religion = orthodox size = 0.430 }
    }
    bodonitsa = {
       define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 4.576 }
@@ -75001,16 +75007,18 @@ locations = {
       define_pop  = {  type = peasants  culture = venetian religion = catholic size = 0.191 }
    }
    mykonos = {
-      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 1.615 }
-      define_pop  = {  type = peasants  culture = venetian religion = catholic size = 0.084 }
+      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 1.531 }
+      define_pop  = {  type = peasants  culture = atsingani religion = manichaeism size = 0.110 }
+      define_pop  = {  type = peasants  culture = bolghar_culture religion = orthodox size = 0.058 }
    }
    andros = {
-      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 1.944 }
-      define_pop  = {  type = peasants  culture = venetian religion = catholic size = 0.102 }
+      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 1.796 }
+      define_pop  = {  type = peasants  culture = atsingani religion = manichaeism size = 0.105 }
+      define_pop  = {  type = peasants  culture = bolghar_culture religion = orthodox size = 0.145 }
    }
    kythnos = {
-      define_pop  = {  type = clergy  culture = greek_culture religion = orthodox size = 0.008 }
-      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 2.143 }
+      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 2.039 }
+      define_pop  = {  type = peasants  culture = dalmatian religion = catholic size = 0.112 }
    }
    milos = {
       define_pop  = {  type = clergy  culture = venetian religion = orthodox size = 0.008 }
@@ -75046,8 +75054,9 @@ locations = {
       define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 22.107 }
    }
    sporades = {
-      define_pop  = {  type = clergy  culture = greek_culture religion = orthodox size = 0.010 }
-      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 2.583 }
+      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 2.226 }
+      define_pop  = {  type = peasants  culture = bolghar_culture religion = orthodox size = 0.085 }
+      define_pop  = {  type = peasants  culture = atsingani religion = manichaeism size = 0.310 }
    }
    elassona = {
       define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 8.017 }
@@ -75059,8 +75068,8 @@ locations = {
       define_pop  = {  type = peasants  culture = aromanian religion = catholic size = 1.904 }
    }
    stomio = {
-      define_pop  = {  type = clergy  culture = greek_culture religion = orthodox size = 0.010 }
-      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 4.452 }
+      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 3.972 }
+      define_pop  = {  type = peasants  culture = atsingani religion = manichaeism size = 0.490 }
    }
    ostrovo = {
       define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 1.287 }
@@ -75119,9 +75128,8 @@ locations = {
       define_pop  = {  type = peasants  culture = arvanite religion = catholic size = 0.972 }
    }
    servia = {
-      define_pop  = {  type = clergy  culture = greek_culture religion = orthodox size = 0.010 }
-      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 9.613 }
-      define_pop  = {  type = peasants  culture = bulgarian religion = orthodox size = 1.066 }
+      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 9.380 }
+      define_pop  = {  type = peasants  culture = aromanian religion = catholic size = 1.309 }
    }
    kastoria = {
       define_pop  = {  type = peasants  culture = aromanian religion = catholic size = 10.087 }
@@ -75133,46 +75141,46 @@ locations = {
       define_pop  = {  type = peasants  culture = red_croat religion = orthodox size = 0.878 }
    }
    hatera = {
-      define_pop  = {  type = clergy  culture = greek_culture religion = orthodox size = 0.010 }
-      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 12.625 }
-      define_pop  = {  type = peasants  culture = aromanian religion = orthodox size = 1.652 }
+      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 11.484 }
+      define_pop  = {  type = peasants  culture = aromanian religion = catholic size = 1.563 }
+      define_pop  = {  type = peasants  culture = atsingani religion = manichaeism size = 0.345 }
+      define_pop  = {  type = peasants  culture = rughan religion = orthodox size = 0.895 }
    }
    veria = {
-      define_pop  = {  type = clergy  culture = greek_culture religion = orthodox size = 0.009 }
-      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 13.094 }
-      define_pop  = {  type = peasants  culture = bulgarian religion = orthodox size = 4.364 }
+      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 15.797 }
+      define_pop  = {  type = peasants  culture = aromanian religion = catholic size = 1.180 }
+      define_pop  = {  type = peasants  culture = atsingani religion = manichaeism size = 0.490 }
    }
    edessa = {
-      define_pop  = {  type = clergy  culture = greek_culture religion = orthodox size = 0.009 }
-      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 10.115 }
-      define_pop  = {  type = peasants  culture = sclavene religion = orthodox size = 2.021 }
-      define_pop  = {  type = peasants  culture = bulgarian religion = orthodox size = 8.091 }
+      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 15.615 }
+      define_pop  = {  type = peasants  culture = red_croat religion = orthodox size = 1.340 }
+      define_pop  = {  type = peasants  culture = aromanian religion = catholic size = 3.281 }
    }
    kassandreia = {
       define_pop  = {  type = clergy  culture = greek_culture religion = orthodox size = 0.010 }
       define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 1.962 }
    }
    polygyros = {
-      define_pop  = {  type = clergy  culture = greek_culture religion = orthodox size = 0.010 }
-      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 14.230 }
+      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 12.022 }
+      define_pop  = {  type = peasants  culture = red_croat religion = orthodox size = 1.740 }
+      define_pop  = {  type = peasants  culture = atsingani religion = manichaeism size = 0.478 }
    }
    mount_athos = {
-      define_pop  = {  type = clergy  culture = greek_culture religion = orthodox size = 0.010 }
-      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 1.527 }
+      define_pop  = {  type = clergy  culture = greek_culture religion = orthodox size = 0.025 }
+      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 1.304 }
+      define_pop  = {  type = peasants  culture = rughan religion = orthodox size = 0.088 }
+      define_pop  = {  type = peasants  culture = bessian religion = orthodox size = 0.120 }
    }
    thessaloniki = {
-      define_pop  = {  type = nobles  culture = greek_culture religion = orthodox size = 0.023 }
-      define_pop  = {  type = clergy  culture = greek_culture religion = orthodox size = 0.189 }
-      define_pop  = {  type = burghers  culture = greek_culture religion = orthodox size = 2.449 }
-      define_pop  = {  type = burghers  culture = romanyoti religion = judaism size = 0.149 }
-      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 39.521 }
-      define_pop  = {  type = peasants  culture = romanyoti religion = judaism size = 2.070 }
+      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 32.131 }
+      define_pop  = {  type = peasants  culture = red_croat religion = orthodox size = 3.600 }
+      define_pop  = {  type = peasants  culture = rughan religion = orthodox size = 6.700 }
+      define_pop  = {  type = peasants  culture = rughan religion = mithraic_zalmoxis size = 0.650 }
+      define_pop  = {  type = peasants  culture = atsingani religion = manichaeism size = 1.320 }
    }
    kilkis = {
-      define_pop  = {  type = clergy  culture = greek_culture religion = orthodox size = 0.009 }
-      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 9.418 }
-      define_pop  = {  type = peasants  culture = bulgarian religion = orthodox size = 5.992 }
-      define_pop  = {  type = peasants  culture = aromanian religion = orthodox size = 1.711 }
+      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 12.545 }
+      define_pop  = {  type = peasants  culture = red_croat religion = orthodox size = 4.585 }
    }
    serres = {
       define_pop  = {  type = clergy  culture = greek_culture religion = orthodox size = 0.010 }
@@ -75181,9 +75189,10 @@ locations = {
       define_pop  = {  type = peasants  culture = aromanian religion = orthodox size = 1.484 }
    }
    rentina = {
-      define_pop  = {  type = clergy  culture = greek_culture religion = orthodox size = 0.009 }
-      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 16.374 }
-      define_pop  = {  type = peasants  culture = bulgarian religion = orthodox size = 2.887 }
+      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 15.700 }
+      define_pop  = {  type = peasants  culture = red_croat religion = orthodox size = 2.100 }
+      define_pop  = {  type = peasants  culture = rughan religion = orthodox size = 1.240 }
+      define_pop  = {  type = peasants  culture = rughan religion = mithraic_zalmoxis size = 0.230 }
    }
    kavala = {
       define_pop  = {  type = clergy  culture = greek_culture religion = orthodox size = 0.010 }
@@ -75199,9 +75208,10 @@ locations = {
       define_pop  = {  type = peasants  culture = bulgarian religion = orthodox size = 1.715 }
    }
    dospat = {
-      define_pop  = {  type = clergy  culture = bulgarian religion = orthodox size = 0.011 }
-      define_pop  = {  type = peasants  culture = bulgarian religion = orthodox size = 16.055 }
-      define_pop  = {  type = peasants  culture = armenian_culture religion = paulicianism size = 1.781 }
+      define_pop  = {  type = peasants  culture = bolghar_culture religion = orthodox size = 8.266 }
+      define_pop  = {  type = peasants  culture = bolghar_culture religion = jayayan_zalmukh size = 1.384 }
+      define_pop  = {  type = peasants  culture = bessian religion = orthodox size = 6.535 }
+      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 1.662 }
    }
    xanthia = {
       define_pop  = {  type = clergy  culture = greek_culture religion = orthodox size = 0.010 }
@@ -75299,12 +75309,15 @@ locations = {
       define_pop  = {  type = peasants  culture = aromanian religion = catholic size = 12.747 }
    }
    giannitsa = {
-      define_pop  = {  type = clergy  culture = greek_culture religion = orthodox size = 0.008 }
-      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 16.244 }
+      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 10.997 }
+      define_pop  = {  type = peasants  culture = rughan religion = orthodox size = 3.690 }
+      define_pop  = {  type = peasants  culture = red_croat religion = orthodox size = 1.350 }
+      define_pop  = {  type = peasants  culture = atsingani religion = catholic size = 0.215 }
    }
    gynaikokastro = {
-      define_pop  = {  type = clergy  culture = greek_culture religion = orthodox size = 0.008 }
-      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 17.925 }
+      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 16.099 }
+      define_pop  = {  type = peasants  culture = red_croat religion = orthodox size = 1.314 }
+      define_pop  = {  type = peasants  culture = atsingani religion = manichaeism size = 0.520 }
    }
    ormenio = {
       define_pop  = {  type = clergy  culture = greek_culture religion = orthodox size = 0.010 }
@@ -75318,8 +75331,8 @@ locations = {
       define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 0.752 }
    }
    tyrnavos = {
-      define_pop  = {  type = clergy  culture = greek_culture religion = orthodox size = 0.009 }
-      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 7.860 }
+      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 7.544 }
+      define_pop  = {  type = peasants  culture = atsingani religion = manichaeism size = 0.325 }
    }
    siatista = {
       define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 0.872 }
@@ -75385,32 +75398,21 @@ locations = {
       define_pop  = {  type = peasants  culture = red_croat religion = orthodox size = 1.707 }
    }
    bitola = {
-      define_pop  = {  type = clergy  culture = bulgarian religion = orthodox size = 0.010 }
-      define_pop  = {  type = peasants  culture = aromanian religion = orthodox size = 4.928 }
-      define_pop  = {  type = peasants  culture = serbian religion = orthodox size = 1.640 }
-      define_pop  = {  type = peasants  culture = bulgarian religion = orthodox size = 5.764 }
-      define_pop  = {  type = peasants  culture = bulgarian religion = bogomilism size = 2.462 }
-      define_pop  = {  type = peasants  culture = aromanian religion = bogomilism size = 1.640 }
+      define_pop  = {  type = peasants  culture = red_croat religion = orthodox size = 9.758 }
+      define_pop  = {  type = peasants  culture = aromanian religion = catholic size = 6.686 }
    }
    prilep = {
-      define_pop  = {  type = clergy  culture = bulgarian religion = orthodox size = 0.010 }
-      define_pop  = {  type = peasants  culture = aromanian religion = orthodox size = 4.726 }
-      define_pop  = {  type = peasants  culture = serbian religion = orthodox size = 1.573 }
-      define_pop  = {  type = peasants  culture = bulgarian religion = orthodox size = 5.529 }
-      define_pop  = {  type = peasants  culture = bulgarian religion = bogomilism size = 2.361 }
-      define_pop  = {  type = peasants  culture = aromanian religion = bogomilism size = 1.573 }
+      define_pop  = {  type = peasants  culture = red_croat religion = orthodox size = 11.249 }
+      define_pop  = {  type = peasants  culture = aromanian religion = catholic size = 3.152 }
    }
    kocani = {
-      define_pop  = {  type = clergy  culture = red_croat religion = mithraic_zalmoxis size = 0.012 }
-      define_pop  = {  type = peasants  culture = red_croat religion = mithraic_zalmoxis size = 17.547 }
+      define_pop  = {  type = peasants  culture = red_croat religion = orthodox size = 14.668 }
+      define_pop  = {  type = peasants  culture = aromanian religion = catholic size = 2.891 }
    }
    kicevo = {
-      define_pop  = {  type = clergy  culture = bulgarian religion = orthodox size = 0.010 }
-      define_pop  = {  type = peasants  culture = aromanian religion = orthodox size = 3.482 }
-      define_pop  = {  type = peasants  culture = serbian religion = orthodox size = 1.158 }
-      define_pop  = {  type = peasants  culture = bulgarian religion = orthodox size = 4.078 }
-      define_pop  = {  type = peasants  culture = bulgarian religion = bogomilism size = 1.739 }
-      define_pop  = {  type = peasants  culture = aromanian religion = bogomilism size = 1.158 }
+      define_pop  = {  type = peasants  culture = red_croat religion = orthodox size = 8.392 }
+      define_pop  = {  type = peasants  culture = aromanian religion = catholic size = 1.926 }
+      define_pop  = {  type = peasants  culture = albanian religion = catholic size = 1.307 }
    }
    debar = {
       define_pop  = {  type = peasants  culture = albanian religion = catholic size = 9.954 }
@@ -75418,58 +75420,45 @@ locations = {
       define_pop  = {  type = peasants  culture = red_croat religion = orthodox size = 1.032 }
    }
    tetovo = {
-      define_pop  = {  type = clergy  culture = bulgarian religion = orthodox size = 0.010 }
-      define_pop  = {  type = peasants  culture = serbian religion = orthodox size = 4.482 }
-      define_pop  = {  type = peasants  culture = bulgarian religion = orthodox size = 6.741 }
+      define_pop  = {  type = peasants  culture = red_croat religion = orthodox size = 5.611 }
+      define_pop  = {  type = peasants  culture = aromanian religion = catholic size = 5.611 }
+      define_pop  = {  type = peasants  culture = albanian religion = catholic size = 5.611 }
    }
    skopje = {
-      define_pop  = {  type = nobles  culture = serbian religion = orthodox size = 0.017 }
-      define_pop  = {  type = clergy  culture = bulgarian religion = orthodox size = 0.059 }
-      define_pop  = {  type = clergy  culture = serbian religion = orthodox size = 0.034 }
-      define_pop  = {  type = burghers  culture = bulgarian religion = orthodox size = 0.705 }
-      define_pop  = {  type = burghers  culture = serbian religion = orthodox size = 1.063 }
-      define_pop  = {  type = peasants  culture = serbian religion = orthodox size = 10.261 }
-      define_pop  = {  type = peasants  culture = bulgarian religion = orthodox size = 14.120 }
+      define_pop  = {  type = peasants  culture = red_croat religion = orthodox size = 22.565 }
+      define_pop  = {  type = peasants  culture = aromanian religion = catholic size = 3.694 }
    }
    kumanovo = {
-      define_pop  = {  type = clergy  culture = bulgarian religion = orthodox size = 0.010 }
-      define_pop  = {  type = peasants  culture = serbian religion = orthodox size = 3.846 }
-      define_pop  = {  type = peasants  culture = bulgarian religion = orthodox size = 5.786 }
+      define_pop  = {  type = peasants  culture = red_croat religion = orthodox size = 9.642 }
    }
    vranje = {
-      define_pop  = {  type = clergy  culture = serbian religion = orthodox size = 0.218 }
-      define_pop  = {  type = peasants  culture = serbian religion = orthodox size = 22.319 }
+      define_pop  = {  type = peasants  culture = red_croat religion = orthodox size = 18.202 }
+      define_pop  = {  type = peasants  culture = albanian religion = catholic size = 3.300 }
+      define_pop  = {  type = peasants  culture = moesogothic religion = arian size = 1.035 }
    }
    veles = {
-      define_pop  = {  type = clergy  culture = red_croat religion = mithraic_zalmoxis size = 0.010 }
-      define_pop  = {  type = peasants  culture = aromanian religion = orthodox size = 0.709 }
-      define_pop  = {  type = peasants  culture = red_croat religion = mithraic_zalmoxis size = 7.138 }
-      define_pop  = {  type = peasants  culture = aromanian religion = bogomilism size = 1.175 }
+      define_pop  = {  type = peasants  culture = red_croat religion = orthodox size = 8.692 }
+      define_pop  = {  type = peasants  culture = aromanian religion = catholic size = 0.340 }
    }
    prosek = {
-      define_pop  = {  type = clergy  culture = red_croat religion = mithraic_zalmoxis size = 0.010 }
-      define_pop  = {  type = peasants  culture = aromanian religion = orthodox size = 3.453 }
-      define_pop  = {  type = peasants  culture = red_croat religion = mithraic_zalmoxis size = 15.575 }
+      define_pop  = {  type = peasants  culture = red_croat religion = orthodox size = 17.428 }
+      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 0.960 }
+      define_pop  = {  type = peasants  culture = aromanian religion = catholic size = 0.650 }
    }
    shtip = {
-      define_pop  = {  type = clergy  culture = red_croat religion = mithraic_zalmoxis size = 0.010 }
-      define_pop  = {  type = peasants  culture = aromanian religion = orthodox size = 2.550 }
-      define_pop  = {  type = peasants  culture = red_croat religion = mithraic_zalmoxis size = 11.312 }
+      define_pop  = {  type = peasants  culture = red_croat religion = orthodox size = 13.382 }
+      define_pop  = {  type = peasants  culture = aromanian religion = catholic size = 0.490 }
    }
    strumica = {
-      define_pop  = {  type = clergy  culture = red_croat religion = mithraic_zalmoxis size = 0.012 }
-      define_pop  = {  type = peasants  culture = red_croat religion = mithraic_zalmoxis size = 12.282 }
+      define_pop  = {  type = peasants  culture = red_croat religion = orthodox size = 10.314 }
+      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 1.980 }
    }
    kratovo = {
-      define_pop  = {  type = clergy  culture = bulgarian religion = orthodox size = 0.010 }
-      define_pop  = {  type = peasants  culture = serbian religion = orthodox size = 2.009 }
-      define_pop  = {  type = peasants  culture = bulgarian religion = orthodox size = 4.420 }
-      define_pop  = {  type = peasants  culture = romanyoti religion = judaism size = 0.133 }
-      define_pop  = {  type = peasants  culture = german_transylvanian religion = catholic size = 0.133 }
+      define_pop  = {  type = peasants  culture = red_croat religion = orthodox size = 5.570 }
+      define_pop  = {  type = peasants  culture = aromanian religion = catholic size = 1.135 }
    }
    velbuzd = {
-      define_pop  = {  type = clergy  culture = bulgarian religion = orthodox size = 0.009 }
-      define_pop  = {  type = peasants  culture = bulgarian religion = orthodox size = 14.181 }
+      define_pop  = {  type = peasants  culture = red_croat religion = orthodox size = 14.190 }
    }
    koman = {
       define_pop  = {  type = peasants  culture = albanian religion = catholic size = 14.438 }
@@ -75537,26 +75526,23 @@ locations = {
       define_pop  = {  type = peasants  culture = aromanian religion = catholic size = 6.343 }
    }
    melnik = {
-      define_pop  = {  type = clergy  culture = bulgarian religion = orthodox size = 0.011 }
-      define_pop  = {  type = peasants  culture = bulgarian religion = orthodox size = 19.386 }
+      define_pop  = {  type = peasants  culture = red_croat religion = orthodox size = 16.250 }
+      define_pop  = {  type = peasants  culture = greek_culture religion = orthodox size = 3.147 }
    }
    krupnik = {
-      define_pop  = {  type = clergy  culture = bulgarian religion = orthodox size = 0.009 }
-      define_pop  = {  type = peasants  culture = bulgarian religion = orthodox size = 8.238 }
+      define_pop  = {  type = peasants  culture = red_croat religion = orthodox size = 7.502 }
+      define_pop  = {  type = peasants  culture = aromanian religion = catholic size = 0.745 }
    }
    dupnitsa = {
-      define_pop  = {  type = clergy  culture = bulgarian religion = orthodox size = 0.009 }
-      define_pop  = {  type = peasants  culture = bulgarian religion = orthodox size = 8.774 }
+      define_pop  = {  type = peasants  culture = red_croat religion = orthodox size = 8.783 }
    }
    bansko = {
-      define_pop  = {  type = clergy  culture = bulgarian religion = orthodox size = 0.011 }
-      define_pop  = {  type = peasants  culture = bulgarian religion = orthodox size = 6.870 }
-      define_pop  = {  type = peasants  culture = armenian_culture religion = paulicianism size = 0.761 }
+      define_pop  = {  type = peasants  culture = bessian religion = orthodox size = 6.567 }
+      define_pop  = {  type = peasants  culture = red_croat religion = orthodox size = 1.075 }
    }
    nevrokop = {
-      define_pop  = {  type = clergy  culture = bulgarian religion = orthodox size = 0.011 }
-      define_pop  = {  type = peasants  culture = bulgarian religion = orthodox size = 6.417 }
-      define_pop  = {  type = peasants  culture = armenian_culture religion = paulicianism size = 0.711 }
+      define_pop  = {  type = peasants  culture = bessian religion = orthodox size = 6.272 }
+      define_pop  = {  type = peasants  culture = red_croat religion = orthodox size = 0.867 }
    }
    sredets = {
       define_pop  = {  type = nobles  culture = bulgarian religion = orthodox size = 0.014 }
@@ -75569,13 +75555,15 @@ locations = {
       define_pop  = {  type = peasants  culture = bulgarian religion = orthodox size = 17.047 }
    }
    samokov = {
-      define_pop  = {  type = clergy  culture = bulgarian religion = orthodox size = 0.009 }
-      define_pop  = {  type = peasants  culture = bulgarian religion = orthodox size = 10.091 }
+      define_pop  = {  type = peasants  culture = red_croat religion = orthodox size = 6.242 }
+      define_pop  = {  type = peasants  culture = rughan religion = orthodox size = 2.096 }
+      define_pop  = {  type = peasants  culture = rughan religion = mithraic_zalmoxis size = 1.076 }
+      define_pop  = {  type = peasants  culture = bolghar_culture religion = jayayan_zalmukh size = 0.686 }
    }
    tsepina = {
-      define_pop  = {  type = clergy  culture = bulgarian religion = orthodox size = 0.010 }
-      define_pop  = {  type = peasants  culture = bulgarian religion = orthodox size = 15.328 }
-      define_pop  = {  type = peasants  culture = armenian_culture religion = paulicianism size = 1.701 }
+      define_pop  = {  type = peasants  culture = bolghar_culture religion = orthodox size = 9.720 }
+      define_pop  = {  type = peasants  culture = bolghar_culture religion = jayayan_zalmukh size = 3.884 }
+      define_pop  = {  type = peasants  culture = bessian religion = orthodox size = 3.435 }
    }
    smolyan = {
       define_pop  = {  type = clergy  culture = bulgarian religion = orthodox size = 0.010 }
@@ -75583,13 +75571,10 @@ locations = {
       define_pop  = {  type = peasants  culture = armenian_culture religion = paulicianism size = 1.742 }
    }
    plovdiv = {
-      define_pop  = {  type = nobles  culture = bolghar_culture religion = jayayan_zalmukh size = 0.015 }
-      define_pop  = {  type = clergy  culture = bolghar_culture religion = jayayan_zalmukh size = 0.071 }
-      define_pop  = {  type = clergy  culture = rughan religion = mithraic_zalmoxis size = 0.013 }
-      define_pop  = {  type = burghers  culture = bolghar_culture religion = jayayan_zalmukh size = 1.445 }
-      define_pop  = {  type = burghers  culture = rughan religion = mithraic_zalmoxis size = 0.159 }
-      define_pop  = {  type = peasants  culture = bolghar_culture religion = jayayan_zalmukh size = 22.521 }
-      define_pop  = {  type = peasants  culture = rughan religion = mithraic_zalmoxis size = 7.371 }
+      define_pop  = {  type = peasants  culture = bolghar_culture religion = jayayan_zalmukh size = 14.226 }
+      define_pop  = {  type = peasants  culture = bolghar_culture religion = orthodox size = 8.825 }
+      define_pop  = {  type = peasants  culture = rughan religion = orthodox size = 6.170 }
+      define_pop  = {  type = peasants  culture = rughan religion = mithraic_zalmoxis size = 2.374 }
    }
    stanimaka = {
       define_pop  = {  type = clergy  culture = bulgarian religion = orthodox size = 0.010 }
@@ -75805,9 +75790,9 @@ locations = {
       define_pop  = {  type = peasants  culture = aromanian religion = orthodox size = 2.907 }
    }
    beden = {
-      define_pop  = {  type = clergy  culture = bulgarian religion = orthodox size = 0.010 }
-      define_pop  = {  type = peasants  culture = bulgarian religion = orthodox size = 5.949 }
-      define_pop  = {  type = peasants  culture = armenian_culture religion = paulicianism size = 0.660 }
+      define_pop  = {  type = peasants  culture = bolghar_culture religion = orthodox size = 1.769 }
+      define_pop  = {  type = peasants  culture = bessian religion = orthodox size = 4.229 }
+      define_pop  = {  type = peasants  culture = bolghar_culture religion = jayayan_zalmukh size = 0.621 }
    }
    ruse = {
       define_pop  = {  type = clergy  culture = bulgarian religion = orthodox size = 0.009 }
